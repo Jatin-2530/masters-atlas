@@ -1,0 +1,4526 @@
+{
+ "p1": {
+  "process": [
+   "Check you have a first degree, work experience and a current employer (this is a part-time, modular programme).",
+   "Take IELTS/TOEFL if your degree was not taught in English.",
+   "Apply online. Early-bird deadline 15 Jan 2027 gives EUR 2,000 off.",
+   "Upload the application video, CV, degree certificate, employer letter and APS.",
+   "Pay the EUR 99 application fee. Sign the contract and pay EUR 3,000 within 14 days of admission."
+  ],
+  "documents": [
+   "CV",
+   "Digital photo",
+   "Degree certificate",
+   "English proof",
+   "Written confirmation of work experience and current employment",
+   "Application video",
+   "EUR 99 fee receipt",
+   "APS certificate (India)"
+  ],
+  "deadlines": [
+   "Early bird: 15 Jan 2027",
+   "Programme starts in May (round deadlines on the admissions page)"
+  ],
+  "tests": {
+   "english": "TOEFL iBT 85 (code 8860), IELTS Academic 6.5, TOEIC 845, telc B2, Cambridge C1/C2. Results under 2 years old. Waived after a 2-year degree taught in English.",
+   "aptitude": "GMAT/GRE not mentioned on the page.",
+   "other": "Application video."
+  },
+  "india": [
+   "APS certificate is the only India-specific document listed.",
+   "This is not a student-visa route. You need a German employer and a work visa or Blue Card, so check feasibility before paying."
+  ],
+  "scholarships": [
+   {
+    "name": "Partial scholarships",
+    "amount": "EUR 1,000 to 3,000",
+    "who": "Self-funded applicants; Outstanding Candidates and Women in Tech awards",
+    "how": "Form on request, submit with the application. Early applicants do better."
+   },
+   {
+    "name": "Certificate discount",
+    "amount": "EUR 1,000 off tuition",
+    "who": "Applicants who first complete the Management Analytics & AI in Practice Certificate"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "Years of work experience required are not stated on the page."
+  ],
+  "sources": [
+   "https://www.mannheim-business-school.com/en/mba-master-and-courses/masters-programs/mannheim-master-in-management-analytics-part-time/admissions/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p2": {
+  "process": [
+   "Check you have at least 180 ECTS (or 3 years) and 36 ECTS in business administration.",
+   "Take IELTS 7.0 or equivalent. Optional: sit the GMAT/GRE for ranking points.",
+   "Get the APS certificate (India). Apply in the Mannheim portal in the window 1 April to 15 May 2027.",
+   "Upload English proof by 15 August if you do not have it at application time.",
+   "Admission is by ranking. After admission: blocked account, insurance, visa."
+  ],
+  "documents": [
+   "Bachelor's transcript and certificate (or proof of 140 ECTS if unfinished)",
+   "English C1 proof",
+   "APS certificate",
+   "CV and motivation as listed on the portal",
+   "Optional GMAT/GRE"
+  ],
+  "deadlines": [
+   "1 April to 15 May 2027 for the fall 2027 intake (2026 round is closed)"
+  ],
+  "tests": {
+   "english": "C1 required: CAE, CPE, IELTS 7.0 or telc C1. Proof under 2 years old; may be submitted late until 15 August.",
+   "aptitude": "GMAT/GRE not mandatory but give ranking points (FAQ cites GMAT Focus above 555). Check the selection statute for the current threshold.",
+   "other": ""
+  },
+  "india": [
+   "3-year bachelor's is accepted (180 ECTS or 3 years).",
+   "Need 36 ECTS in business: a non-business Indian degree may fail this.",
+   "Fee: EUR 1,500 per semester for non-EU students plus EUR 194 semester fee (Mannheim fee page)."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university's own call"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "Whether the selection statute still sets a GMAT cut-off."
+  ],
+  "sources": [
+   "https://www.bwl.uni-mannheim.de/en/programs/master/mmm/application-information/",
+   "https://www.uni-mannheim.de/en/academics/during-your-studies/organizing-your-studies/fees/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p3": {
+  "process": [
+   "Check subject credits: 30 ECTS in business/IS, 30 in computer science (8 in programming), 18 in mathematics.",
+   "Prove English unless your bachelor's was in English. IELTS Academic 6.5 accepted.",
+   "Get APS. Apply in the portal: 1 April to 15 May (fall) or 15 Oct to 15 Nov (spring).",
+   "Ranking decides admission. Visa steps follow."
+  ],
+  "documents": [
+   "Transcript with course list",
+   "Certificate (or proof of 130-140 ECTS)",
+   "English proof",
+   "APS certificate"
+  ],
+  "deadlines": [
+   "Fall 2027: 1 April to 15 May",
+   "Spring 2027: 15 Oct to 15 Nov 2026"
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5 or Cambridge C1; waived if English was the main language of your bachelor's. Proof may be submitted by 15 Aug or 15 Jan.",
+   "aptitude": "No test.",
+   "other": ""
+  },
+  "india": [
+   "A 3-year degree meets the 180 ECTS rule.",
+   "A non-CS Indian degree may miss the 30 ECTS computer science and 18 ECTS mathematics rule. Map your syllabus before applying.",
+   "Fee: EUR 1,500 a semester plus EUR 194."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "ECTS threshold for unfinished bachelor's: pages say 130 and 140."
+  ],
+  "sources": [
+   "https://www.uni-mannheim.de/en/academics/before-your-studies/programs/masters-program-in-business-informatics/",
+   "https://www.uni-mannheim.de/en/academics/dates/application-deadlines/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p4": {
+  "process": [
+   "Check you have a bachelor's of 140 ECTS or more in management, economics, industrial engineering or similar.",
+   "Sit the GMAT: Indian degrees need at least the 65th percentile and this cannot be waived.",
+   "Get APS and a uni-assist VPD.",
+   "Apply in the TUM portal. Winter window 1 April to 31 May; summer window 1 to 30 November.",
+   "Take the aptitude assessment (scored on degree, background and GMAT). Basic German (about A1) is needed by the end of semester 2."
+  ],
+  "documents": [
+   "Degree certificate and transcript",
+   "Curricular analysis and module descriptions",
+   "CV",
+   "English proof",
+   "GMAT result",
+   "APS certificate",
+   "uni-assist VPD"
+  ],
+  "deadlines": [
+   "Winter semester: 1 April to 31 May",
+   "Summer semester: 1 to 30 November"
+  ],
+  "tests": {
+   "english": "TOEFL 88 or IELTS 6.5 (regulations), or GMAT 600, or 12 ECTS of English-taught courses.",
+   "aptitude": "GMAT Classic or Focus, at least 65th percentile for degrees from India, China, Egypt, Pakistan, Bangladesh. An older regulation says 640 points, so aim above it.",
+   "other": "Aptitude assessment."
+  },
+  "india": [
+   "GMAT is mandatory for Indian applicants.",
+   "APS certificate required.",
+   "Tuition: the programme and FAQ pages say no tuition. TUM raises non-EU fees from winter 2027/28 (EUR 4,600 or 6,800 for master's), so confirm this programme stays exempt before you plan."
+  ],
+  "scholarships": [
+   {
+    "name": "TUM fee waivers and scholarships",
+    "amount": "Varies",
+    "who": "Many international students get fees waived or receive scholarships",
+    "url": "https://www.tum.de/en/studies/fees"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Whether MMDT stays tuition-free for the 2027 intake.",
+   "Exact GMAT threshold (percentile vs 640 points)."
+  ],
+  "sources": [
+   "https://www.mgt.tum.de/programs/master-in-management-digital-technology",
+   "https://www.tum.de/en/studies/fees",
+   "https://www.mgt.tum.de/faq-center"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p5": {
+  "process": [
+   "Check your degree: a 2.2-level (Second Class Grade 2) honours degree with one quantitative module.",
+   "Prepare transcripts, English certificate and CV. The portal usually opens mid-October.",
+   "Apply online (EUR 50 fee), answer the questions on work experience and motivation, upload your CV.",
+   "Non-EU applicants should submit complete documents: complete files are prioritised.",
+   "Apply early: the course closes when full or on 15 June."
+  ],
+  "documents": [
+   "Transcripts for every semester",
+   "Degree certificate",
+   "English certificate",
+   "CV",
+   "Motivation and work-experience answers",
+   "Passport"
+  ],
+  "deadlines": [
+   "Rolling; closes when full or no later than 15 June 2027",
+   "Portal usually opens mid-October"
+  ],
+  "tests": {
+   "english": "University-approved standard (list on the PG English requirements page). A UCC sister page cites IELTS 6.5 with no band below 6.0. Confirm for this course.",
+   "aptitude": "None listed.",
+   "other": ""
+  },
+  "india": [
+   "Recognition of Prior Learning: 3 years of relevant industry experience can be considered if you miss the degree grade.",
+   "Fee: EUR 23,314 non-EU (2026/27). This replaces the earlier estimate of EUR 18,500."
+  ],
+  "scholarships": [
+   {
+    "name": "Merit and international awards",
+    "amount": "Varies",
+    "who": "Not listed on the course page. Ask UCC international office."
+   },
+   {
+    "name": "Government of Ireland International Education Scholarship",
+    "amount": "EUR 10,000 plus fee waiver",
+    "who": "If UCC lists the course as eligible",
+    "url": "https://hea.ie/policy/internationalisation/goi-ies/"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "IELTS band for this course.",
+   "Scholarship availability."
+  ],
+  "sources": [
+   "https://www.ucc.ie/en/ckl51/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p6": {
+  "process": [
+   "Check 30 ECTS in business/economics plus 24 ECTS in statistics, maths, IS or informatics (or 48 in those).",
+   "Request a uni-assist VPD for Cologne now: it takes about 8 weeks.",
+   "Optional: GMAT or GTEBS for up to 32 extra points; release scores to Cologne by 15 June.",
+   "Apply in KLIPS from mid-April to 15 June. Late documents are rejected.",
+   "Ranking: up to 68 points from the bachelor's grade plus 32 from the test."
+  ],
+  "documents": [
+   "Bachelor's certificate or proof of 144 of 180 ECTS",
+   "Transcript with certified provisional grade",
+   "Subject-related admission criteria PDF",
+   "School-leaving certificate",
+   "Module descriptions",
+   "English proof",
+   "VPD from uni-assist"
+  ],
+  "deadlines": [
+   "15 June (applications open mid-April). Page is being revised for 2027."
+  ],
+  "tests": {
+   "english": "B2: IELTS 5.5, TOEFL iBT 72, Cambridge B2+, or a fully English-taught degree.",
+   "aptitude": "GMAT or GTEBS optional. A percentile below 36 earns 0 points.",
+   "other": ""
+  },
+  "india": [
+   "Minimum German grade 2.5 on the faculty page (older brochure says 2.7). Convert your CGPA on the uni-assist/anabin scale and check.",
+   "A 3-year bachelor's with 180 ECTS qualifies.",
+   "No tuition for non-EU students; you pay the semester contribution, which includes the Deutschlandticket."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "2027 deadline and thresholds (page is under revision until about December)."
+  ],
+  "sources": [
+   "https://wiso.uni-koeln.de/en/studies/application/master/master-business-analytics-and-econometrics"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p7": {
+  "process": [
+   "Check you have 140 ECTS or more in management, technology or related.",
+   "Sit the GMAT: Indian degrees need at least the 65th percentile (cannot be waived). Scores of 72% and above earn extra points.",
+   "Get APS and a uni-assist VPD.",
+   "Apply in the TUM portal. Stage one scores your degree grade, background and GMAT; then an online test.",
+   "A combined score of 70 or more is admitted; 69 or less is rejected."
+  ],
+  "documents": [
+   "Transcript and degree certificate",
+   "Module descriptions",
+   "CV",
+   "English proof",
+   "GMAT result",
+   "APS certificate",
+   "VPD from uni-assist"
+  ],
+  "deadlines": [
+   "Check the how-to-apply page for the 2027 windows (not stated on the page I read)."
+  ],
+  "tests": {
+   "english": "Recognised test, or 12 ECTS of English-taught courses, or GMAT at the 53rd percentile.",
+   "aptitude": "GMAT mandatory for Indian applicants (65th percentile minimum).",
+   "other": "Online aptitude test."
+  },
+  "india": [
+   "GMAT is mandatory, APS is mandatory.",
+   "Tuition EUR 4,000 per semester on the programme page today. TUM raises non-EU master's fees from winter 2027/28, so the 2027 intake may pay more."
+  ],
+  "scholarships": [
+   {
+    "name": "TUM fee waivers and scholarships",
+    "amount": "Varies",
+    "who": "Many international students get fees waived or receive scholarships",
+    "url": "https://www.tum.de/en/studies/fees"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 deadlines.",
+   "Fee for the 2027 intake."
+  ],
+  "sources": [
+   "https://www.mgt.tum.de/programs/master-in-management-technology/how-to-apply",
+   "https://www.tum.de/en/studies/fees"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p8": {
+  "process": [
+   "Check you have a 2.1-equivalent degree in a relevant discipline (a 2.2 is reviewed case by case).",
+   "Check English: IELTS 6.5 overall, with 6.5 in writing and speaking (other table version says 6.0 in each band).",
+   "Apply through the DCU portal. The September 2027 intake is open; January 2027 is closed.",
+   "All non-EU applications to the Business School are automatically considered for the Business School International Scholarship."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "IELTS certificate under 2 years old",
+   "CV and passport"
+  ],
+  "deadlines": [
+   "September 2027 intake open; closing date not stated on the page"
+  ],
+  "tests": {
+   "english": "IELTS 6.5 overall; DCU pages differ on sub-bands (6.5 writing and speaking, or 6.0 in all). Certificate must be within 2 years of the start.",
+   "aptitude": "None listed.",
+   "other": ""
+  },
+  "india": [
+   "The course is now titled MSc in Business Analytics and Artificial Intelligence (DC560). The 2027-28 fee sheet carries a note that the older MSc in Business Analytics will not run in September 2027: confirm which course you are applying to.",
+   "Fee: EUR 23,500 non-EU (replaces the EUR 19,000 estimate)."
+  ],
+  "scholarships": [
+   {
+    "name": "DCU Business School International Scholarship",
+    "amount": "EUR 2,800 off the 2027-28 non-EU fee",
+    "who": "Automatic for non-EU full-time Business School applicants",
+    "url": "https://www.dcu.ie/global/dcu-international-scholarships-non-eu-students-2027-28"
+   },
+   {
+    "name": "Government of Ireland International Education Scholarship (DCU)",
+    "amount": "Full fee waiver plus EUR 10,000",
+    "who": "3 DCU places a year; some Business School masters eligible",
+    "url": "https://www.dcu.ie/global/GOI-Scholarship"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Closing date",
+   "IELTS sub-band rule"
+  ],
+  "sources": [
+   "https://business.dcu.ie/course/msc-in-business-analytics/",
+   "https://www.dcu.ie/fees/postgraduate-fees-2027-28",
+   "https://business.dcu.ie/scholarships/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p9": {
+  "process": [
+   "Check you have a 2.1-equivalent degree in a quantitative subject.",
+   "Applications for September 2027 open in November 2026 and run on a rolling basis to 31 July 2027.",
+   "Apply online with transcripts and English proof.",
+   "A GMAT may be requested in specific cases but is not required at application.",
+   "Offers are rolling and competitive: apply early."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "English certificate",
+   "CV",
+   "Passport"
+  ],
+  "deadlines": [
+   "Opens November 2026",
+   "Closes 31 July 2027 (waitlist available)"
+  ],
+  "tests": {
+   "english": "Trinity Band B (standard entry). The Business School apply page cites IELTS 6.5 overall, 7.0 for select programmes.",
+   "aptitude": "GMAT/GRE not required; may be requested.",
+   "other": ""
+  },
+  "india": [
+   "Recent graduates can apply: work experience is optional.",
+   "Fee not on the course page; the existing figure EUR 23,950 for 2026/27 came from an earlier check."
+  ],
+  "scholarships": [
+   {
+    "name": "Global Excellence Postgraduate Scholarship",
+    "amount": "EUR 2,000 to 5,000 by region",
+    "who": "Business courses are excluded from this scheme; email business.masters@tcd.ie",
+    "url": "https://www.tcd.ie/study/international/scholarships/postgraduate/gexpg.php"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fee for 2027 intake",
+   "Scholarship for this course"
+  ],
+  "sources": [
+   "https://www.tcd.ie/courses/postgraduate/courses/business-analytics-and-ai-for-management-msc/",
+   "https://www.tcd.ie/business/programmes/masters-programmes/admissions/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p10": {
+  "process": [
+   "Check you have a 2.1 degree (or 2.2 with 2 years of relevant work) with some quantitative content.",
+   "Apply in the University of Galway portal, which typically opens 1 October for the next September.",
+   "Upload documents electronically. Rolling admission with no fixed closing date.",
+   "Pay the deposit after offer to hold the place and to qualify for the merit award."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "English proof",
+   "CV",
+   "Passport"
+  ],
+  "deadlines": [
+   "Portal opens about 1 October; rolling; next intake September 2027"
+  ],
+  "tests": {
+   "english": "IELTS 6.5 with no band below 6.0, or equivalent.",
+   "aptitude": "None. No coding experience needed.",
+   "other": ""
+  },
+  "india": [
+   "Fee: EUR 22,250 non-EU for 2027/28 (EUR 22,100 plus EUR 150 levy). The earlier EUR 19,000 estimate was low.",
+   "A 2.2 with 2 years of work is considered."
+  ],
+  "scholarships": [
+   {
+    "name": "Cairnes School Merit Scholarship",
+    "amount": "Up to 50% of tuition",
+    "who": "H1 or international equivalent in your degree"
+   },
+   {
+    "name": "International merit award",
+    "amount": "EUR 2,000 tuition reduction",
+    "who": "Listed for some schools; check the business school"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "Merit amount for Business Analytics"
+  ],
+  "sources": [
+   "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/business-analytics.html",
+   "https://www.universityofgalway.ie/postgraduate_scholarships/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p11": {
+  "process": [
+   "Apply to the English-taught Master in Management Science (this row was labelled 'M.Sc. Management').",
+   "Prove English: TOEFL iBT 95 or IELTS 7.0 (or Cambridge C1).",
+   "Apply 1 April to 15 May. The date is strict.",
+   "Selection: bachelor's grade 51%, quantitative-methods credits 39%, GMAT/GRE 6% (optional).",
+   "The committee sets the cut-off after reviewing all applications."
+  ],
+  "documents": [
+   "Transcript and degree (or proof of 80% of credits)",
+   "English proof",
+   "Quantitative-methods credit evidence",
+   "Optional GMAT/GRE",
+   "Likely uni-assist VPD and APS: confirm on the portal"
+  ],
+  "deadlines": [
+   "1 April to 15 May"
+  ],
+  "tests": {
+   "english": "TOEFL iBT 95, IELTS 7.0, UNIcert III, Cambridge C1. One page says B2 stated on the certificate; ask admissions which applies.",
+   "aptitude": "GMAT/GRE optional, worth 6% with no minimum.",
+   "other": ""
+  },
+  "india": [
+   "Strong quantitative credits matter: 39% of the score.",
+   "Hesse charges no tuition to non-EU students; you pay the semester contribution (confirm on the fee page)."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "The programme name and fit for your background.",
+   "APS/uni-assist wording for this faculty.",
+   "Tuition status."
+  ],
+  "sources": [
+   "https://www.wiwi.uni-frankfurt.de/en/study/study-programs/master/master-in-management-science/application",
+   "https://www.wiwi.uni-frankfurt.de/en/study/study-programs/master/master-in-management-science/selection-process"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p12": {
+  "process": [
+   "Check your English is C1 and your degree is recognised by RSM as equal to a Dutch bachelor's.",
+   "Sit the GMAT: it is required for any non-Dutch diploma, and RSM accepts a GRE score in some cases.",
+   "Apply from 1 October. The programme closes at 270 applications or 15 May, whichever comes first.",
+   "Upload CV, transcripts, diploma, English proof and the GMAT report. Test results are due by 31 January even if the programme fills early.",
+   "Pre-screening 2 to 4 weeks, then evaluation 6 to 10 weeks. Outcomes: eligibility statement, conditional offer, alternative offer or denial.",
+   "Non-EU students follow a separate tuition payment procedure for the visa."
+  ],
+  "documents": [
+   "CV",
+   "Secondary school diploma",
+   "Bachelor diploma or transcript",
+   "Proof of C1 English",
+   "GMAT report",
+   "Certified copies with original stamp (photocopies rejected)"
+  ],
+  "deadlines": [
+   "Opens 1 October 2026",
+   "Test scores: 31 January 2027",
+   "Closes at 270 applications or 15 May 2027"
+  ],
+  "tests": {
+   "english": "CEFR C1 via TOEFL, IELTS, Cambridge or the Erasmus language test. No minimum score listed.",
+   "aptitude": "GMAT required for non-Dutch diplomas (RSM support page cites 565 Focus or 600 old; GRE 316 with 160 quant is an accepted alternative). Check the current RSM page.",
+   "other": "None listed."
+  },
+  "india": [
+   "The programme page showed 'applications closed, maximum reached' when read, so apply the day it opens.",
+   "Tuition EUR 28,000 for non-EEA students for 2027-28, 12 months.",
+   "Nuffic may rate a 3-year Indian pass degree below WO level: ask for an eligibility check."
+  ],
+  "scholarships": [
+   {
+    "name": "Erasmus Trustfonds Scholarship",
+    "amount": "Not stated",
+    "who": "EEA/EU nationals only: not open to you"
+   },
+   {
+    "name": "NL Scholarship",
+    "amount": "Check studyinnl.org",
+    "who": "Non-EEA students via the university",
+    "url": "https://www.nuffic.nl/en/nl-scholarship"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Exact GMAT/GRE scores required",
+   "Whether the 2027 round is open"
+  ],
+  "sources": [
+   "https://www.rsm.nl/education/master/msc-programmes/how-to-apply/",
+   "https://www.rsm.nl/education/master/msc-programmes/mscba-business-analytics-management/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p13": {
+  "process": [
+   "Check you have a 2.2 or better with quantitative content (MIS, maths or similar).",
+   "Apply online (EUR 70). Rolling admission with no official deadline.",
+   "Take the offer. Pay the EUR 1,500 non-refundable deposit.",
+   "Offers can be conditional on an English test."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "English proof",
+   "CV",
+   "Passport"
+  ],
+  "deadlines": [
+   "Rolling; September 2027 start"
+  ],
+  "tests": {
+   "english": "UCD postgraduate standard: confirm on the course page (not captured in my fetch).",
+   "aptitude": "GMAT/GRE not normally required; the Director may ask for one.",
+   "other": ""
+  },
+  "india": [
+   "Fee EUR 26,180 non-EU full-time (2026/27).",
+   "UCD has run an Indian Academic Excellence Scholarship; the last listed cycle was closed, so check whether it reopens."
+  ],
+  "scholarships": [
+   {
+    "name": "Indian Academic Excellence Scholarship (Smurfit)",
+    "amount": "5 awards of 50% and 4 of 25% of MSc tuition in the last cycle",
+    "who": "Indian applicants with high academic records; page was from a closed 2025 intake",
+    "url": "https://www.smurfitschool.ie/admissions/scholarships/indianacademicexcellencescholarship/"
+   },
+   {
+    "name": "UCD international student scholarship",
+    "amount": "10% to 35% tuition discount",
+    "who": "Assessed at offer",
+    "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Whether the Indian scholarship reopens for 2027",
+   "English score"
+  ],
+  "sources": [
+   "https://www.smurfitschool.ie/programmes/masters/mscinbusinessanalytics/eligibilityfees/",
+   "https://www.ucd.ie/courses/b154"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p14": {
+  "process": [
+   "Check your degree has maths, computer science, business, economics, engineering or science content and a statistics course covering hypothesis testing and regression.",
+   "Check your final 60 credit hours show a B average (3.0).",
+   "Take TOEFL iBT 92 (no section below 20) or IELTS 6.5 (no band below 6.0).",
+   "Apply with a CV. An interview may be required. Work experience is desired but not mandatory.",
+   "Contact info.sobeygrad@smu.ca for the current deadline: I did not find one."
+  ],
+  "documents": [
+   "Transcripts",
+   "CV",
+   "English test",
+   "Statistics course evidence"
+  ],
+  "deadlines": [
+   "Not found in the brochure for September 2026; ask the programme"
+  ],
+  "tests": {
+   "english": "TOEFL iBT 92 (20 per band) or IELTS 6.5 (6.0 per band).",
+   "aptitude": "No GMAT/GRE found in the requirements: confirm.",
+   "other": "Possible interview."
+  },
+  "india": [
+   "Fee about C$51,500 for international students (brochure, 2026 admission, subject to change).",
+   "A 4-year degree is expected for graduate admission in Canada: check this programme's page for 3-year degrees."
+  ],
+  "scholarships": [
+   {
+    "name": "Not listed in the brochure",
+    "amount": "-",
+    "who": "Ask the programme"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadline",
+   "GMAT/GRE",
+   "Scholarships",
+   "3-year degree policy"
+  ],
+  "sources": [
+   "https://www.smu.ca/webfiles/MBAN_Brochure_2026_WEB.pdf",
+   "https://www.smu.ca/sobey/edba/admissions/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p15": {
+  "process": [
+   "Sit the GMAT (minimum 515 with 50th percentile in verbal, quant and data insight) or GRE (155 per section). Competitive range 605+ GMAT Focus or 330+ GRE.",
+   "Waivers are case by case: B+ degree with four quantitative courses, CFA Level II, or a PhD.",
+   "Take IELTS Academic 7.0 (check whether 6.0 or 6.5 per band applies).",
+   "Choose a round: Round 1 6 Oct 2026, Round 2 8 Jan 2027 (recommended for international applicants), final 2 March 2027.",
+   "Two references. Decision by 23 April 2027. Official documents by 30 June 2027."
+  ],
+  "documents": [
+   "Transcripts",
+   "GMAT/GRE",
+   "IELTS",
+   "Two references",
+   "Resume",
+   "Essays and video as on the portal"
+  ],
+  "deadlines": [
+   "Early bird 4 Aug 2026",
+   "Round 1: 6 Oct 2026",
+   "Round 2: 8 Jan 2027",
+   "Final: 2 March 2027"
+  ],
+  "tests": {
+   "english": "IELTS Academic 7.0 overall; older page adds no band below 6.0.",
+   "aptitude": "GMAT 515+ (50th percentile in each section) or GRE 155 per section; waiver possible.",
+   "other": "Interview as per portal."
+  },
+  "india": [
+   "Tuition C$75,436 for international students for the August 2027 intake (replaces the earlier estimate), 12 months.",
+   "B+ average: check how Sauder converts your percentage."
+  ],
+  "scholarships": [
+   {
+    "name": "Sauder MBAN entrance awards",
+    "amount": "Not captured",
+    "who": "Check the MBAN financing page"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "IELTS band minimum",
+   "Scholarship amounts"
+  ],
+  "sources": [
+   "https://www.sauder.ubc.ca/master-business-analytics/application-process/mban-admission-requirements",
+   "https://org-www.sauder.ubc.ca/master-business-analytics/application-process/mban-application-deadlines"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p16": {
+  "process": [
+   "Check you have a 180 ECTS bachelor's in a relevant subject.",
+   "Provide a GMAT or GRE score, or two letters of recommendation.",
+   "Use the first priority deadline (early October) if you need a visa. Later rounds exist (the 2027 dates for sister programmes are 8 Jan and 8 Mar).",
+   "Start the visa process early."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "GMAT/GRE or two references",
+   "English proof",
+   "CV"
+  ],
+  "deadlines": [
+   "Priority deadline early October; other rounds Jan and March (sister programmes)"
+  ],
+  "tests": {
+   "english": "IELTS 7.0 or TOEFL 100 (check the programme page).",
+   "aptitude": "GMAT, GRE or two recommendation letters.",
+   "other": ""
+  },
+  "india": [
+   "A 3-year Indian B.Sc or B.Com may meet 180 ECTS: ask WU to check your credit mapping.",
+   "Tuition: non-EU students pay a per-semester fee: check the WU fee page."
+  ],
+  "scholarships": [
+   {
+    "name": "WU scholarships",
+    "amount": "Not captured",
+    "who": "Check the WU page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Tuition amount",
+   "Exact deadlines"
+  ],
+  "sources": [
+   "https://www.wu.ac.at/en/programs/masters-programs/digital-economy/application-admission/",
+   "https://www.wu.ac.at/en/programs/application-and-admission/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p17": {
+  "process": [
+   "Check your GPA is at least 5.0 in the 90 points of the most advanced courses of your bachelor's.",
+   "Have a business statistics course (STATS 108) or equivalent.",
+   "Take IELTS Academic 6.5 with no band below 6.0.",
+   "Apply to the limited-entry programme: selection criteria apply."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "IELTS",
+   "Statistics course evidence"
+  ],
+  "deadlines": [
+   "Not captured: check the programme page's fees and dates section"
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5 (no band below 6.0), TOEFL, PTE or pathway.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Auckland lists India's entry score as First Class on one page and a B average in the most advanced courses on another: ask which applies."
+  ],
+  "scholarships": [
+   {
+    "name": "University of Auckland India High Achievers Scholarship",
+    "amount": "Not captured",
+    "who": "Value and eligibility unknown"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "India mapping",
+   "Deadline",
+   "Scholarship"
+  ],
+  "sources": [
+   "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-analytics.html",
+   "https://www.businessmasters.auckland.ac.nz/programme-information/master-of-business-analytics/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p18": {
+  "process": [
+   "Check you have 15 ECTS in academic research (10 quantitative) and business courses in at least two of strategy, management, marketing, leadership, entrepreneurship.",
+   "Sit the GMAT Focus (535 minimum, 565 preferred) or GRE (152 quantitative minimum, 155 preferred). Online versions are accepted for September 2027.",
+   "Sit TOEFL iBT 92 (22 per section) or IELTS 6.5. Tests must be taken on or after 1 September 2025.",
+   "Pay the application fee, then submit with a one-page motivation letter. Scholarship deadline 15 January 2027; visa and housing deadline 1 April 2027.",
+   "Admission goes to the highest GPAs until places fill. Pay tuition by 31 August 2027."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "Motivation letter (max 1 A4 page)",
+   "GMAT/GRE report (codes 0500 / 7878)",
+   "English test (TOEFL code 9011)"
+  ],
+  "deadlines": [
+   "Scholarship consideration: 15 Jan 2027",
+   "Visa/housing: 1 April 2027",
+   "Tuition payment: 31 Aug 2027"
+  ],
+  "tests": {
+   "english": "TOEFL iBT 92 with 22 per section; IELTS 6.5 with 6.0/6.0/6.5/6.5. India is not on the exemption list.",
+   "aptitude": "GMAT Focus 535 (565 preferred) or GRE 152 quantitative (155 preferred).",
+   "other": ""
+  },
+  "india": [
+   "GPA of 7.0 on the Dutch scale over years 1 to 3; UvA links an Indian grade-equivalence guide.",
+   "The pages do not say whether a 3-year degree qualifies; Nuffic rates a B.Com (Pass) at HBO level, so ask UvA first.",
+   "The page I read covers the general MSc Business Administration, not the Digital Business track specifically; tuition for non-EU was not on it."
+  ],
+  "scholarships": [
+   {
+    "name": "UvA scholarships for non-EU students",
+    "amount": "Not captured",
+    "who": "Apply by 15 January 2027 with the application"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Digital Business track details",
+   "Non-EU tuition (EUR 20,000 is an old estimate)"
+  ],
+  "sources": [
+   "https://www.uva.nl/en/programmes/masters/business-administration/application-and-admission/students-with-international-prior-education/international-applicants.html",
+   "https://www.uva.nl/en/programmes/masters/business-administration/application-and-admission/application-and-admission.html"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p19": {
+  "process": [
+   "Check you have a 180 ECTS bachelor's with the business and IS credits WU asks for.",
+   "Provide aptitude proof (GMAT, GRE or two letters of recommendation) if the programme requires it: confirm on the page.",
+   "Apply by the priority deadline (early October) if you need a visa.",
+   "Start the visa process early."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "References or GMAT/GRE",
+   "English proof"
+  ],
+  "deadlines": [
+   "Priority deadline early October; other rounds Jan and March"
+  ],
+  "tests": {
+   "english": "IELTS 7.0 or TOEFL 100 (confirm for this programme).",
+   "aptitude": "To confirm on the programme page.",
+   "other": ""
+  },
+  "india": [
+   "Same credit-mapping risk as the Digital Economy master's."
+  ],
+  "scholarships": [
+   {
+    "name": "WU scholarships",
+    "amount": "Not captured",
+    "who": "Check the WU page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Programme-specific requirements",
+   "Tuition amount"
+  ],
+  "sources": [
+   "https://www.wu.ac.at/en/programs/masters-programs",
+   "https://www.wu.ac.at/en/programs/application-and-admission/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p20": {
+  "process": [
+   "Check you have a degree (completed or expected) with a B average, plus B or better in quantitative coursework or relevant experience.",
+   "GMAT/GRE is optional supporting evidence.",
+   "Take an English test: it cannot be waived for non-English-medium degrees (stated on the sister MMAI page: confirm).",
+   "Apply early: reviews are rolling. The class beginning May 2027 is open. Application fee C$125."
+  ],
+  "documents": [
+   "Transcripts",
+   "Resume",
+   "References as on the portal",
+   "English test",
+   "C$125 fee"
+  ],
+  "deadlines": [
+   "Rolling; May 2027 class now open"
+  ],
+  "tests": {
+   "english": "A firm requirement (cannot be waived) for those not educated in English. Scores not captured.",
+   "aptitude": "GMAT/GRE not required; may be requested.",
+   "other": ""
+  },
+  "india": [
+   "Tuition for international students was not found: the existing figure is an earlier estimate."
+  ],
+  "scholarships": [
+   {
+    "name": "Vector Institute Scholarships",
+    "amount": "C$17,500",
+    "who": "Merit, via Queen's"
+   },
+   {
+    "name": "Dean's Entrance Scholarships",
+    "amount": "Limited",
+    "who": "Based on GPA, prerequisite GPA, career progress"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "International tuition",
+   "English scores"
+  ],
+  "sources": [
+   "https://smith.queensu.ca/grad_studies/mma/program-details/admissions-requirements.php",
+   "https://smith.queensu.ca/grad_studies/mma-ft/program-details/admission-requirements.php"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p21": {
+  "process": [
+   "Check you have at least 12 ECTS in relevant subjects (logistics, management science, information systems).",
+   "Apply in the master's window: 7 December 2026 to 5 January 2027 (3 pm UTC+2). Pay the EUR 100 application fee (no waivers).",
+   "Tick the Excellence Scholarship box in the form if you want a tuition waiver considered.",
+   "Upload documents by 12 January 2027. Results by 12 March 2027."
+  ],
+  "documents": [
+   "Degree and transcripts",
+   "English proof",
+   "CV",
+   "Motivation",
+   "Application fee receipt"
+  ],
+  "deadlines": [
+   "Application: 7 Dec 2026 to 5 Jan 2027",
+   "Documents: 12 Jan 2027",
+   "Results: 12 Mar 2027"
+  ],
+  "tests": {
+   "english": "Per Aalto's language requirements page (scores not captured here).",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Programme fee EUR 15,000 per academic year for non-EU/EEA citizens (EUR 30,000 over two years).",
+   "Scholarships do not cover the EUR 800 a month living-cost proof."
+  ],
+  "scholarships": [
+   {
+    "name": "Aalto Excellence Scholarship",
+    "amount": "Full tuition waiver",
+    "who": "Few awards; decided at admission",
+    "url": "https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "English scores"
+  ],
+  "sources": [
+   "https://www.aalto.fi/en/study-options/information-and-service-management-master-of-science-economics-and-business-administration",
+   "https://www.aalto.fi/en/admission-services/apply-to-masters-programmes"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p22": {
+  "process": [
+   "Check you have a 180 ECTS bachelor's.",
+   "Take TOEFL or TOEIC (listening and reading) or IELTS within the last two years.",
+   "Apply to the programme (now called MSc in Business Analytics & AI, 15 months): ESCP says management tests are no longer required for MSc applications.",
+   "Apply early: ESCP runs rolling rounds; I did not find the 2027 dates."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "CV",
+   "English test",
+   "Motivation"
+  ],
+  "deadlines": [
+   "Rolling rounds: not captured"
+  ],
+  "tests": {
+   "english": "TOEFL/TOEIC (listening and reading) or IELTS within 2 years: score not captured.",
+   "aptitude": "No GMAT/GRE required for the MSc.",
+   "other": ""
+  },
+  "india": [
+   "The programme is now titled MSc in Business Analytics & AI, 15 months full-time.",
+   "Fee not found: the EUR 27,000 figure is an old estimate."
+  ],
+  "scholarships": [
+   {
+    "name": "ESCP scholarships",
+    "amount": "Not captured",
+    "who": "Check the ESCP page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fee",
+   "Deadlines",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://escp.eu/programmes/specialised-masters-MSc/MSc-in-Business-Analytics-in-AI"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p23": {
+  "process": [
+   "Check you have a 4-year degree with a mid-B (3.0 U of T) average in the final year and strong quantitative and programming background.",
+   "Prove IELTS Academic 7.0 with 6.5 per band, or an English-medium degree. TOEFL uses the new scale.",
+   "Choose a round: Round 1 14 Oct 2026, Round 2 20 Jan 2027, final 24 March 2027.",
+   "You may receive a conditional offer if missing Foundations of Finance, Financial Accounting, Statistics or Python: you pass a short qualifying assessment for each.",
+   "Application fee C$195."
+  ],
+  "documents": [
+   "Transcripts",
+   "Resume",
+   "English proof",
+   "Essays and references as on the portal"
+  ],
+  "deadlines": [
+   "Round 1: 14 Oct 2026",
+   "Round 2: 20 Jan 2027",
+   "Final: 24 March 2027"
+  ],
+  "tests": {
+   "english": "IELTS Academic 7.0 with at least 6.5 in each band, or an English-language degree.",
+   "aptitude": "GMAT or GRE encouraged but not required.",
+   "other": ""
+  },
+  "india": [
+   "4-year degree required: a 3-year Indian degree will not qualify on its own."
+  ],
+  "scholarships": [
+   {
+    "name": "Rotman MMA scholarships",
+    "amount": "See tuition and scholarships page",
+    "who": "Merit-based; page already used for the fee",
+    "url": "https://www.rotman.utoronto.ca/programs/specialized-programs/master-of-management-analytics/tuition-scholarships/"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "Scholarship amounts"
+  ],
+  "sources": [
+   "https://www.rotman.utoronto.ca/programs/specialized-programs/master-of-management-analytics/admissions/",
+   "https://www.rotman.utoronto.ca/programs/specialized-programs/master-of-management-analytics/tuition-scholarships/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p24": {
+  "process": [
+   "Check you have prior knowledge in statistics and research methodology: the committee may reject you or suggest a pre-Master's.",
+   "Take IELTS Academic 6.5 (6.0 writing and speaking) or TOEFL iBT 5 on the new scale.",
+   "Register in Studielink and submit all documents in OSIRIS Aanmeld by 1 April for the end-of-August start (1 October for January).",
+   "Pay the EUR 100 fee for non-Dutch diplomas."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "English test",
+   "Motivation and CV as listed in OSIRIS"
+  ],
+  "deadlines": [
+   "1 April 2027 (non-EEA, August start)",
+   "1 October (January start)"
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5 with 6.0 in writing and speaking; TOEFL iBT 5 overall and 5 in writing and speaking for tests after 21 Jan 2026. Under 2 years old.",
+   "aptitude": "GMAT/GRE not obligatory per Tilburg's general master's page; confirm for this programme.",
+   "other": ""
+  },
+  "india": [
+   "Non-EEA tuition for 2027-28 was not found; the EUR 19,000 figure is an old estimate.",
+   "Admission is individual: a relevant degree does not guarantee a place."
+  ],
+  "scholarships": [
+   {
+    "name": "Tilburg scholarships for non-EEA students",
+    "amount": "Not captured",
+    "who": "Check Tilburg's scholarship page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Tuition",
+   "GRE/GMAT for this programme",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.tilburguniversity.edu/education/masters-programs/data-science-and-society/application"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p25": {
+  "process": [
+   "Take the ESADE admission test, or the GMAT Focus or GRE General (at home accepted). GMAT code 93M-3K-26; GRE code 5761.",
+   "Apply in one of nine rounds for the 2027 intake (18 Nov 2026 to 30 June 2027). The September 2027 start fills first-come.",
+   "Check which fee applies: the general page lists EUR 39,000 for the one-year masters; the programme fees page shows two-year options (EUR 21,300 for year 1)."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "CV",
+   "Test result",
+   "English proof",
+   "Application fee (includes the ESADE test)"
+  ],
+  "deadlines": [
+   "Nine rounds, 18 Nov 2026 to 30 June 2027"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "ESADE test, GMAT Focus or GRE. Recent classes averaged about 615 GMAT (current) and 160 to 162 GRE.",
+   "other": ""
+  },
+  "india": [
+   "Degrees in business, engineering, maths or computing qualify.",
+   "Esade points Indian applicants to WeMakeScholars for external funding."
+  ],
+  "scholarships": [
+   {
+    "name": "WeMakeScholars (external)",
+    "amount": "Varies",
+    "who": "Listed by Esade for Indian applicants"
+   },
+   {
+    "name": "Esade scholarships",
+    "amount": "Not captured",
+    "who": "See fees and financing"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Which fee applies",
+   "English score"
+  ],
+  "sources": [
+   "https://www.esade.edu/master-of-science/en/admissions",
+   "https://www.esade.edu/master-of-science/en/program/masters-in-business-analytics/fees-and-financing"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p26": {
+  "process": [
+   "Apply online in the portal. Early Bird 1: 30 Nov 2026 (EUR 4,000 off). Early Bird 2: 31 March 2027 (EUR 2,000 off).",
+   "Document review.",
+   "Online admissions interview.",
+   "Decision by email covering admission and scholarship. Final deadline 30 June 2027; start 23 August 2027."
+  ],
+  "documents": [
+   "Bachelor's of at least 180 ECTS",
+   "English proof",
+   "GMAT/GRE or BT Methods test result",
+   "Application fee EUR 100",
+   "APS certificate for the visa (India)"
+  ],
+  "deadlines": [
+   "30 Nov 2026 (Early Bird 1)",
+   "31 March 2027 (Early Bird 2)",
+   "30 June 2027 (final; late applications cannot be considered for scholarships)"
+  ],
+  "tests": {
+   "english": "IELTS 7.0 or equivalent. The page lists 'TOEFL 5.0 iBT' which looks like a typo; the regulations say 90 iBT. Waived if the bachelor's was in English.",
+   "aptitude": "GMAT or GRE, or the Frankfurt School BT Methods test (can be taken once).",
+   "other": "Admissions interview."
+  },
+  "india": [
+   "Private school: EUR 35,500 tuition plus EUR 600 enrolment and EUR 100 application fee.",
+   "APS needed for the visa.",
+   "Teaching runs on a 3-day model so part-time work is possible within the work-day limits."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit; about 60 awarded in 2025/26"
+   },
+   {
+    "name": "President's Scholarship",
+    "amount": "Up to 100% tuition",
+    "who": "Selected during admission; no separate application (from an earlier page)"
+   },
+   {
+    "name": "Merit and need-based awards",
+    "amount": "Not listed",
+    "who": "Via the school"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "President's Scholarship terms for 2027.",
+   "TOEFL threshold."
+  ],
+  "sources": [
+   "https://www.frankfurt-school.de/en/study/master/master-in-management"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p27": {
+  "process": [
+   "Prepare a one-page English CV, authenticated degree copies and official transcripts.",
+   "Take one management test and one English test (ESSEC does not name accepted tests on the page I read).",
+   "Apply (EUR 120 non-refundable). One academic and one professional reference are highly recommended.",
+   "Pay the EUR 5,000 deposit within two weeks of admission: it is deducted from tuition.",
+   "Without a final diploma, apply with an enrolment certificate; the diploma is due by mid-December of the starting year."
+  ],
+  "documents": [
+   "English CV",
+   "Authenticated degree copies",
+   "Official transcripts from high school onward",
+   "References",
+   "Management and English test results"
+  ],
+  "deadlines": [
+   "Not captured"
+  ],
+  "tests": {
+   "english": "A sister programme lists TOEFL iBT 90 or IELTS 6.5 (DSBA threshold not confirmed).",
+   "aptitude": "One management test score (type not stated).",
+   "other": ""
+  },
+  "india": [
+   "Tuition amounts did not appear: the EUR 33,000 figure is an old estimate."
+  ],
+  "scholarships": [
+   {
+    "name": "ESSEC scholarships",
+    "amount": "Not captured",
+    "who": "Check the programme's admission page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Tuition",
+   "Test types",
+   "Deadlines"
+  ],
+  "sources": [
+   "https://www.essec.edu/en/program/master-data-sciences-business-analytics/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p28": {
+  "process": [
+   "Work out your entry level: a relevant 4-year bachelor's may enter at a shorter length than a 3-year degree.",
+   "Show first-year university statistics (or an accepted substitute) and prepare a Candidate Statement.",
+   "Apply to Monash for February or July. Pay the application fee if applicable.",
+   "Accept the offer and pay the deposit for your confirmation of enrolment (CoE), then apply for the 500 visa."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "Candidate Statement",
+   "English test",
+   "Passport"
+  ],
+  "deadlines": [
+   "February and July intakes: check the course page for 2027 closing dates"
+  ],
+  "tests": {
+   "english": "Older Monash Business School factsheet: IELTS Academic 6.5 with no band below 6.0. Verify the 2027 figure.",
+   "aptitude": "None found.",
+   "other": "Candidate Statement."
+  },
+  "india": [
+   "This row models Entry Level 1 (2 years). If your degree qualifies for a shorter length, use the Level 3 row instead.",
+   "Fee shown is from the 2027 international course guide."
+  ],
+  "scholarships": [
+   {
+    "name": "Monash international merit scholarships",
+    "amount": "Varies",
+    "who": "Check the Monash scholarships page for the 2027 round"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 English requirement",
+   "Deadlines",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.monash.edu/__data/assets/pdf_file/0010/3945205/graduate-international-course-guide.pdf",
+   "https://www.monash.edu/__data/assets/pdf_file/0007/2613652/MonBS_PG-Course-Factsheet_Business-analytics_2022_v2.pdf"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p29": {
+  "process": [
+   "Take the IE GAT, GMAT or GRE.",
+   "Apply with transcripts, CV, personal statement and two references. Fee EUR 150.",
+   "Admissions take 4 to 6 weeks; places are first-come, first-served.",
+   "Pay the EUR 1,200 IE Foundation contribution with tuition."
+  ],
+  "documents": [
+   "Transcripts",
+   "CV",
+   "Personal statement",
+   "Two references",
+   "English test",
+   "Admission test result"
+  ],
+  "deadlines": [
+   "No 2027 deadline found; Fall start 21 Sept 2026 and Spring 20 April 2027 listed"
+  ],
+  "tests": {
+   "english": "TOEFL 100 (105 recommended), IELTS 7.0 (7.5), Duolingo 130, or Cambridge Advanced.",
+   "aptitude": "IE GAT, GMAT or GRE. Dual degrees: 80% of students score GMAT 605 to 755.",
+   "other": ""
+  },
+  "india": [
+   "Prefers at least one year of relevant experience.",
+   "Tuition EUR 43,000 for 2026 intakes; 11 months full-time."
+  ],
+  "scholarships": [
+   {
+    "name": "IE merit and need-based awards",
+    "amount": "10% to 40% of tuition",
+    "who": "No India-specific award found"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 fee",
+   "Deadlines"
+  ],
+  "sources": [
+   "https://www.ie.edu/masters/master-business-analytics-data-science/admissions-fees/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p30": {
+  "process": [
+   "Check you have a 2:1 equivalent in business, economics, engineering or social sciences (other degrees are encouraged).",
+   "Sit IELTS Academic 6.5 with no band below 5.5.",
+   "Apply to Strathclyde Business School for September or January. All international offer holders are automatically offered the SBS International Masters Scholarship.",
+   "Pre-Masters preparation is available at the University of Strathclyde International Study Centre if you fall short."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "IELTS",
+   "Personal statement",
+   "References as listed"
+  ],
+  "deadlines": [
+   "September 2027 scholarship terms not yet captured",
+   "January 2027 intake still open; scholarship deadline 30 Nov 2026"
+  ],
+  "tests": {
+   "english": "IELTS 6.5 with no individual score below 5.5.",
+   "aptitude": "None; only basic maths needed.",
+   "other": ""
+  },
+  "india": [
+   "The pages I found are for MSc Business Analysis & Consulting (and variants with AI); I could not find a page titled MSc Business Analytics. Confirm the course name before applying.",
+   "Fee GBP 32,800 for the AI variant for international students. The earlier GBP 24,000 figure was an unverified estimate."
+  ],
+  "scholarships": [
+   {
+    "name": "SBS International Masters Scholarship",
+    "amount": "GBP 9,000",
+    "who": "Automatic for self-funded international offer holders; one scholarship per year",
+    "url": "https://www.strath.ac.uk/studywithus/scholarships/sbsinternationalmastersscholarshipsseptember2026/"
+   },
+   {
+    "name": "Dean's Excellence Award",
+    "amount": "Higher value",
+    "who": "Separate application on some variants"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Programme name and fee for the exact course",
+   "September 2027 scholarship terms"
+  ],
+  "sources": [
+   "https://www.strath.ac.uk/courses/postgraduatetaught/businessanalysisconsultingwithartificialintelligence/",
+   "https://www.strath.ac.uk/studywithus/scholarships/sbsinternationalmastersscholarshipsseptember2026/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p31": {
+  "process": [
+   "Check you have at least 60 credits in Information Systems (systems analysis and design, data and process modelling, database design, software development). Attach syllabi if course names differ.",
+   "Show English at Swedish English 6 (advanced) level.",
+   "Apply on universityadmissions.se by 15 January 2027. Pay the SEK 900 application fee by 1 February.",
+   "Upload documents by 1 February. After admission, pay the first tuition instalment (SEK 75,000) before arrival."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "Course syllabi",
+   "English proof",
+   "Passport"
+  ],
+  "deadlines": [
+   "15 Jan 2027 application",
+   "1 Feb 2027 fee and documents",
+   "Programme runs 30 Aug 2027 to 4 June 2028"
+  ],
+  "tests": {
+   "english": "English 6 / level 2 (advanced proficiency).",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "60 credits in Information Systems is strict: a general business or CS degree may not qualify.",
+   "Tuition SEK 150,000 for the one-year programme (replaces the earlier two-year estimate)."
+  ],
+  "scholarships": [
+   {
+    "name": "Lund University Global Scholarship",
+    "amount": "Not captured",
+    "who": "Check lunduniversity.lu.se/scholarships"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "Scholarship terms"
+  ],
+  "sources": [
+   "https://www.lusem.lu.se/study/masters/programmes/information-systems/requirements",
+   "https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/tuition-fees"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p32": {
+  "process": [
+   "Check you have a bachelor's with a 3.0 GPA and some probability/statistics, Python and calculus/linear algebra.",
+   "The program page says GRE/GMAT is not required, but another Georgia Tech page says scores are required with no waivers: confirm before you apply.",
+   "Take TOEFL (the page says 100) or IELTS 7.5.",
+   "Apply (USD 105 for international applicants). You study online from India and do not need a US visa."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "TOEFL/IELTS",
+   "Statement and references as on the portal"
+  ],
+  "deadlines": [
+   "Not captured"
+  ],
+  "tests": {
+   "english": "TOEFL iBT 100 (or the new 5.0 scale), IELTS 7.5.",
+   "aptitude": "GRE/GMAT: pages conflict.",
+   "other": ""
+  },
+  "india": [
+   "Total tuition USD 12,960 for international students (36 credit hours at USD 360 each) plus an online learning fee. This replaces the earlier USD 7,000 estimate.",
+   "Online study: no student visa and no OPT; you stay in your job."
+  ],
+  "scholarships": [
+   {
+    "name": "None known",
+    "amount": "-",
+    "who": "Low-cost by design"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "GRE/GMAT policy",
+   "Online learning fee",
+   "TOEFL score"
+  ],
+  "sources": [
+   "https://pe.gatech.edu/degrees/analytics",
+   "https://www.analytics.gatech.edu/admissions"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p33": {
+  "process": [
+   "Check you have a 2:1 equivalent in a quantitative subject (maths, statistics, CS, engineering, physics, quantitative economics).",
+   "Take the online maths test. GMAT or GRE is recommended for less quantitative backgrounds but not mandatory.",
+   "Choose a round: R1 29 Sep 2026 (decision 25 Nov), R2 6 Jan 2027 (3 Mar), R3 10 Mar 2027 (5 May), R4 28 Apr 2027 (16 Jun). Fee GBP 125.",
+   "Pay the GBP 6,500 deposit on offer."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "CV",
+   "Personal statement",
+   "References",
+   "English proof",
+   "Online maths test"
+  ],
+  "deadlines": [
+   "Round 1: 29 Sep 2026",
+   "Round 2: 6 Jan 2027",
+   "Round 3: 10 Mar 2027",
+   "Round 4: 28 Apr 2027"
+  ],
+  "tests": {
+   "english": "Required: Imperial's postgraduate standard (score not captured).",
+   "aptitude": "GMAT or GRE not mandatory. Pages disagree on the guide: 55th percentile / 600 on one, 90th percentile on another.",
+   "other": "Online maths test."
+  },
+  "india": [
+   "Course page says GBP 51,000 for 2027 entry; the fees page still shows GBP 47,000 for 2026.",
+   "No India-specific page found."
+  ],
+  "scholarships": [
+   {
+    "name": "Imperial scholarships",
+    "amount": "Varies",
+    "who": "Check the fees and funding page",
+    "url": "https://www.imperial.ac.uk/business-school/masters/business-analytics/fees-and-funding/"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "GMAT/GRE percentile guide",
+   "India grade conversion"
+  ],
+  "sources": [
+   "https://www.imperial.ac.uk/business-school/masters/business-analytics/admissions/",
+   "https://www.imperial.ac.uk/business-school/masters/business-analytics/fees-and-funding/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p34": {
+  "process": [
+   "Check you have a 2:1 equivalent with strong numeracy, IT and statistics at undergraduate level.",
+   "Sit IELTS Academic 7.0 overall with component minimums (Band B).",
+   "Apply for September 2027 (start 27 Sep 2027). A GMAT is not required for the MSc.",
+   "On-time deadline: 2 August 2027 appears on a sister MSc page, so confirm for this course."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "IELTS",
+   "Personal statement",
+   "References"
+  ],
+  "deadlines": [
+   "2 August 2027 (unconfirmed for this course)"
+  ],
+  "tests": {
+   "english": "IELTS 7.0 overall with component minimums.",
+   "aptitude": "GMAT not required for this MSc.",
+   "other": ""
+  },
+  "india": [
+   "The course is now MSc Business Analytics & Artificial Intelligence (relaunched for 2026 entry).",
+   "Whether a 60% Indian degree meets the 2:1 is not stated: ask admissions."
+  ],
+  "scholarships": [
+   {
+    "name": "Warwick Business School scholarships",
+    "amount": "Not captured",
+    "who": "Check the course page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fee",
+   "Deadline",
+   "India percentage bar"
+  ],
+  "sources": [
+   "https://warwick.ac.uk/study/postgraduate/courses/msc-business-analytics/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p35": {
+  "process": [
+   "Check your background: strong maths and economics, or finance/engineering. Under three years of work experience.",
+   "Apply in a round: R1 7 Oct 2026 (results 26 Oct), R2 26 Nov 2026, R3 17 Feb 2027, R4 28 Apr 2027. Fee EUR 150.",
+   "Interviews are in English.",
+   "Year 1 is at Ecole Polytechnique; Year 2 is at HEC (this is a 2-year programme)."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "CV",
+   "Motivation",
+   "References",
+   "Application fee"
+  ],
+  "deadlines": [
+   "R1: 7 Oct 2026",
+   "R2: 26 Nov 2026",
+   "R3: 17 Feb 2027",
+   "R4: 28 Apr 2027"
+  ],
+  "tests": {
+   "english": "Programme taught in English; scores not captured.",
+   "aptitude": "No clear GMAT/GRE requirement found; an older scholarship page used GMAT/GRE as a selection factor.",
+   "other": "English interview."
+  },
+  "india": [
+   "Fees: year 1 at Polytechnique about EUR 28,950; year 2 at HEC EUR 27,000 plus service fees (EUR 29,985 total); plus EUR 2,500 extra for international students.",
+   "The HEC need-based scholarship is chosen during application."
+  ],
+  "scholarships": [
+   {
+    "name": "HEC need-based scholarship",
+    "amount": "Deducted from tuition: amount varies",
+    "who": "Selected during the application; diversity and academic excellence",
+    "url": "https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/fees-and-financing"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "English score",
+   "GMAT/GRE policy"
+  ],
+  "sources": [
+   "https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/admissions",
+   "https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/fees-and-financing"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p36": {
+  "process": [
+   "Check you have a bachelor's with at least 30 ECTS in IT, quantitative methods or economics.",
+   "Apply to CBS for the non-EU round (the last published deadline was 15 January at 23:59 CET). Pay the EUR 150 application fee.",
+   "Show English A level.",
+   "No GMAT is listed for this programme."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof",
+   "Application fee"
+  ],
+  "deadlines": [
+   "Last cycle: 15 January 2026; 2027 date not confirmed"
+  ],
+  "tests": {
+   "english": "English A.",
+   "aptitude": "None listed for this programme.",
+   "other": ""
+  },
+  "india": [
+   "Tuition for this programme was not found; one CBS page shows EUR 8,000 for a different programme. The EUR 30,000 total remains an unverified estimate."
+  ],
+  "scholarships": [
+   {
+    "name": "CBS scholarships",
+    "amount": "Not captured",
+    "who": "Check the CBS scholarships page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Tuition",
+   "2027 deadline",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://studieordninger.cbs.dk/2025/kan/1268",
+   "https://www.cbs.dk/en/study-programmes/master-programmes/application-and-admission"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p37": {
+  "process": [
+   "Check you hold an Australian-equivalent bachelor's in any discipline (or about 10 years of relevant experience).",
+   "Sit IELTS Academic 6.5 with no band below 6.0. IELTS General is not accepted.",
+   "Apply for February or July. Semester 1 2027 applications opened 3 August 2026; classes start 1 March 2027.",
+   "Pay the AUD 100 application fee if your Indian state is on RMIT's fee list."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "IELTS Academic",
+   "Passport"
+  ],
+  "deadlines": [
+   "Semester 1 2027: applications open since 3 Aug 2026; start 1 March 2027",
+   "July intake"
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5 (no band below 6.0); degrees taught entirely in English may qualify if the course needs 6.5 or lower.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "The course page shows two 2027 annual fees (AU$37,440 and AU$47,040) for a 2-year course and does not say which applies to international students: confirm before budgeting.",
+   "Student services fee up to AU$386 for 2027."
+  ],
+  "scholarships": [
+   {
+    "name": "RMIT international scholarships",
+    "amount": "Varies",
+    "who": "Check the RMIT scholarships page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Which fee applies",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-analytics-mc242",
+   "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-analytics-mc242/apply-now"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p38": {
+  "process": [
+   "Check you have a First or upper second (60% average) in a quantitative subject, from an institution of standing.",
+   "Prove English: school accepts Indian Standard XII English at 85% for some routes (not GMAT/GRE, IELTS Indicator or Duolingo).",
+   "Apply in the staged process: selection deadlines run through the year and the school does not make aspirational offers."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof",
+   "CV",
+   "Personal statement"
+  ],
+  "deadlines": [
+   "Staged deadlines; specific 2027 dates not captured"
+  ],
+  "tests": {
+   "english": "Accepted UKVI tests under 2 years old; Indian XII English at 85% accepted as proof.",
+   "aptitude": "No GMAT requirement found.",
+   "other": ""
+  },
+  "india": [
+   "School's international page asks a bachelor's of 60% to 70%.",
+   "The course is now MSc Business Analytics and Artificial Intelligence; the Operational Research and Risk Analysis variant is separate."
+  ],
+  "scholarships": [
+   {
+    "name": "Manchester international scholarships",
+    "amount": "Varies",
+    "who": "Check the scholarship page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fee",
+   "Exact deadlines",
+   "GMAT"
+  ],
+  "sources": [
+   "https://www.manchester.ac.uk/study/masters/courses/list/22043/msc-business-analytics-and-artificial-intelligence/entry-requirements/",
+   "https://www.alliancembs.manchester.ac.uk/study/masters/masters-entry-requirements/international-entry-requirements/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p39": {
+  "process": [
+   "Sit the GMAT (555 Focus or 600 older) or GRE (152 quantitative). Scores under 5 years old, sent directly.",
+   "Prove English (scores under 2 years old at the deadline).",
+   "Open the portal on 1 November 2026. Complete every document by 15 February 2027: incomplete applications are not evaluated.",
+   "Document NOK 128,887 for the first year by the financing deadline."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "GMAT/GRE report",
+   "English proof",
+   "Financing documentation"
+  ],
+  "deadlines": [
+   "Portal opens 1 Nov 2026",
+   "Deadline 15 Feb 2027"
+  ],
+  "tests": {
+   "english": "Accepted tests with scores under 2 years old (thresholds not captured).",
+   "aptitude": "GMAT 555 (Focus) or 600 (old), or GRE 152 quantitative. Not needed if you passed 30 ECTS at NHH.",
+   "other": ""
+  },
+  "india": [
+   "Tuition NOK 204,000 per year for 2026/27, so about NOK 408,000 over two years.",
+   "I did not find a Business Analytics track in the MSc programme page: NHH also has a separate Master in Business and Data Science (80 ECTS of relevant subjects needed)."
+  ],
+  "scholarships": [
+   {
+    "name": "NHH financing",
+    "amount": "Not captured",
+    "who": "See the financing page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Whether the Business Analytics major exists",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.nhh.no/en/study-programmes/application-and-admission/financial-matters/",
+   "https://www.nhh.no/en/study-programmes/application-and-admission/admission-msc-in-economics-and-business-administration/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p40": {
+  "process": [
+   "Make sure you have earned all ECTS required for your bachelor's except the final exam, and upload a self-certified study plan.",
+   "Prove English: TOEIC, Cambridge B2 First or C1, TOEFL or an English-taught bachelor's.",
+   "Apply for the foreign-qualification route (the 1 to 18 March window is for EEA and resident applicants only).",
+   "A Declaration of Value or CIMEA comparability statement may be requested. Incomplete applications are not processed."
+  ],
+  "documents": [
+   "Transcripts and study plan",
+   "Degree or enrolment proof",
+   "English certificate",
+   "Declaration of Value or CIMEA if asked",
+   "Application fee"
+  ],
+  "deadlines": [
+   "Main international window not captured: see the polimi Deadlines page"
+  ],
+  "tests": {
+   "english": "TOEIC 785 + 310, Cambridge B2 First (B) or C1 (C), or TOEFL; a bachelor's taught in English can substitute.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Tuition is income-based and not captured: the EUR 7,800 figure is an unverified estimate."
+  ],
+  "scholarships": [
+   {
+    "name": "Politecnico scholarships",
+    "amount": "Not captured",
+    "who": "See the programme's costs and scholarships section"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Tuition",
+   "Deadlines",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-magistrale/foreign-qualification/requirements",
+   "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/management-engineering"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p41": {
+  "process": [
+   "Confirm your degree qualifies for the shorter entry level (Entry Level 3, 1 year).",
+   "Show first-year statistics and write the Candidate Statement.",
+   "Apply for February or July and complete the CoE and visa steps."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "Candidate Statement",
+   "English test"
+  ],
+  "deadlines": [
+   "February and July intakes"
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5, no band below 6.0 (older factsheet).",
+   "aptitude": "None found.",
+   "other": "Candidate Statement."
+  },
+  "india": [
+   "The 2027 guide's table lists shorter lengths for relevant 4-year degrees: a 3-year Indian degree may land on the longer row. Ask Monash which level your degree gets."
+  ],
+  "scholarships": [
+   {
+    "name": "Monash international merit scholarships",
+    "amount": "Varies",
+    "who": "Check the 2027 round"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Which Indian degrees receive Entry Level 3",
+   "2027 English requirement"
+  ],
+  "sources": [
+   "https://www.monash.edu/__data/assets/pdf_file/0010/3945205/graduate-international-course-guide.pdf"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p42": {
+  "process": [
+   "Check you have a good bachelor's, preferably quantitative, or 2 years of relevant work experience.",
+   "GMAT/GRE is optional but highly recommended from AY2025/26: a good quantitative score helps. Scores must be under 5 years old.",
+   "Apply through the NUS portal. The 2026/27 round opened 6 Oct 2025 and closed 31 Jan 2026 (the guide also lists 15 Dec 2025: confirm the 2027/28 dates).",
+   "No English test is required."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "CV",
+   "GMAT/GRE if submitted"
+  ],
+  "deadlines": [
+   "AY2027/28 dates not captured; last round ran 6 Oct to 31 Jan"
+  ],
+  "tests": {
+   "english": "No IELTS/TOEFL required.",
+   "aptitude": "GMAT/GRE optional but highly recommended.",
+   "other": ""
+  },
+  "india": [
+   "Tuition for AY2026/27 was not captured; the conflicting secondary fees (SGD 70,850 vs 85,000) remain unresolved."
+  ],
+  "scholarships": [
+   {
+    "name": "NUS programme awards",
+    "amount": "Not captured",
+    "who": "Check the MSBA page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fee",
+   "Deadline for 2027/28"
+  ],
+  "sources": [
+   "https://msba.nus.edu.sg/programme/",
+   "https://msba.nus.edu.sg/wp-content/uploads/2025/09/Application-Guide-for-MSBA-AY2026_27-11-Sep_v2.pdf"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p43": {
+  "process": [
+   "Check your bachelor's is in business, computing, IT, engineering or a related field with more than 75% of subjects passed (and a business, database or programming background).",
+   "Sit IELTS Academic 6.5 with 6.0 in writing (TOEFL 79 to 93 with writing 21; PTE 58 to 64 with writing 50).",
+   "Check the live course page: an archived 2023 handbook entry said the course was not offered to international students.",
+   "Apply for your intake; if you do not qualify, the Graduate Certificate in Business Analytics is the pathway."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "English test",
+   "Work experience letters if using the 4-year experience route"
+  ],
+  "deadlines": [
+   "UTS runs several intakes a year; the guide I found may be out of date"
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5 with 6.0 in writing, or TOEFL/PTE equivalents.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "An archived handbook entry conflicts with the current one on international eligibility: confirm with UTS International before paying."
+  ],
+  "scholarships": [
+   {
+    "name": "UTS international scholarships",
+    "amount": "Varies",
+    "who": "Check the UTS scholarships page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "International eligibility",
+   "Fees for 2027",
+   "Intake dates"
+  ],
+  "sources": [
+   "https://www.handbook.uts.edu.au/courses/c04412.html",
+   "https://www.uts.edu.au/courses/master-of-business-analytics"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p44": {
+  "process": [
+   "Take the GMAT (485 Focus or 500 old), the GRE (no per-section minimum) or Bocconi's online test.",
+   "Prove English at B2.",
+   "Apply with a statement of purpose: selection weighs the test, GPA, dossier and motivation.",
+   "75 places for DSBA in 2027-28."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "Test result",
+   "Statement of purpose",
+   "English proof"
+  ],
+  "deadlines": [
+   "Not captured: check the Bocconi admissions page"
+  ],
+  "tests": {
+   "english": "B2 minimum.",
+   "aptitude": "GMAT 485 (Focus) / 500, or GRE (verbal plus quant), or Bocconi online test. GRE at Home not accepted.",
+   "other": ""
+  },
+  "india": [
+   "First-year tuition and fees EUR 18,550 for 2026-27; income-based reductions exist but are based on family finances."
+  ],
+  "scholarships": [
+   {
+    "name": "Bocconi fee reductions and merit awards",
+    "amount": "Varies; can include a tuition waiver",
+    "who": "Based on family finances and merit; no India-specific award found"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadlines",
+   "India-specific funding"
+  ],
+  "sources": [
+   "https://www.unibocconi.it/en/applying-bocconi/master-science-and-ma-programs/application-and-admissions/gmat-and-gre-test",
+   "https://www.unibocconi.it/en/current-students/fees/bocconi-tuition-and-fees"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p45": {
+  "process": [
+   "Sit the GRE or GMAT (the admissions page says required with no waivers; a handbook says GMAT may substitute but GRE is preferred).",
+   "Prove English: TOEFL iBT 5.0 on the new scale (4 per section) or 100 before January 2026; IELTS 7.5.",
+   "Apply by the priority deadline 1 January 2027 (late deadline 1 March 2027). Fee USD 105.",
+   "Estimated one-year tuition and fees for out-of-country students: about USD 61,774."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "GRE/GMAT",
+   "TOEFL/IELTS",
+   "Statement and references"
+  ],
+  "deadlines": [
+   "Priority 1 Jan 2027",
+   "Late 1 Mar 2027"
+  ],
+  "tests": {
+   "english": "TOEFL iBT 100 (old scale) or 5.0 (new); IELTS 7.5 with 6.5 in three skills and 5.5 in writing.",
+   "aptitude": "GRE or GMAT.",
+   "other": ""
+  },
+  "india": [
+   "Fee estimate replaces the earlier USD 45,000.",
+   "Read the F-1 rule change (fixed admission period from 15 Sept 2026) in the US guide before committing."
+  ],
+  "scholarships": [
+   {
+    "name": "Georgia Tech funding",
+    "amount": "Not captured",
+    "who": "See the Tuition and Funding page",
+    "url": "https://www.analytics.gatech.edu/admissions/tuition-and-funding"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "GRE vs GMAT rule",
+   "Funding amounts"
+  ],
+  "sources": [
+   "https://www.analytics.gatech.edu/admissions",
+   "https://www.analytics.gatech.edu/admissions/tuition-and-funding"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p46": {
+  "process": [
+   "Check you have a first or second class honours degree (or equivalent) in a relevant subject.",
+   "Prove English: IELTS 6.0 for STEM or 6.0 with no band below 5.5 for non-STEM; CBSE/CISCE Standard XII English accepted.",
+   "Apply for January or September intake. Email dubaienquiries@hw.ac.uk to confirm programme requirements."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof",
+   "Passport"
+  ],
+  "deadlines": [
+   "January 2027 intake; September 2027 uses a new fee table"
+  ],
+  "tests": {
+   "english": "IELTS 6.0 (STEM) / 6.0 with no band below 5.5 (non-STEM); Standard XII CBSE/CISCE English accepted.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "The page I found is MSc Business Analytics and Consultancy. Fee AED 99,528 full-time including VAT for January 2027, higher than the earlier AED 85,000 estimate."
+  ],
+  "scholarships": [
+   {
+    "name": "Postgraduate Merit Scholarship",
+    "amount": "Up to 15% (2024 offer)",
+    "who": "Based on undergraduate results: check current availability"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Scholarship availability",
+   "Fee for September 2027"
+  ],
+  "sources": [
+   "https://www.hw.ac.uk/dubai/study/postgraduate/business-analytics-and-consultancy",
+   "https://www.hw.ac.uk/dubai/study/apply/international-entry-requirements"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p47": {
+  "process": [
+   "Check you have a good bachelor's in any discipline.",
+   "Take TOEFL iBT 100 or IELTS 6.5 unless English was the medium of your degree. Online test scores taken after 31 Dec 2023 are not accepted.",
+   "GMAT/GRE is optional on the current page, but older FAQs call it compulsory: confirm with NBS.",
+   "Apply to NBS (selection is competitive; work experience not required)."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "TOEFL/IELTS",
+   "GMAT/GRE if submitted",
+   "CV"
+  ],
+  "deadlines": [
+   "Not captured"
+  ],
+  "tests": {
+   "english": "TOEFL iBT 100 or IELTS 6.5.",
+   "aptitude": "GMAT/GRE optional (current page); no minimum cut-off.",
+   "other": ""
+  },
+  "india": [
+   "Tuition not captured: SGD 71,940 remains a secondary figure."
+  ],
+  "scholarships": [
+   {
+    "name": "NBS awards",
+    "amount": "Not captured",
+    "who": "Check the NBS page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fee",
+   "Deadline",
+   "GMAT policy"
+  ],
+  "sources": [
+   "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p48": {
+  "process": [
+   "Check you have a 3 or 4-year degree in commerce, maths, physics, CS, IS, engineering or science with a WAM of 65% or equivalent (recent students averaged 70%+).",
+   "Sit IELTS 7.0 with no band below 6.5 (TOEFL iBT 90 with writing 24).",
+   "Apply to Melbourne Business School: the brochure lists an offshore deadline of 19 October 2026 (confirm: the text was fragmented).",
+   "GMAT may be requested if your grades are hard to convert.",
+   "Fees are paid per module in advance."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "English test",
+   "GMAT if requested",
+   "Resume"
+  ],
+  "deadlines": [
+   "Offshore deadline 19 Oct 2026 (unconfirmed)"
+  ],
+  "tests": {
+   "english": "IELTS 7.0 with no band below 6.5; TOEFL iBT 90 with writing 24.",
+   "aptitude": "GMAT may be required where WAM equivalence is hard to establish: not stated as mandatory.",
+   "other": ""
+  },
+  "india": [
+   "3-year Indian degrees are accepted (3 or 4-year bachelor's).",
+   "International fee AUD 97,920 for the 2027 intake (Melbourne Business School listing): this replaces the earlier estimate."
+  ],
+  "scholarships": [
+   {
+    "name": "MBS merit scholarships",
+    "amount": "Not captured",
+    "who": "Check the MBS page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadline",
+   "GMAT policy",
+   "Scholarship amounts"
+  ],
+  "sources": [
+   "https://mbs.edu/degree-programs/full-time-master-of-business-analytics",
+   "https://study.unimelb.edu.au/find/courses/graduate/master-of-business-analytics/entry-requirements/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p49": {
+  "process": [
+   "Check you have a 180 ECTS bachelor's in business administration or a closely related field.",
+   "GMAT/GRE is optional: without a score your average grade counts double. Scores must be included with the application and under 5 years old.",
+   "Apply 1 October to 31 March for the autumn start (an older page says 31 March or 30 April). Fee CHF 268.",
+   "International degrees are assessed case by case; you may need an Integration Week or preparatory courses."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "CV",
+   "GMAT/GRE if submitted",
+   "Application fee CHF 268"
+  ],
+  "deadlines": [
+   "1 Oct to 31 Mar for autumn"
+  ],
+  "tests": {
+   "english": "Language proof is not required at application but before the programme ends.",
+   "aptitude": "GMAT or GRE optional.",
+   "other": ""
+  },
+  "india": [
+   "The programme is bilingual: 18 ECTS of core in German and 18 in English. Check the language requirement before choosing.",
+   "Tuition was not captured; CHF 15,700 remains an unverified estimate."
+  ],
+  "scholarships": [
+   {
+    "name": "HSG scholarships",
+    "amount": "Not captured",
+    "who": "Check the HSG page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Tuition",
+   "Indian degree recognition"
+  ],
+  "sources": [
+   "https://www.unisg.ch/en/studying/admission/admission-master/business-innovation/",
+   "https://www.unisg.ch/en/studying/admission/application-deadlines/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p50": {
+  "process": [
+   "Check your bachelor's is in engineering or natural sciences with at least 180 ECTS.",
+   "Prove English C1 by the deadline.",
+   "Apply in the first window, 1 to 30 November: it is mandatory for applicants with a non-Swiss bachelor's.",
+   "ETH decides equivalence of your Indian degree."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English C1 proof",
+   "Application as on the MTEC admissions page"
+  ],
+  "deadlines": [
+   "1 to 30 November (non-Swiss bachelor's)"
+  ],
+  "tests": {
+   "english": "C1 required by the deadline.",
+   "aptitude": "No GRE/GMAT mentioned in the pages I read: check the regulations.",
+   "other": ""
+  },
+  "india": [
+   "Tuition CHF 2,190 per semester for foreign students from autumn 2025 plus CHF 74 semester fees: this replaces the earlier estimate of CHF 8,760 total (four semesters: about CHF 9,056).",
+   "ETH checks Indian degrees case by case."
+  ],
+  "scholarships": [
+   {
+    "name": "ETH scholarships",
+    "amount": "Not captured",
+    "who": "Check ETH funding pages"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "GRE/GMAT policy",
+   "Indian degree equivalence"
+  ],
+  "sources": [
+   "https://mtec.ethz.ch/studies/prospectives/admissions.html",
+   "https://mas-mtec.ethz.ch/education/faq.html"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p51": {
+  "process": [
+   "Check your bachelor's has 12 CP analysis and linear algebra, 36 CP computer science (12 in programming and parallel systems) and 18 CP economics (6 in finance and accounting).",
+   "Request a uni-assist VPD made out for TU Berlin (required from summer 2026).",
+   "Apply in tuPORT and separately upload documents to the Faculty IV system (map.3s-rg.de). The two steps are independent.",
+   "Ranking: degree grade 60%, relevance of core subjects 40%. About 50 places per intake.",
+   "No conditional admission and no bridging courses."
+  ],
+  "documents": [
+   "Transcript and module descriptions",
+   "Proof of the listed credits",
+   "Degree certificate",
+   "English B2 proof",
+   "VPD from uni-assist",
+   "APS certificate for the visa"
+  ],
+  "deadlines": [
+   "See tu.berlin Dates & Deadlines (winter and summer intakes)."
+  ],
+  "tests": {
+   "english": "B2 on the certificate, but the FAQ says IELTS 6.5 overall is required. English-taught degrees count only from TU Berlin's native-English country list, so an Indian degree does not waive it.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Heavy CS prerequisites: a non-CS Indian degree will usually fail the 36 CP rule.",
+   "No tuition at Berlin public universities for non-EU students; semester contribution only (amount unverified here)."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadline dates",
+   "Semester contribution amount"
+  ],
+  "sources": [
+   "https://www.tu.berlin/en/eecs/academics-teaching/study-offer/masters-programs/msc-information-systems-management-wirtschaftsinformatik/msc-ism-wi-application-admission",
+   "https://www.tu.berlin/en/eecs/academics-teaching/study-offer/application-admission-faq"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p52": {
+  "process": [
+   "Check your first degree is in computer science, mathematics, physics or close, and meets the course-profile credits.",
+   "Sit the GRE General: minimum 75th percentile quantitative, 15th percentile verbal, 3.5 analytical writing.",
+   "Prove English B2 (IELTS Academic).",
+   "Apply for the winter (October) or summer (April) intake. Non-EU deadlines are hard and different from EU ones.",
+   "Examination board checks your foreign degree; this can take months."
+  ],
+  "documents": [
+   "Degree and transcript",
+   "GRE score report uploaded before the deadline",
+   "English certificate (MOI letters are generally not accepted)",
+   "Module descriptions for the course profile",
+   "APS certificate for the visa"
+  ],
+  "deadlines": [
+   "Winter and summer terms; check the international applicant page for current non-EU dates."
+  ],
+  "tests": {
+   "english": "B2 minimum; IELTS must be the Academic version. Medium-of-instruction certificates are generally not accepted.",
+   "aptitude": "GRE General required for non-EU applicants.",
+   "other": ""
+  },
+  "india": [
+   "GRE is mandatory and cannot be skipped.",
+   "RWTH charges international students no tuition (RWTH page); semester contribution only.",
+   "Open admission: you are admitted if you meet the requirements."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Current non-EU deadlines",
+   "Semester contribution amount"
+  ],
+  "sources": [
+   "https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/application-for-admission/",
+   "https://www.rwth-aachen.de/cms/root/studium/vor-dem-studium/zugangsvoraussetzungen/~bxip/besonderheiten-internationale-studienint/?lidx=1"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p53": {
+  "process": [
+   "Check your bachelor's is in informatics/computer science and that TUM's curriculum check passes: missing subjects cannot be offset by work experience.",
+   "Sit the GRE General or take GATE: at least 164 quantitative and 4.0 writing (GRE code 7806, dept 5199).",
+   "Get APS and a uni-assist VPD.",
+   "Apply: winter 1 Feb to 31 May; summer 1 Oct to 30 Nov.",
+   "Points-based review leads to immediate admission, rejection or an interview."
+  ],
+  "documents": [
+   "Transcript",
+   "Degree certificate",
+   "GRE or GATE score",
+   "English proof (before the deadline)",
+   "VPD",
+   "APS certificate"
+  ],
+  "deadlines": [
+   "Winter: 1 Feb to 31 May",
+   "Summer: 1 Oct to 30 Nov"
+  ],
+  "tests": {
+   "english": "A recognised certificate on TUM's list; scores are not given on the programme page.",
+   "aptitude": "GRE General or GATE for degrees from India, Bangladesh, Pakistan, China, Iran: QR 164 and AW 4.0 minimum.",
+   "other": "Possible interview."
+  },
+  "india": [
+   "Strict CS-degree requirement.",
+   "Tuition EUR 6,000 per semester on the programme page; TUM raises non-EU fees from winter 2027/28, so check the 2027 amount.",
+   "Fee waivers and scholarships exist for many international students."
+  ],
+  "scholarships": [
+   {
+    "name": "TUM fee waivers and scholarships",
+    "amount": "Varies",
+    "who": "Many international students get fees waived or receive scholarships",
+    "url": "https://www.tum.de/en/studies/fees"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 tuition",
+   "Whether the EUR 6,000 is per semester for the 2027 intake"
+  ],
+  "sources": [
+   "https://www.tum.de/en/studies/degree-programs/detail/data-engineering-and-analytics-master-of-science-msc",
+   "https://www.cit.tum.de/en/cit/studies/degree-programs/master-data-engineering-and-analytics/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p54": {
+  "process": [
+   "Sit the GRE: Indian applicants must submit it, with at least 162 quantitative and 151 verbal, no older than 5 years.",
+   "Prove English: IELTS Academic 6.5 or equivalent (GMAT/GRE can count in some cases).",
+   "Get APS. Apply 1 April to 15 May (fall 2027) or 15 Oct to 15 Nov (spring).",
+   "For GRE applicants the GRE score is the only selection criterion.",
+   "Pay EUR 1,500 per semester plus EUR 194 once admitted."
+  ],
+  "documents": [
+   "Degree and transcript (130-140 ECTS if unfinished: pages differ)",
+   "GRE report",
+   "English proof",
+   "APS certificate"
+  ],
+  "deadlines": [
+   "Fall 2027: 1 April to 15 May",
+   "Spring 2027: 15 Oct to 15 Nov 2026"
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5 or Cambridge CAE/CPE.",
+   "aptitude": "GRE General: 162 Q, 151 V minimum for non-EU applicants.",
+   "other": ""
+  },
+  "india": [
+   "GRE decides your rank: a high quantitative score is the entire application.",
+   "Fee EUR 1,500 per semester for non-EU students (EUR 650 for a second degree)."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "ECTS needed for unfinished bachelor's (130 vs 140)"
+  ],
+  "sources": [
+   "https://www.uni-mannheim.de/en/academics/before-your-studies/programs/mannheim-master-in-data-science/",
+   "https://www.uni-mannheim.de/media/Einrichtungen/zula/Auswahlsatzungen_master/satzung_ma_mmds_en.pdf"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p55": {
+  "process": [
+   "Apply in the WHU Application Center (EUR 100 fee). Window 15 Sept 2026 to 31 May 2027; 30 Nov 2026 and 31 Jan 2027 give early-bird discounts.",
+   "Video interview (Kira Talent): 5-minute talk without slides plus four timed questions.",
+   "Live 30-minute interview on Teams with WHU.",
+   "Sign the study contract in DocuSign within 14 days and pay the EUR 2,000 deposit.",
+   "Student-visa applicants apply by 30 April 2027."
+  ],
+  "documents": [
+   "1-page English CV",
+   "Bachelor's transcript (business or economics, 180 ECTS; foreign degrees must be H+ in anabin)",
+   "Passport",
+   "English proof",
+   "GMAT/GRE/GTEBS",
+   "Proof of 12 weeks (480 hours) of business experience",
+   "Secondary school diploma",
+   "APS certificate"
+  ],
+  "deadlines": [
+   "Scholarship consideration: 31 Jan or 31 March 2027 (pages differ)",
+   "Student visa applicants: 30 April 2027",
+   "Everyone else: 31 May 2027",
+   "Test scores: 31 May 2027"
+  ],
+  "tests": {
+   "english": "IELTS Academic 7.5 or TOEFL iBT 100 (5.5 on the new scale). Duolingo and TOEIC not accepted. Waived if all education was in English.",
+   "aptitude": "GMAT 555, GRE 158/158 or GTEBS 102.",
+   "other": "Two interviews."
+  },
+  "india": [
+   "Needs a business or economics bachelor's: other fields are pointed to the Master in International Business.",
+   "Degree must be H+ in anabin: check your university.",
+   "Fee: EUR 33,600 (90 ECTS) or EUR 41,200 (120 ECTS), 2027 fees. This row uses the 120 ECTS track."
+  ],
+  "scholarships": [
+   {
+    "name": "WHU Responsible Leader Scholarship",
+    "amount": "75% of tuition",
+    "who": "Outstanding Master in Management candidates; no separate application",
+    "how": "Only applications submitted by 31 Jan are considered"
+   },
+   {
+    "name": "Other WHU scholarships",
+    "amount": "Most cover 25% of tuition",
+    "who": "15 listed options"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "The 75% scholarship may have changed since its 2025 launch.",
+   "Scholarship deadline: 31 Jan vs 31 March"
+  ],
+  "sources": [
+   "https://www.whu.edu/en/programs/master-of-science-programs/master-in-management/application-admissions/",
+   "https://www.whu.edu/en/programs/master-of-science-programs/fees-financing/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p56": {
+  "process": [
+   "Check you have a first or second-class honours degree in a relevant subject (UL's general minimum is a 2.2 per an undated Kemmy page).",
+   "Apply to UL; you are automatically reviewed for scholarship once you submit.",
+   "Take the Academic IELTS if your degree was not in English. Results under 2 years old."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "IELTS Academic",
+   "CV",
+   "Passport"
+  ],
+  "deadlines": [
+   "Not captured: check the programme page for the 2027 round."
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5 overall, no band below 6.0. Some programmes ask higher.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Fee EUR 20,400 non-EU (2026/27).",
+   "UL's Indian-specific scholarship is for undergraduates; master's awards are general merit."
+  ],
+  "scholarships": [
+   {
+    "name": "UL merit scholarship",
+    "amount": "Partial, merit-based (often EUR 2,000 on listed courses)",
+    "who": "Automatic review on application",
+    "url": "https://www.ul.ie/study/postgraduate/international-students/scholarships"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadline",
+   "Programme-specific entry rule"
+  ],
+  "sources": [
+   "https://www.ul.ie/gps/business-analytics-msc",
+   "https://www.ul.ie/fees/course-fees/postgraduate-fees/postgraduate-taught-fees-2026-2027"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p57": {
+  "process": [
+   "Check you have a 2.1 (65% or higher) honours degree of 4 years or equivalent.",
+   "Check you have 3 or 4 maths modules at 60% or higher with no fails or repeats in maths.",
+   "Apply through MU Apply, code MHR64 (EUR 50 fee). Closing date 27 August 2027 for September 2027.",
+   "Upload transcripts for every semester, graduation certificate, passport copy and CV. Documents may be requested in two stages."
+  ],
+  "documents": [
+   "Full transcripts",
+   "Graduation certificate",
+   "Passport copy",
+   "CV",
+   "English proof"
+  ],
+  "deadlines": [
+   "Closes 27 August 2027"
+  ],
+  "tests": {
+   "english": "Required for non-native speakers; band not captured. Check Maynooth's English requirements page.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Strict maths-module rule: an Indian transcript with a failed or repeated maths paper will not be considered.",
+   "A 4-year degree or equivalent is expected."
+  ],
+  "scholarships": [
+   {
+    "name": "Maynooth international awards",
+    "amount": "Not captured",
+    "who": "Ask the international office"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "IELTS band",
+   "2026/27 fee (EUR 17,000 is the 2025/26 list price)"
+  ],
+  "sources": [
+   "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/msc-data-science-and-analytics",
+   "https://www.maynoothuniversity.ie/study-maynooth/how-apply/postgraduate-applicants"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p58": {
+  "process": [
+   "Check you have a 2.1 in computer science or mathematical sciences, or a 2.1 with strong numerate content.",
+   "Apply online (EUR 50). Portal opens about mid-October. Non-EU applications close when full or 15 June.",
+   "Submit all documents at application: incomplete files are prioritised lower.",
+   "Include a valid English certificate: applications without one are refused automatically."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "English certificate (mandatory at submission)",
+   "CV",
+   "Passport"
+  ],
+  "deadlines": [
+   "Closes 15 June 2027 or when full; start 6 September 2027"
+  ],
+  "tests": {
+   "english": "University-approved standard; no band shown on the page.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Applicants below the grade can be considered with 5 years of relevant industry experience."
+  ],
+  "scholarships": [
+   {
+    "name": "Not listed on the course page",
+    "amount": "-",
+    "who": "Ask UCC international office"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "English score",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.ucc.ie/en/ckr49/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p59": {
+  "process": [
+   "Check your bachelor's is in information science, computer science, AI or engineering with training in information systems design, programming and research methods.",
+   "Apply from 1 October; non-EU deadline 1 April for September.",
+   "Take the EMI-experienced English level (UU's own scale: check the test table).",
+   "A GPA of 7.0 or higher is recommended. A 7.5 EC deficiency course is possible if you fall short.",
+   "Admission is often conditional on certified documents."
+  ],
+  "documents": [
+   "Certified degree and transcripts",
+   "English proof",
+   "CV and motivation as on the portal"
+  ],
+  "deadlines": [
+   "1 April 2027 (September start); 1 September (February start)"
+  ],
+  "tests": {
+   "english": "EMI-experienced level.",
+   "aptitude": "None listed.",
+   "other": "Selective research master's."
+  },
+  "india": [
+   "A 2-year programme: fee EUR 25,306 per year (2026-27), so total tuition is about EUR 50,600.",
+   "Budget about EUR 11,000 plus the tuition for visa funding, per Utrecht."
+  ],
+  "scholarships": [
+   {
+    "name": "Utrecht Excellence Scholarship",
+    "amount": "Not captured",
+    "who": "Check the UU page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Scholarship amounts",
+   "English score table"
+  ],
+  "sources": [
+   "https://www.uu.nl/en/masters/business-informatics",
+   "https://www.uu.nl/en/masters/business-informatics/application-and-admission/degree-from-a-non-dutch-university"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p60": {
+  "process": [
+   "Check you have a 4-year bachelor's from a NAAC/AICTE-accredited or Institute-of-National-Importance university.",
+   "Check your CGPA is at least 8.5/10 (or 75% where there is no CGPA): conditional acceptance is not possible.",
+   "List 5 ECTS-equivalent courses in each of eight subjects on the Additional Information Form: calculus, linear algebra, probability and statistics, discrete maths, data structures and algorithms, programming, databases, machine learning.",
+   "Apply from 1 October. Apply by 1 January for the TU/e Scholarship for Excellence; final deadline 1 May; visa forms and payments by 1 June."
+  ],
+  "documents": [
+   "Transcripts with credits and grades",
+   "Additional Information Form with official course descriptions",
+   "Diploma",
+   "Accreditation confirmation (NAAC/AICTE)",
+   "EUR 100 fee",
+   "English proof"
+  ],
+  "deadlines": [
+   "1 January 2027 (scholarship)",
+   "1 May 2027 (final)",
+   "1 June 2027 (visa forms and payments)"
+  ],
+  "tests": {
+   "english": "See TU/e English requirements page (scores not on the India page).",
+   "aptitude": "Not mentioned.",
+   "other": ""
+  },
+  "india": [
+   "The 8.5 CGPA rule is among the strictest in the dataset.",
+   "Tuition not found: the figure used is an estimate of EUR 24,000 a year.",
+   "Gaps of up to 15 credits can be closed with homologation courses."
+  ],
+  "scholarships": [
+   {
+    "name": "TU/e Scholarship for Excellence",
+    "amount": "Not captured",
+    "who": "Apply by 1 January with the application"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Tuition",
+   "English score",
+   "Scholarship amount"
+  ],
+  "sources": [
+   "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/master-program/program/data-science-and-artificial-intelligence/country/india"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p61": {
+  "process": [
+   "Check you have a 4-year degree with a B+ average in the last two years in maths, business, CS, economics, engineering or science (other fields need relevant courses).",
+   "Prepare two written essays, a timed written essay, two video essays, a resume, two references and unofficial transcripts.",
+   "Apply for the May start. International applicants should use the Round 2 deadline to leave time for a study permit.",
+   "Selected applicants are interviewed. Official transcripts are needed only after an offer."
+  ],
+  "documents": [
+   "Unofficial transcripts",
+   "Resume",
+   "Two references",
+   "Two written essays and a timed essay",
+   "Two video essays",
+   "English proof"
+  ],
+  "deadlines": [
+   "Round dates not captured; apply by Round 2"
+  ],
+  "tests": {
+   "english": "IELTS Academic 7.0 with 6.5 per band; TOEFL 5 iBT (new scale) with 4.5 per section; waived after 2 years of full-time English-medium study.",
+   "aptitude": "GMAT/GRE not required.",
+   "other": "Interview for selected applicants."
+  },
+  "india": [
+   "International tuition (about C$88,350) comes from a third-party listing: verify on York's fee page.",
+   "Only one application is allowed."
+  ],
+  "scholarships": [
+   {
+    "name": "Schulich entrance awards",
+    "amount": "Not captured",
+    "who": "Check the MBAN financing page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Tuition",
+   "Round dates",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://schulich.yorku.ca/admissions/admissions-requirements/mban/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p62": {
+  "process": [
+   "Check you have a bachelor's in computer science or a related field and a cumulative GPA of 3.00 on SFU's 4.33 scale.",
+   "Check English rules: an English-taught degree exempts only if English is the primary language of your home country, so Indian applicants generally need IELTS or TOEFL.",
+   "Apply to the Professional Master's in Big Data; GRE and GMAT are not required.",
+   "The programme is billed over four terms (about 16 months). Check the programme page for whether a co-op or work term is included."
+  ],
+  "documents": [
+   "Transcripts",
+   "CV",
+   "English test",
+   "Statement as on the portal"
+  ],
+  "deadlines": [
+   "Not captured: check the programme page"
+  ],
+  "tests": {
+   "english": "IELTS or TOEFL per SFU Graduate Studies; scores not captured.",
+   "aptitude": "No GRE or GMAT.",
+   "other": ""
+  },
+  "india": [
+   "Tuition about C$13,856 per term for international students in 2026/27 (about C$55,425 total).",
+   "The admissions committee can admit exceptional applicants without a computing degree."
+  ],
+  "scholarships": [
+   {
+    "name": "SFU graduate awards",
+    "amount": "Not captured",
+    "who": "Check SFU Graduate Studies"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadline",
+   "English scores",
+   "Scholarships",
+   "Co-op details"
+  ],
+  "sources": [
+   "https://www.sfu.ca/fas/study/future-graduates/programs/master-big-data.html",
+   "https://www.sfu.ca/gradstudies/apply/applying/requirements.html"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p63": {
+  "process": [
+   "Check you meet the entry route: a relevant bachelor's plus experience can shorten the course to 1.5 years; otherwise it is 2 years.",
+   "Sit IELTS Academic 6.5 with no band below 6.0 (or hold a degree from a recognised English-speaking country).",
+   "Apply for Trimester 1, 2 or 3 at Burwood. Pay the deposit for your CoE.",
+   "Apply for the 500 student visa."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "English test",
+   "Evidence of experience if claiming the 1.5-year route"
+  ],
+  "deadlines": [
+   "Three trimesters a year; check Deakin's dates for 2027"
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5 with no band below 6.0.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Fee AUD 44,200 a year for 2026 starters (handbook); another page shows AUD 45,800. This row costs the 2-year route; the 1.5-year route is cheaper by about AUD 22,000 plus half a year of living costs."
+  ],
+  "scholarships": [
+   {
+    "name": "Deakin international scholarships",
+    "amount": "Varies",
+    "who": "Check the Deakin scholarships page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 fee",
+   "Deadlines",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.deakin.edu.au/course/master-business-analytics-international",
+   "https://handbook.deakin.edu.au/courses-search/course.php?course=M761&stutype=international"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p64": {
+  "process": [
+   "Check you have a 2:1 equivalent and a strong quantitative record (statistics, econometrics, maths, management science).",
+   "Sit IELTS 6.5 with no component below 6.0.",
+   "Apply to Leeds University Business School for 2027 entry."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree certificate",
+   "IELTS",
+   "Personal statement",
+   "References"
+  ],
+  "deadlines": [
+   "Not captured"
+  ],
+  "tests": {
+   "english": "IELTS 6.5 overall, no component below 6.0.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "No India-specific Leeds requirement found: ask for the India percentage table.",
+   "Fee GBP 34,400 for 2027 entry (course listing)."
+  ],
+  "scholarships": [
+   {
+    "name": "Leeds international scholarships",
+    "amount": "Not captured",
+    "who": "Check the Business School scholarships page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadlines",
+   "India grade bar",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc",
+   "https://business.leeds.ac.uk/masters/doc/entry-requirements-2"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p65": {
+  "process": [
+   "Check you have a First Class equivalent bachelor's (for Indian applicants) with your grading scale attached to the transcript.",
+   "Relevant work experience is accepted in exceptional cases in place of the degree grade.",
+   "Sit IELTS 6.5 with at least 6.0 in each skill.",
+   "Apply for 2027/28 entry."
+  ],
+  "documents": [
+   "Transcript with grading scale",
+   "Degree certificate",
+   "IELTS",
+   "CV",
+   "References"
+  ],
+  "deadlines": [
+   "Not captured"
+  ],
+  "tests": {
+   "english": "IELTS 6.5 overall, with 6.0 in reading, writing, listening and speaking.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "First Class for Indian graduates is a high bar compared with a 2:1: check Bath's percentage conversion.",
+   "Fee GBP 32,300 for overseas students in 2027/28."
+  ],
+  "scholarships": [
+   {
+    "name": "Bath international scholarships",
+    "amount": "Not captured",
+    "who": "Check the School of Management scholarships"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadlines",
+   "Percentage conversion",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.bath.ac.uk/courses/postgraduate-2026/taught-postgraduate-courses/msc-business-analytics/",
+   "https://www.bath.ac.uk/corporate-information/school-of-management-taught-postgraduate-tuition-fees-2027-28/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p66": {
+  "process": [
+   "Check you have a bachelor's in science, engineering or technology with credits in maths (multivariable analysis, linear algebra, statistics), programming, algorithms and AI/ML or data science.",
+   "Apply on universityadmissions.se by 15 January 2027.",
+   "Prove English. After admission, pay tuition instalments."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof",
+   "Course syllabi"
+  ],
+  "deadlines": [
+   "15 Jan 2027 (listed for sister Chalmers programmes: confirm for this one)"
+  ],
+  "tests": {
+   "english": "Per Chalmers requirements (not captured).",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Tuition: SEK 320,000 for a 2-year masters in 2026/27, rising to SEK 380,000 from 2027/28. An older page lists SEK 160,000 per year for this programme: confirm.",
+   "Strict maths and CS prerequisites."
+  ],
+  "scholarships": [
+   {
+    "name": "Chalmers scholarships",
+    "amount": "Not captured",
+    "who": "Available for tuition-paying masters students: check the page",
+    "url": "https://www.chalmers.se/en/education/application-and-admission/tuition-fees/"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Programme fee",
+   "Deadline",
+   "English score"
+  ],
+  "sources": [
+   "https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/programme-overview/MPDSC/",
+   "https://www.chalmers.se/en/education/application-and-admission/tuition-fees/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p67": {
+  "process": [
+   "Check you have an engineering or natural-science BSc less than 10 years old with 10 ECTS maths (linear algebra and calculus), 5 ECTS statistics, 5 ECTS optimisation and 10 ECTS programming.",
+   "Apply by 15 January (non-EU fee-paying). Send English results by then. Pay the EUR 100 application fee.",
+   "DTU uses a point-based selection from autumn 2026."
+  ],
+  "documents": [
+   "Officially translated transcripts",
+   "Degree",
+   "English proof",
+   "Application fee"
+  ],
+  "deadlines": [
+   "15 January 2027"
+  ],
+  "tests": {
+   "english": "B-level through IELTS, TOEFL or Cambridge.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "A business or commerce degree will not qualify: DTU does not accept a minor in engineering.",
+   "Tuition EUR 7,500 per semester (EUR 30,000 over 2 years); an Industry MSc track is cheaper but I could not confirm it applies."
+  ],
+  "scholarships": [
+   {
+    "name": "DTU fee waivers",
+    "amount": "Not captured",
+    "who": "See DTU fees and funding"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Which fee track applies",
+   "2027 selection criteria"
+  ],
+  "sources": [
+   "https://www.dtu.dk/english/education/graduate/msc-programmes/business-analytics/prerequisites",
+   "https://www.dtu.dk/english/education/graduate/fees-and-funding"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p68": {
+  "process": [
+   "Check your bachelor's meets the programme's prerequisites (not captured: see masters.au.dk/datascience).",
+   "Apply by 15 January for the non-EU round. Pay the EUR 150 fee.",
+   "After admission pay the whole first-year tuition before the first semester (applicants after 1 November 2026)."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof"
+  ],
+  "deadlines": [
+   "15 January (non-EU), per Aarhus's US-applicant page: confirm"
+  ],
+  "tests": {
+   "english": "Per Aarhus requirements (not captured).",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "The programme shown is Data Science (business intelligence is one specialisation): Aarhus does not list a business analytics master's.",
+   "Tuition EUR 17,300 a year for 2026/27."
+  ],
+  "scholarships": [
+   {
+    "name": "Aarhus state-funded scholarships",
+    "amount": "Not captured",
+    "who": "Four programmes for highly qualified non-EU applicants admitted to 2-year masters",
+    "url": "https://kandidat.au.dk/en/admission/tuition-fees-and-scholarships/"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Prerequisites",
+   "Deadline",
+   "Scholarship amounts"
+  ],
+  "sources": [
+   "https://masters.au.dk/datascience",
+   "https://masters.au.dk/tuitionfees/current-tuition-fee-rates"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p69": {
+  "process": [
+   "Check the programme's prerequisites on the Helsinki page (not captured).",
+   "Apply during the single yearly application period (January per an older page: confirm on Studyinfo).",
+   "Tick the scholarship option: scholarships (50% or 100% of tuition) are granted only at admission."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof",
+   "Application fee"
+  ],
+  "deadlines": [
+   "Confirm on studyinfo.fi"
+  ],
+  "tests": {
+   "english": "Per Helsinki's language requirements.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Tuition EUR 15,000 a year for non-EU students; programme is 120 ECTS over two years."
+  ],
+  "scholarships": [
+   {
+    "name": "University of Helsinki scholarship",
+    "amount": "50% or 100% of tuition",
+    "who": "Fee-liable non-EU students, decided at admission"
+   },
+   {
+    "name": "Finland Scholarship",
+    "amount": "Not captured",
+    "who": "Granted at admission"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Application dates",
+   "Prerequisites"
+  ],
+  "sources": [
+   "https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme",
+   "https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/tuition-fees-and-scholarship-programme"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p70": {
+  "process": [
+   "Check your bachelor's covers algorithms and data structures, programming, algebra, calculus, and statistics and probability, and totals 180 ECTS.",
+   "Apply through TU Wien's non-EU/EEA route by the non-EU deadline on the academic calendar.",
+   "The Dean of Academic Affairs reviews your degree for equivalence; up to 30 ECTS of supplementary exams are allowed, more than 30 means no admission.",
+   "Pay about EUR 752.92 each semester (tuition EUR 726.72 plus student union fee EUR 26.20)."
+  ],
+  "documents": [
+   "Transcripts and module descriptions",
+   "Degree",
+   "Passport",
+   "Application form"
+  ],
+  "deadlines": [
+   "Non-EU deadline on the academic calendar: confirm date"
+  ],
+  "tests": {
+   "english": "No English test found for the masters; a welcome guide mentions B1 (unclear whether German or English).",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Strong CS and maths prerequisites.",
+   "Cheapest verified tuition in this dataset after Germany's no-fee programmes."
+  ],
+  "scholarships": [
+   {
+    "name": "OeAD scholarships",
+    "amount": "Varies",
+    "who": "Check oead.at"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadline",
+   "English requirement"
+  ],
+  "sources": [
+   "https://www.tuwien.at/en/studies/studies/master-programmes/informatics/data-science",
+   "https://www.tuwien.at/en/studies/admission/students-union-fee-and-tuition-fee/tuition-fee"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p71": {
+  "process": [
+   "Check the 2027/28 call: four selection rounds between March and September 2027.",
+   "Sit the written aptitude test and written English test, then a motivational interview. A minimum of 60/100 is required.",
+   "Foreign degrees qualify if the admission committee deems them equivalent.",
+   "Pay EUR 14,800 (VAT-free) in three instalments."
+  ],
+  "documents": [
+   "Degree and transcripts",
+   "CV",
+   "Motivation",
+   "English proof"
+  ],
+  "deadlines": [
+   "Rounds March to September 2027"
+  ],
+  "tests": {
+   "english": "Written English test at selection.",
+   "aptitude": "Written aptitude test.",
+   "other": "Motivational interview."
+  },
+  "india": [
+   "This is a Bologna Business School professional master, not a laurea magistrale; confirm the study-visa route and credential value with BBS.",
+   "Selection details are from the sister Data Science and Business Analytics master; confirm for AI for Management."
+  ],
+  "scholarships": [
+   {
+    "name": "BBS scholarships",
+    "amount": "Not captured",
+    "who": "Check the BBS page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Selection details for this master",
+   "Visa route",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.bbs.unibo.it/en/master-fulltime/artificial-intelligence-2/",
+   "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/professional-master/2026-2027/artificial-intelligence-for-management-1"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p72": {
+  "process": [
+   "Take the GMAT or GRE (SMU codes: GMAT F8D-Z4-61, GRE 2861) or the SMU Admission Test (cut-off 56).",
+   "Some applicants can use undergraduate GPA instead of a test: thresholds differ across pages (3.0 or 3.4 on 4.0).",
+   "Apply (SGD 100) for the August or January intake.",
+   "Pay the deposit (SGD 10,000, or SGD 8,000 from August 2027)."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "CV",
+   "Test result",
+   "Application fee"
+  ],
+  "deadlines": [
+   "August and January intakes; dates not captured"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "GMAT/GRE for international applicants, or the SMU Admission Test.",
+   "other": "Prefers about 2 years of business or technology work experience."
+  },
+  "india": [
+   "Tuition SGD 56,680 including GST; older page shows SGD 51,360."
+  ],
+  "scholarships": [
+   {
+    "name": "Partner-university discount",
+    "amount": "SGD 4,000",
+    "who": "International exchange and partner-university students"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "English requirement",
+   "Deadlines",
+   "GPA threshold"
+  ],
+  "sources": [
+   "https://masters.smu.edu.sg/programme/master-of-it-in-business",
+   "https://scis.smu.edu.sg/master-it-business/admission-main/fees"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p73": {
+  "process": [
+   "Check you have a STEM bachelor's with CGPA 3.0 on 4.0 (3.2 on older pages).",
+   "Prepare two referee recommendations and pass the online screening exam in advanced maths and programming.",
+   "Prove English: TOEFL 90, IELTS 6.5 or EmSAT 1550.",
+   "Apply: the last cycle I found had a priority deadline of 15 January and late applications until 31 May (2025 intake: confirm 2027 dates)."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "Two referees",
+   "English proof",
+   "Statement and CV"
+  ],
+  "deadlines": [
+   "2025 intake: 15 Jan priority; 31 May late. Confirm for 2027."
+  ],
+  "tests": {
+   "english": "TOEFL iBT 90, IELTS 6.5, EmSAT 1550.",
+   "aptitude": "Online screening exam (maths, programming). GRE optional.",
+   "other": ""
+  },
+  "india": [
+   "MBZUAI says most full-time admitted students get a full scholarship: 100% tuition, accommodation, health insurance, visa, and a monthly stipend (AED 8,000 quoted). The cost shown here is the no-scholarship figure of AED 30,000 tuition plus assumed living costs, to stay consistent with the other rows.",
+   "This is a machine learning degree: strong programming and maths are expected."
+  ],
+  "scholarships": [
+   {
+    "name": "MBZUAI full scholarship",
+    "amount": "100% tuition + housing + health + visa + stipend",
+    "who": "Most full-time admits; continuation depends on academic standing",
+    "url": "https://mbzuai.ac.ae/admissions/graduate-masters-admissions"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 deadline",
+   "Whether the scholarship applies to your intake",
+   "Which MSc fee applies"
+  ],
+  "sources": [
+   "https://mbzuai.ac.ae/study/msc-programs/master-of-science-in-machine-learning/",
+   "https://mbzuai.ac.ae/admissions/graduate-masters-admissions"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p74": {
+  "process": [
+   "Check you hold a bachelor's in a compatible field, completed by September 2027.",
+   "Wait for the 2027/28 call: applications open January 2027.",
+   "Apply (EUR 51 fee), upload an ID document, and show spoken and written English.",
+   "On admission pay the EUR 2,500 pre-registration fee: it is deducted from tuition."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "ID",
+   "English proof"
+  ],
+  "deadlines": [
+   "Applications open January 2027; the 2026/27 cohort is full"
+  ],
+  "tests": {
+   "english": "Not specified.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Tuition EUR 8,000 total for other nationalities: EUR 5,300 in year 1 and EUR 2,700 in year 2."
+  ],
+  "scholarships": [
+   {
+    "name": "NOVA IMS scholarships",
+    "amount": "Not captured",
+    "who": "Check the programme page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027/28 fee",
+   "English requirement"
+  ],
+  "sources": [
+   "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p75": {
+  "process": [
+   "Check you have a bachelor's (any major) with a 3.0 GPA and calculus.",
+   "GMAT/GRE is optional but required for scholarship consideration (GRE code R6897). Recent admits average about 634 GMAT or 311 GRE.",
+   "Prove English: TOEFL 80, IELTS 6.5 or PTE 67.",
+   "Apply with transcripts, a letter of recommendation, a resume and a personal statement."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "Recommendation",
+   "Resume",
+   "Statement",
+   "English test"
+  ],
+  "deadlines": [
+   "Not captured: confirm on the Jindal pages"
+  ],
+  "tests": {
+   "english": "TOEFL iBT 80, IELTS 6.5 or PTE 67.",
+   "aptitude": "GMAT/GRE optional; needed for the Dean's Excellence Scholarship.",
+   "other": ""
+  },
+  "india": [
+   "Non-resident tuition about USD 1,528 per credit hour. A 36-credit programme is about USD 55,000. The Dean's Excellence Scholarship brings international tuition to the resident rate.",
+   "Now titled MS in Business Analytics and Artificial Intelligence."
+  ],
+  "scholarships": [
+   {
+    "name": "Dean's Excellence Scholarship",
+    "amount": "Pay the resident tuition rate (USD 1,250 per credit hour)",
+    "who": "Competitive; needs GMAT/GRE",
+    "url": "https://jindal.utdallas.edu/ms-business-analytics-faq/"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 tuition",
+   "Deadlines",
+   "3-year degree policy"
+  ],
+  "sources": [
+   "https://jindal.utdallas.edu/ms-business-analytics-faq/",
+   "https://academics.utdallas.edu/fact-sheets/jindal/ms-business-analytics-and-artificial-intelligence/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p76": {
+  "process": [
+   "Check you have a suitable bachelor's from Finland or abroad.",
+   "Apply 1 Oct 2026 to 31 Mar 2027 (closes early if places fill). Fee EUR 100.",
+   "Pay the first-year tuition: EUR 10,000 within 21 days of the admission email earns the EUR 5,000 early-bird discount.",
+   "Second-year tuition paid on time plus 60 ECTS in year one earns the EUR 5,000 LUT scholarship."
+  ],
+  "documents": [
+   "Degree and transcripts",
+   "English proof",
+   "Application fee"
+  ],
+  "deadlines": [
+   "1 Oct 2026 to 31 Mar 2027"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Tuition EUR 15,000 per academic year (the news item says per semester: the programme page and tuition page agree on per year).",
+   "Programme-specific prerequisites were not captured."
+  ],
+  "scholarships": [
+   {
+    "name": "Early bird discount",
+    "amount": "EUR 5,000 off year 1",
+    "who": "Pay the remaining EUR 10,000 within 21 days of the admission email"
+   },
+   {
+    "name": "LUT Scholarship (year 2)",
+    "amount": "EUR 5,000",
+    "who": "Automatic if you complete 60 ECTS in year one"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Programme prerequisites",
+   "English scores"
+  ],
+  "sources": [
+   "https://www.lut.fi/en/studies/business/masters-programmes-business-administration/masters-programme-business-analytics",
+   "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/tuition-fee"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p77": {
+  "process": [
+   "Check your bachelor's includes business administration, computer science, maths (calculus, statistics, probability, linear algebra) and research methods.",
+   "Indian bachelor's: the eligibility check asks for CGPA 3.0/4.0 or 80%.",
+   "Take IELTS 6.5 (6.0 per section).",
+   "Apply by 1 May 2027 (complete application); certified documents by 1 September. Fee EUR 100."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English certificate (no application is processed without one)",
+   "Application fee"
+  ],
+  "deadlines": [
+   "1 May 2027 (September start)",
+   "Documents: 1 Sept 2027"
+  ],
+  "tests": {
+   "english": "IELTS 6.5 overall with 6.0 per section, under 2 years old. TOEFL figures conflict across pages.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Fee EUR 21,700 (2026-27) and EUR 22,320 (2027-28) a year for non-EU students; programme is 2 years.",
+   "Indian grade conversion not confirmed: ask UT."
+  ],
+  "scholarships": [
+   {
+    "name": "University of Twente scholarships",
+    "amount": "Not captured",
+    "who": "Check the UT scholarships page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Indian grade conversion",
+   "TOEFL score"
+  ],
+  "sources": [
+   "https://www.utwente.nl/en/education/master/programmes/business-information-technology/financial-matters/",
+   "https://www.utwente.nl/en/education/master/programmes/business-information-technology/eligibility-check/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p78": {
+  "process": [
+   "Check the admission page for GMAT/GRE and degree rules (not captured in my search).",
+   "Apply by 1 April for non-EEA applicants (1 May for EEA).",
+   "Start the visa step in April, to be complete by 15 June.",
+   "Consider the pre-master if you lack the quantitative background."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof",
+   "Test scores if required"
+  ],
+  "deadlines": [
+   "1 April 2027 (non-EEA)"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "Not confirmed: check the admission page.",
+   "other": ""
+  },
+  "india": [
+   "Institutional fee EUR 21,000 for non-EEA students in 2026-27; the 2027-28 figure was not found.",
+   "Nuffic may rate a 3-year Indian pass degree below WO level."
+  ],
+  "scholarships": [
+   {
+    "name": "Erasmus University scholarships",
+    "amount": "Not captured",
+    "who": "Check the scholarship pages"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Admission tests",
+   "2027-28 fee"
+  ],
+  "sources": [
+   "https://www.eur.nl/en/master/data-science-and-marketing-analytics/facts-figures",
+   "https://www.eur.nl/en/master/data-science-and-marketing-analytics/admission"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p79": {
+  "process": [
+   "Have basic SQL and Python skills.",
+   "Optionally sit the GMAT or GRE (highly recommended, no minimum); submit scores within one month after the deadline.",
+   "Apply by Phase 1 (11 Oct 2026, passed) or Phase 2 (29 Nov 2026). Rolling admission; fee HK$800.",
+   "Prove English: TOEFL iBT 80 (old scale) or 4.5 (new), or IELTS 6.5 with no sub-score below 5.5."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English test",
+   "CV",
+   "Optional GMAT/GRE"
+  ],
+  "deadlines": [
+   "Phase 2: 29 Nov 2026 (Phase 1, 11 Oct, has passed)"
+  ],
+  "tests": {
+   "english": "TOEFL iBT 80 / 4.5 (new scale) or IELTS 6.5 (no sub-score below 5.5).",
+   "aptitude": "GMAT/GRE optional, no minimum.",
+   "other": ""
+  },
+  "india": [
+   "Programme fee HK$415,000 for 2027/28 (HK$375,000 on an older catalog page), excluding living costs.",
+   "Non-local students pay a HK$1,000 visa fee."
+  ],
+  "scholarships": [
+   {
+    "name": "HK Future Talents Scholarship Scheme for Advanced Studies",
+    "amount": "Not captured",
+    "who": "Check eligibility on HKUST's page",
+    "url": "https://fytgs.hkust.edu.hk/hong-kong-future-talents-scholarship-scheme-advanced-studies"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "Scholarship terms"
+  ],
+  "sources": [
+   "https://msba.hkust.edu.hk/admission/admission-requirements",
+   "https://msba.hkust.edu.hk/admission/program-fee-expenses",
+   "https://msba.hkust.edu.hk/admission/application-schedule-procedures"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p80": {
+  "process": [
+   "Prepare for the Data Structures Proficiency Exam (details not captured).",
+   "No GRE required for the MCS.",
+   "Apply to the Siebel School's online MCS (data science track): eight courses in a 5-year window.",
+   "International students are not issued I-20s and need not come to campus."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English test per Siebel School",
+   "Statement and references"
+  ],
+  "deadlines": [
+   "Not captured"
+  ],
+  "tests": {
+   "english": "Not captured: check the Siebel School's international page.",
+   "aptitude": "No GRE. Data Structures Proficiency Exam.",
+   "other": ""
+  },
+  "india": [
+   "Non-resident/international tuition about USD 793 per credit hour for 2026-27, so 32 credits is about USD 25,400 (my calculation). Earlier published rates were lower.",
+   "Fully online: no student visa, no OPT."
+  ],
+  "scholarships": [
+   {
+    "name": "None known",
+    "amount": "-",
+    "who": "Low-cost by design"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "English requirement",
+   "Exam details",
+   "Total cost with fees"
+  ],
+  "sources": [
+   "https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science-data-science",
+   "https://siebelschool.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p81": {
+  "process": [
+   "Check you have a bachelor's with at least second class and knowledge of multivariate calculus, statistical inference and programming.",
+   "Apply by 15 January for the fall start.",
+   "Complete three online non-credit propaedeutic courses before the programme starts.",
+   "Pay the non-refundable CAD 2,000 deposit after accepting the offer."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof"
+  ],
+  "deadlines": [
+   "15 January (fall)"
+  ],
+  "tests": {
+   "english": "Required: score not captured.",
+   "aptitude": "None.",
+   "other": "Three non-credit online courses."
+  },
+  "india": [
+   "International fees conflict: CAD 2,218 tuition plus a CAD 6,761 special fee per semester over three semesters (department table). The programme page shows CAD 1,074 to 2,218 a semester plus a special fee.",
+   "A 4-year degree is typical for graduate admission in Canada: check the 3-year rule."
+  ],
+  "scholarships": [
+   {
+    "name": "Memorial funding",
+    "amount": "Not captured",
+    "who": "Check the School of Graduate Studies"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fees",
+   "English score",
+   "3-year degree rule"
+  ],
+  "sources": [
+   "https://www.mun.ca/become/graduate/programs-and-courses/data-science/",
+   "https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/expenses-and-fees/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p82": {
+  "process": [
+   "Check you have a relevant bachelor's with a B average in your major's 300-level courses (or an honours/postgraduate diploma with a B average).",
+   "Take IELTS 6.5 with no band below 6.0 (or recent English-medium study).",
+   "Apply at least three months before the start date."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "IELTS",
+   "Passport"
+  ],
+  "deadlines": [
+   "Apply 3 months before start"
+  ],
+  "tests": {
+   "english": "IELTS Academic 6.5 with no band below 6.0.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Estimated NZD 61,560 for 180 credits (2027), 1.5 years full-time; depends on courses chosen.",
+   "India-specific grade mapping not found."
+  ],
+  "scholarships": [
+   {
+    "name": "Massey scholarships",
+    "amount": "Not captured",
+    "who": "Check the Massey page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "India grade mapping",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-analytics-PMANL/",
+   "https://www.massey.ac.nz/study/fees-and-funding/tuition-fees-for-international-students/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p83": {
+  "process": [
+   "Apply on the UC3M portal (deadline was 31 May 2026 for the last intake; the page showed closed with 40 places).",
+   "Decisions come in March, June and July.",
+   "After admission, legalise your foreign diplomas and transcripts.",
+   "Pay the reservation fee."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof",
+   "Legalised diplomas after admission"
+  ],
+  "deadlines": [
+   "Last intake: 31 May 2026; confirm the 2027 date"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Non-EU tuition EUR 120 per ECTS, so EUR 7,200 for the 60-credit first year (2025/26 figures, pending approval for 2026/27)."
+  ],
+  "scholarships": [
+   {
+    "name": "UC3M grants",
+    "amount": "4 grants of EUR 1,500",
+    "who": "Require a submitted application"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 deadline",
+   "English requirement",
+   "2026/27 fee"
+  ],
+  "sources": [
+   "https://www.uc3m.es/master/big-data-analytics",
+   "https://www.uc3m.es/postgraduate/enrollment/prices"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p84": {
+  "process": [
+   "Check the programme's requirements on the University of Warsaw portal (English at B2 or higher).",
+   "Apply through the University of Warsaw recruitment portal.",
+   "Pay fees by one payment (EUR 3,900) or instalments (EUR 4,000 to 4,250)."
+  ],
+  "documents": [
+   "Degree and transcripts",
+   "English B2 certificate"
+  ],
+  "deadlines": [
+   "Not captured"
+  ],
+  "tests": {
+   "english": "B2 minimum.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Fee EUR 3,900 a year for 2025/26 entrants; confirm for 2027.",
+   "India-specific documents were not found."
+  ],
+  "scholarships": [
+   {
+    "name": "University of Warsaw scholarships",
+    "amount": "Not captured",
+    "who": "Check the recruitment portal"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadline",
+   "India documents",
+   "2027 fee"
+  ],
+  "sources": [
+   "https://informatorects.uw.edu.pl/en/programmes-all/DSBA-PRK/S2-PRK-DSBA/",
+   "https://rekrutacja.uw.edu.pl/en/application-and-tuition-fees/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p85": {
+  "process": [
+   "Follow SGH's step-by-step guide for international applicants.",
+   "SGH has one intake a year: the 2026 round ran 9 June to 23 July, so expect June to July 2027.",
+   "Pay EUR 2,400 per semester (EUR 2,450 if in five instalments)."
+  ],
+  "documents": [
+   "As listed on the SGH international applicant guide"
+  ],
+  "deadlines": [
+   "About June to July 2027"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Tuition EUR 2,400 per semester for 2026/27 (four semesters about EUR 9,600)."
+  ],
+  "scholarships": [
+   {
+    "name": "SGH scholarships",
+    "amount": "Not captured",
+    "who": "Check SGH"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Documents",
+   "English requirement",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.sgh.waw.pl/en/second-cycle-studies/master-studies-advanced-analytics-big-data",
+   "https://www.sgh.waw.pl/en/fees-graduate-studies"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p86": {
+  "process": [
+   "Check you have a bachelor's (recommended in a related field).",
+   "Applications for September 2027 open in November 2026. Past deadlines: 28 February (recommended for visa applicants) and 30 April.",
+   "Submit proof of English, a CV on VŠE's template, an ID scan and the credential assessment, then take the online oral exam.",
+   "Pay the EUR 100 application fee."
+  ],
+  "documents": [
+   "Degree",
+   "CV (VŠE template)",
+   "English proof",
+   "Passport/ID",
+   "Assessment of previous education"
+  ],
+  "deadlines": [
+   "Opens Nov 2026; deadlines about 28 Feb and 30 April"
+  ],
+  "tests": {
+   "english": "Required: score not captured.",
+   "aptitude": "Online oral admission exam.",
+   "other": ""
+  },
+  "india": [
+   "Programme shown is Economic Data Analysis (VŠE does not list a 'Business Analytics' master). Tuition EUR 5,000 a year for 2026 enrolment and EUR 6,000 from September 2027 (one page says 6,000 for all)."
+  ],
+  "scholarships": [
+   {
+    "name": "VŠE scholarships",
+    "amount": "Not captured",
+    "who": "Check VŠE"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "English score",
+   "Exact deadlines",
+   "Entrance requirements PDF"
+  ],
+  "sources": [
+   "https://fis.vse.cz/english/admissions/admissions/master/",
+   "https://fis.vse.cz/english/admissions/study-in-the-cz/cost-of-living/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p87": {
+  "process": [
+   "Check your degree: BSc in IS/CS/software engineering needs 60 credits in listed areas; other degrees need 70.",
+   "Take the in-house written exam or provide a recognised test score (not confirmed for this MSc).",
+   "Apply: one old page says 30 March for non-Hungarian applicants.",
+   "Missing credits can be completed in the first two semesters."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof"
+  ],
+  "deadlines": [
+   "Not confirmed"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "In-house exam or recognised test.",
+   "other": ""
+  },
+  "india": [
+   "Fee EUR 7,000 a year for Business Informatics (fees page) or about EUR 8,000 (programme page); 20% of tuition (2026) or EUR 500 (2027) is a non-refundable registration fee.",
+   "Stipendium Hungaricum is a route for non-EU students: confirm India and the deadline."
+  ],
+  "scholarships": [
+   {
+    "name": "Stipendium Hungaricum",
+    "amount": "Not captured",
+    "who": "India eligibility unconfirmed",
+    "url": "https://stipendiumhungaricum.hu"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fee",
+   "Deadline",
+   "Scholarship eligibility"
+  ],
+  "sources": [
+   "https://www.uni-corvinus.hu/post/landing-page/masters/msc-in-business-informatics/?lang=en",
+   "https://www.uni-corvinus.hu/post/landing-page/application/fees-and-costs/?lang=en"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p88": {
+  "process": [
+   "Check you have a bachelor's (180 CP) in computer science or related.",
+   "Prove English C1; a medium-of-instruction letter is not accepted.",
+   "Prepare a dossier and two qualified expert opinions.",
+   "Apply by 15 May (for the winter term) or 15 November (summer term): the pages swap these, so confirm."
+  ],
+  "documents": [
+   "Degree and transcripts",
+   "C1 English certificate",
+   "Dossier",
+   "Two expert opinions"
+  ],
+  "deadlines": [
+   "15 May and 15 November (confirm which semester)"
+  ],
+  "tests": {
+   "english": "C1 required. No MOI exemption.",
+   "aptitude": "No GRE found.",
+   "other": "Dossier and two expert opinions."
+  },
+  "india": [
+   "No study fees are charged; only a semester fee.",
+   "Strict CS background."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadlines",
+   "GRE",
+   "Semester fee"
+  ],
+  "sources": [
+   "https://www.uni-saarland.de/en/study/programmes/master/data-science.html",
+   "https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p89": {
+  "process": [
+   "Check your CGPA converts to 2.9 or better on the German scale.",
+   "Check you have 72 ECTS across IS, CS, quantitative methods and business, with 24 in your chosen major.",
+   "Prove English C1 (certificate under 2 years old).",
+   "Apply 10 May to 15 July (winter) or 10 Nov to 15 Jan (summer). Submit course descriptions, not just transcripts."
+  ],
+  "documents": [
+   "Course descriptions",
+   "Transcripts",
+   "C1 English certificate",
+   "Degree"
+  ],
+  "deadlines": [
+   "Winter: 10 May to 15 July",
+   "Summer: 10 Nov to 15 Jan"
+  ],
+  "tests": {
+   "english": "C1 required. A statement that English was the medium of instruction is not enough.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "The non-EU deadlines are the same as EU deadlines.",
+   "Tuition not captured: assumed none for non-EU students (NRW), with a semester contribution only: confirm."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Tuition status",
+   "Grade conversion"
+  ],
+  "sources": [
+   "https://www.wi.uni-muenster.de/prospective-students/our-courses-study/master-science-information-systems/application-and-admission",
+   "https://www.wi.uni-muenster.de/prospective-students/faq"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p90": {
+  "process": [
+   "Check you have a 2:1 equivalent in a quantitative field (India: 60%, 8.0/10 or 3.2/4; 55%, 7.0 or 3.0 for institutions on Edinburgh's list).",
+   "Apply in one of five rounds: 14 Oct 2026, 9 Dec 2026, 10 Feb 2027, 21 Apr 2027, 9 Jun 2027. Fee GBP 60.",
+   "Take IELTS 7.0 with 6.0 in each component.",
+   "Pay the GBP 2,500 deposit within 28 days of an offer."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English test",
+   "References and statement as on the portal"
+  ],
+  "deadlines": [
+   "R1 14 Oct 2026",
+   "R2 9 Dec 2026",
+   "R3 10 Feb 2027",
+   "R4 21 Apr 2027",
+   "R5 9 Jun 2027"
+  ],
+  "tests": {
+   "english": "IELTS Academic 7.0 overall, 6.0 per component.",
+   "aptitude": "None found. Python course strongly recommended.",
+   "other": ""
+  },
+  "india": [
+   "Fee GBP 36,540 for 2027 entry.",
+   "Edinburgh's two India pages show different bars: check the official table."
+  ],
+  "scholarships": [
+   {
+    "name": "Edinburgh alumni discount",
+    "amount": "10% of tuition",
+    "who": "University of Edinburgh graduates"
+   },
+   {
+    "name": "Business School scholarships",
+    "amount": "Not captured",
+    "who": "Check the programme page"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "India grade bar",
+   "Scholarship amounts"
+  ],
+  "sources": [
+   "https://www.business-school.ed.ac.uk/msc/business-analytics/entry-requirements",
+   "https://study.ed.ac.uk/programmes/postgraduate-taught/929-business-analytics",
+   "https://www.business-school.ed.ac.uk/msc/business-analytics/fees-living-expenses"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p91": {
+  "process": [
+   "Check you have a university bachelor's with the data science topics the programme lists and English at Danish B-level with a minimum of 3 grade-point average.",
+   "Apply for 2027 (2026 fee EUR 150; deadline not confirmed).",
+   "Pay tuition twice a year in advance: 5 January and 5 August (no instalments)."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof"
+  ],
+  "deadlines": [
+   "Not confirmed (15 January is the usual Danish date)"
+  ],
+  "tests": {
+   "english": "Danish B-level English.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "Tuition EUR 8,250 per semester for 2026 admits, EUR 33,000 over two years.",
+   "ITU announced industrial masters combining study and employment from 2027."
+  ],
+  "scholarships": [
+   {
+    "name": "ITU scholarships",
+    "amount": "Not captured",
+    "who": "Check the page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 deadline and fee"
+  ],
+  "sources": [
+   "https://en.itu.dk/Programmes/MSc-Programmes/Applying-to-a-MSc-programme/Non-EU-EOES",
+   "https://en.itu.dk/Programmes/MSc-Programmes/Applying-to-a-MSc-programme/Admission-requirements-DS"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p92": {
+  "process": [
+   "Check you have a bachelor's with a grade of at least 2.7 (the regulations PDF says 2.5) and at least 44 credit points in maths, computer science and statistics.",
+   "Write a statistical project report.",
+   "Prove English B2.",
+   "Apply through the International Office: dates not captured. The programme is not admission-restricted."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English B2 proof",
+   "Statistical project report"
+  ],
+  "deadlines": [
+   "See the TU Dortmund International Office"
+  ],
+  "tests": {
+   "english": "B2 minimum. No German needed.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "No tuition fees; semester fee only (amount not captured)."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Deadlines",
+   "Semester fee",
+   "Grade threshold"
+  ],
+  "sources": [
+   "https://statistik.tu-dortmund.de/en/studies/degrees/data-science-msc/admission/",
+   "https://statistik.tu-dortmund.de/en/studies/student-advisory-and-faqs/enrollment-master-foreign-students/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p93": {
+  "process": [
+   "Check you have a 180-credit degree with at least 7.5 credits of programming, or a degree in statistics.",
+   "Show English 6.",
+   "Apply on universityadmissions.se between mid-October 2026 and mid-January 2027. Fee SEK 900.",
+   "Pay tuition after admission."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof",
+   "Syllabi"
+  ],
+  "deadlines": [
+   "Mid-Oct 2026 to mid-Jan 2027"
+  ],
+  "tests": {
+   "english": "English 6 / level 2.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Fee between SEK 135,000 and 140,000 a year (pages differ); programme is 2 years."
+  ],
+  "scholarships": [
+   {
+    "name": "SI scholarships and Stockholm University scholarships",
+    "amount": "Varies",
+    "who": "Fee-paying non-EU students: check India eligibility for SI"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fee",
+   "Programme-specific rules"
+  ],
+  "sources": [
+   "https://dsv.su.se/sdsbo",
+   "https://www.su.se/english/education/how-to-apply/costs-fees-and-scholarships"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p94": {
+  "process": [
+   "Check your bachelor's is at least 3 years (180 ECTS) and state-accredited.",
+   "Check GMAT or GRE: the informatics FAQ lists it for foreign bachelor's, but the table is ambiguous: email admission@oec.uzh.ch.",
+   "Apply by 30 April (fall) or 30 November (spring) for foreign qualifications (older document: confirm).",
+   "Pay semester fees of about CHF 789 (CHF 689 plus CHF 100 for foreign students)."
+  ],
+  "documents": [
+   "Accredited bachelor's diploma",
+   "Transcripts",
+   "GMAT/GRE if required",
+   "Language proof"
+  ],
+  "deadlines": [
+   "30 April (fall), 30 November (spring): confirm"
+  ],
+  "tests": {
+   "english": "Language proof required; score not captured.",
+   "aptitude": "GMAT/GRE possibly mandatory for foreign bachelor's.",
+   "other": ""
+  },
+  "india": [
+   "Data Science prerequisites: linear algebra, multivariate calculus, probability."
+  ],
+  "scholarships": [
+   {
+    "name": "UZH scholarships",
+    "amount": "Not captured",
+    "who": "Check the UZH page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "GMAT/GRE rule",
+   "Deadlines",
+   "Fees"
+  ],
+  "sources": [
+   "https://www.oec.uzh.ch/en/academic-programs/master/it.html",
+   "https://www.uzh.ch/en/studies/application/fees.html"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p95": {
+  "process": [
+   "Check you have a 2.1 equivalent in any subject (this is a conversion programme). India: 55 to 63% depending on your university.",
+   "Apply to Glasgow for September 2027 and pay the GBP 2,000 deposit to hold the place.",
+   "Prove English (IELTS 6.5 with no subtest below 6.0, or the accepted equivalents).",
+   "Apply for the Indian Excellence Award or World Changers award alongside."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English test",
+   "Personal statement",
+   "References"
+  ],
+  "deadlines": [
+   "Not captured: scholarship dates are separate"
+  ],
+  "tests": {
+   "english": "IELTS 6.5 with no subtest below 6.0 (or LanguageCert 70 / 65).",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Fee GBP 34,815 for international students (2027/28).",
+   "Open to any bachelor's subject: one of the few UK analytics masters for non-quantitative graduates."
+  ],
+  "scholarships": [
+   {
+    "name": "Indian Excellence Award",
+    "amount": "GBP 12,500 off tuition",
+    "who": "Indian applicants",
+    "url": "https://www.gla.ac.uk/schools/business/postgraduate/asbs-india/"
+   },
+   {
+    "name": "World Changers award",
+    "amount": "GBP 12,500",
+    "who": "Up to 12 for Indian students starting a one-year masters in 2027/28"
+   }
+  ],
+  "confidence": "verified",
+  "unverified": [
+   "Scholarship deadlines"
+  ],
+  "sources": [
+   "https://www.gla.ac.uk/postgraduate/taught/business-analytics/",
+   "https://www.gla.ac.uk/schools/business/postgraduate/asbs-india/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p96": {
+  "process": [
+   "Check you have a bachelor's in computer science, IT, software engineering or related (or 24 ECTS of computer science including programming and algorithms).",
+   "Apply through DreamApply (the 2026 window was 2 January to 15 March; fee EUR 100). 2027 dates by end of December.",
+   "Pre-pay half the first semester's tuition; the rest by 20 September.",
+   "Register in person at the Admissions Office by 31 August: failing this revokes admission and visa."
+  ],
+  "documents": [
+   "Degree and transcripts",
+   "ENIC/NARIC evaluation (about 1 month)",
+   "English proof"
+  ],
+  "deadlines": [
+   "2026 round: 2 Jan to 15 Mar; results by 30 April"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "Entrance exam may apply: check.",
+   "other": ""
+  },
+  "india": [
+   "Tuition EUR 7,200 a year for non-EU students; tuition waivers ended for new non-EU admits from 2026/27.",
+   "The programme is Computer Science (there is no English-taught data science master)."
+  ],
+  "scholarships": [
+   {
+    "name": "None for new non-EU admits",
+    "amount": "-",
+    "who": "University says it no longer offers tuition waivers from 2026/27"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "2027 dates",
+   "English score"
+  ],
+  "sources": [
+   "https://ut.ee/en/curriculum/computer-science",
+   "https://cs.ut.ee/en/content/computer-science-msc"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p97": {
+  "process": [
+   "Check you have an undergraduate diploma completed within the last five years.",
+   "Pass the Online Mathematics Placement Test (OMPT-E) with at least 70%.",
+   "Provide two references and a motivation letter.",
+   "Apply from 1 December 2026; non-EU applicants needing a visa apply by 1 May. Fee EUR 100. Pay tuition within 15 days of the offer."
+  ],
+  "documents": [
+   "Diploma and transcripts",
+   "OMPT-E result",
+   "Two references",
+   "Motivation letter",
+   "Application fee"
+  ],
+  "deadlines": [
+   "Opens 1 Dec 2026",
+   "1 May 2027 (non-EU, visa needed)"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "OMPT-E 70% minimum.",
+   "other": ""
+  },
+  "india": [
+   "Tuition EUR 6,000 a year; programme is 1.5 years (90 ECTS).",
+   "Vilnius has no business analytics master; this is the closest."
+  ],
+  "scholarships": [
+   {
+    "name": "Vilnius University scholarships",
+    "amount": "Not captured",
+    "who": "Check the page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "English requirement",
+   "Scholarships"
+  ],
+  "sources": [
+   "https://www.vu.lt/en/studies/master-studies/data-science",
+   "https://apply.vu.lt/courses/course/36-data-science"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p98": {
+  "process": [
+   "Check you have a 180 ECTS bachelor's in maths, physics, engineering or economics with enough maths.",
+   "Apply in the non-EU window (2026: 1 Feb to 24 Mar).",
+   "Selection weighs maths courses and grades heavily.",
+   "Show at least EUR 18,211 a year in resources (2025 figure) and enrol in Luxembourg social security."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "Proof of funds",
+   "English proof"
+  ],
+  "deadlines": [
+   "Non-EU window about 1 Feb to 24 Mar 2027 (2026 dates shown)"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "No separate tuition for international students; EUR 400 a semester fee (an older page says EUR 200).",
+   "Social-security affiliation adds cost."
+  ],
+  "scholarships": [
+   {
+    "name": "University of Luxembourg",
+    "amount": "Not captured",
+    "who": "Check the admissions page"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Fee",
+   "English requirement",
+   "2027 window"
+  ],
+  "sources": [
+   "https://www.uni.lu/fstm-en/study-programs/master-in-data-science/admissions/",
+   "https://www.uni.lu/en/admissions/admission-criteria/"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p99": {
+  "process": [
+   "Check the programme's page: it is taught entirely in English and open to international students.",
+   "Apply through the STiNE portal (no application fee).",
+   "Pay only the semester contribution (no tuition)."
+  ],
+  "documents": [
+   "Transcripts",
+   "Degree",
+   "English proof",
+   "APS and uni-assist VPD as for other German universities"
+  ],
+  "deadlines": [
+   "Not captured"
+  ],
+  "tests": {
+   "english": "Not captured.",
+   "aptitude": "None found.",
+   "other": ""
+  },
+  "india": [
+   "The Hamburg page I found is about 522 days old: check current requirements."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Requirements",
+   "Deadlines",
+   "Semester contribution"
+  ],
+  "sources": [
+   "https://www.inf.uni-hamburg.de/en/studies/master/dsai.html"
+  ],
+  "checked": "2026-10-25"
+ },
+ "p100": {
+  "process": [
+   "Check you have a bachelor's with at least 39 credits in maths, including 12 in calculus and linear algebra.",
+   "Prove English B2.",
+   "Apply for the winter term only (start 1 October); non-EU window about 15 April to 31 May.",
+   "Pay EUR 1,500 per semester plus the semester fee (about EUR 190)."
+  ],
+  "documents": [
+   "Degree and transcripts",
+   "English B2 proof",
+   "Module descriptions"
+  ],
+  "deadlines": [
+   "Winter term: apply 15 April to 31 May"
+  ],
+  "tests": {
+   "english": "B2.",
+   "aptitude": "None.",
+   "other": ""
+  },
+  "india": [
+   "Baden-Württemberg charges non-EU students EUR 1,500 a semester: EUR 6,000 over 4 semesters."
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, via the university"
+   }
+  ],
+  "confidence": "partial",
+  "unverified": [
+   "Application window for this programme (the 15 April to 31 May window is quoted for the CS master)"
+  ],
+  "sources": [
+   "https://www.math.uni-freiburg.de/nlehre/en/page/mscdata/",
+   "https://uni-freiburg.de/en/studies/during-your-studies/tuition-fees-international-students/"
+  ],
+  "checked": "2026-10-25"
+ }
+}

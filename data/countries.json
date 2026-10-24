@@ -1,0 +1,612 @@
+{
+ "Germany": {
+  "credential": "APS certificate is mandatory for Indian degrees (named on Mannheim, TUM and WHU pages). Check your degree field on aps-india.de: from the summer 2027 intake some fields also need the dMAT test. Foreign bachelor's degrees also need a uni-assist VPD at most public universities (about 8 weeks at Cologne).",
+  "threeYear": "A 3-year Indian bachelor's is workable for most 2-year German master's if the target accepts 180 ECTS and your Indian university and degree are rated acceptable in anabin. DAAD India treats a 4-year degree as equal to a German bachelor's and tells 3-year holders to ask the course coordinator first. Programmes marked 'need 240 ECTS' will reject a 3-year degree.",
+  "visa": "National student visa. Blocked account about EUR 11,904 for 2026 (EUR 992 a month), health insurance, admission letter, APS. Book the embassy slot early: peak season is March to July.",
+  "work": "Non-EU students may work 140 full days or 280 half days a year outside the university. University jobs are exempt (DAAD).",
+  "after": "18-month job-search permit after a German degree (s.20 AufenthG). EU Blue Card 2026 salary: EUR 50,700, or EUR 45,934.20 for shortage occupations and graduates within three years (Make it in Germany). Settlement after 27 months, or 21 months with B1 German (s.18c).",
+  "english": "Most English-taught public master's want IELTS 6.5 (about TOEFL 85-95). MOI letters are often not accepted: RWTH rejects them outright.",
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium",
+    "amount": "EUR 300 a month",
+    "who": "Merit, open to international students at participating universities; each university runs its own call",
+    "url": "https://www.deutschlandstipendium.de"
+   },
+   {
+    "name": "DAAD scholarship database",
+    "amount": "Varies",
+    "who": "148 listings; set Country = India and Programmes for = Graduates. Most DAAD master's awards need a high CGPA and often 2 years of work experience",
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/"
+   }
+  ],
+  "sources": [
+   "https://aps-india.de/faqs/",
+   "https://www.daad.in/en/study-research-in-germany/studying-in-germany/master-studies/",
+   "https://www.daad.de/en/studying-in-germany/work-career/side-jobs/",
+   "https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/b_Arbeitgeber/PDF-Dateien/BMWE_Possibilities_of_skilled_worker_immigration_2026_EN.pdf"
+  ],
+  "confidence": "partial"
+ },
+ "Ireland": {
+  "credential": "No central credential check for Indian degrees. Each university converts your marks to an Irish honours grade (2.1 is the usual bar). Ask each admissions office for its India grade table, because the cut-off percentage differs by university.",
+  "threeYear": "Most Irish taught master's accept a 3-year Indian bachelor's if the university rates it equal to an Irish honours degree. Maynooth asks for a 4-year degree or equivalent. Check each course page.",
+  "visa": "Study visa for Indians through VFS. Funds reported by consultancies: EUR 10,000 of immediately accessible living funds plus proof of tuition paid (EUR 6,000 or the full fee, sources disagree). Check the Immigration Service Delivery site before paying anything.",
+  "work": "Students can work part-time during term and full-time in holidays (hours limits: confirm on the Immigration Service Delivery site).",
+  "after": "Stamp 1G Third Level Graduate Programme: a master's (Level 9) graduate gets 12 months, renewable for a further 12 if you show graduate-level job search. Total capped at 24 months or 8 years in the State. Apply within 6 months of your award notification. Stamp 1G holders may not be self-employed. From there, a Critical Skills Employment Permit leads to Stamp 4.",
+  "english": "IELTS Academic 6.5 with no band below 6.0 is the usual standard. Results must be under 2 years old. Some courses want 7.0.",
+  "scholarships": [
+   {
+    "name": "Government of Ireland International Education Scholarship",
+    "amount": "EUR 10,000 stipend plus full fee waiver for one year",
+    "who": "Non-EU applicants with an offer on a full-time taught master's; about 60 awards a year; no earlier award",
+    "url": "https://hea.ie/policy/internationalisation/goi-ies/"
+   },
+   {
+    "name": "University merit awards",
+    "amount": "EUR 2,000 to 50% of fees",
+    "who": "Automatic or by application; see each programme"
+   }
+  ],
+  "sources": [
+   "https://www.irishimmigration.ie/my-situation-has-changed-since-i-arrived-in-ireland/third-level-graduate-programme/",
+   "https://hea.ie/policy/internationalisation/goi-ies/",
+   "https://collegedunia.com/ireland/news/ireland-tightens-student-visa-rules-from-2026"
+  ],
+  "confidence": "partial"
+ },
+ "Netherlands": {
+  "credential": "Dutch universities judge your degree against a Dutch research-university bachelor's (WO). Nuffic's India table rates a 3-year B.Sc (Pass) at 2 years of WO and a 3-year B.Com (Pass) or BCA at 3 years of HBO, below the usual master's entry level. Honours degrees from top institutions can reach WO level. The university makes the final decision.",
+  "threeYear": "Risky. A 3-year pass degree often fails the research-university test; TU/e asks for a 4-year degree with an 8.5/10 CGPA (75% if no CGPA) from a NAAC/AICTE-accredited or institute-of-national-importance university. Ask the admissions office to evaluate your degree before paying the application fee.",
+  "visa": "The university applies for your MVV and residence permit with the IND; you do not apply yourself. Sufficient means for 2026 are quoted between EUR 1,100 and 1,150 a month depending on the university. Health and liability insurance are required, and you must earn at least 50% of credits each year to keep the permit. Non-EU deadlines are early: 1 April to 1 May for September.",
+  "work": "Confirm the weekly work limit on the IND site before relying on income.",
+  "after": "Orientation year (zoekjaar) permit: one year to find work, available if you finish a qualifying programme within the past 3 years (IND fee EUR 254 for applications between 1 Jan 2026 and 1 Jan 2027). You can work freely during it. Then a highly-skilled-migrant permit through a recognised sponsor.",
+  "english": "IELTS Academic 6.5 with 6.0 to 6.5 in sub-bands or TOEFL iBT 92 is typical. Tilburg and UvA do not exempt Indian degrees. Scores must be under 2 years old.",
+  "scholarships": [
+   {
+    "name": "NL Scholarship (formerly Holland Scholarship)",
+    "amount": "Not confirmed here; check studyinnl.org",
+    "who": "Non-EEA students; about 2,112 awards a year, allocated by institutions",
+    "url": "https://www.nuffic.nl/en/nl-scholarship"
+   },
+   {
+    "name": "University merit awards",
+    "amount": "Varies",
+    "who": "VU Fellowship (tuition waiver, GPA equivalent to Dutch 8, call 1 Nov 2026), TU/e Scholarship for Excellence (apply by 1 Jan), UvA scholarship (deadline 15 Jan 2027)"
+   }
+  ],
+  "sources": [
+   "https://www.nuffic.nl/en/education-systems/india/level-of-diplomas",
+   "https://www.nuffic.nl/en/orientation-year-permits",
+   "https://ind.nl/en/residence-permits/study"
+  ],
+  "confidence": "partial"
+ },
+ "Canada": {
+  "credential": "Most graduate programmes ask for a 4-year bachelor's with a B or B+ average. Indian percentages are converted by each university, so ask for the conversion table. Schulich wants B+ in the last two years; UBC Sauder B+; SFU a 3.00 GPA on a 4.33 scale; Dalhousie 3.0 on 4.3.",
+  "threeYear": "A 3-year Indian bachelor's is usually not enough: Schulich, UBC, Dalhousie, Rotman and SFU all say four-year degree. A 3-year degree plus a postgraduate diploma or a master's may qualify. Ask the programme office before applying.",
+  "visa": "Study permit. Proof of funds for one person outside Quebec: C$22,895 for applications before 1 September 2026, C$23,448 from 1 September 2026, on top of first-year tuition and travel. A July 2026 report says officers now look at the source of funds and ask for about six months of bank statements. A GIC is one accepted option. Graduate students in degree programmes at public institutions are exempt from the provincial attestation letter (2026 IRCC transition binder).",
+  "work": "Confirm the off-campus work-hour limit on canada.ca before relying on income.",
+  "after": "Post-Graduation Work Permit: master's graduates have no field-of-study requirement, but must reach CLB 7 in English or French in all four skills, with a test result as proof. Up to 3 years. Apply within 180 days of your school confirming completion. PR is then usually through Express Entry (check current Canadian Experience Class rules).",
+  "english": "IELTS Academic 7.0 with 6.5 per band at Schulich, Rotman and UBC Sauder; 6.5 at Saint Mary's. TOEFL iBT now uses a 1 to 6 scale for tests after 21 January 2026. Plan to sit IELTS once at a level that also meets CLB 7.",
+  "scholarships": [
+   {
+    "name": "University entrance awards",
+    "amount": "Varies",
+    "who": "Rotman, Smith and Sauder run merit awards; see each programme"
+   },
+   {
+    "name": "Vector Institute scholarships (Ontario AI programmes)",
+    "amount": "C$17,500",
+    "who": "Offered at Queen's for the analytics/AI masters"
+   }
+  ],
+  "sources": [
+   "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+   "https://www.cicnews.com/2026/08/canada-hikes-funds-needed-by-study-permit-applicants-0879805.html",
+   "https://www.cicnews.com/2026/07/canada-tightens-financial-checks-for-study-permit-applications-0778664.html"
+  ],
+  "confidence": "partial"
+ },
+ "Australia": {
+  "credential": "Universities treat a recognised bachelor's as equal to an Australian one, but 3-year and 4-year Indian degrees get different credit. Monash's graduate table lists fewer semesters for a relevant 4-year degree than for a 3-year one (3 semesters with a 3-year bachelor's). Use the university's India grade-equivalence table for the minimum average.",
+  "threeYear": "Monash and Macquarie accept a 3-year Indian bachelor's for coursework masters but may add a semester or ask for 'Entry level 1' length. Ask what entry level your degree gets before comparing fees: it changes the cost by a full year.",
+  "visa": "Student visa subclass 500. Financial capacity for 2026 is quoted as AUD 29,710 for 12 months of living costs plus first-year tuition and travel (consultancy and migration-law sites agree; confirm on Home Affairs). The Genuine Student requirement replaced the GTE test in March 2024. One consultancy says India moved to Evidence Level 3 from 8 January 2026 (three months of statements and a clear source of funds): not confirmed on Home Affairs.",
+  "work": "Confirm the fortnightly work-hours limit on Home Affairs before budgeting for income.",
+  "after": "Temporary Graduate visa (485), Post-Higher Education Work stream: Home Affairs pages say 2, 3 or 4 years depending on the qualification, but I could not confirm the exact term for coursework masters, the age limit or the English requirement. Check before you rely on it.",
+  "english": "IELTS Academic 6.5 with no band below 6.0 for most masters; Melbourne asks 7.0 with no band below 6.5.",
+  "scholarships": [
+   {
+    "name": "University merit scholarships",
+    "amount": "Varies",
+    "who": "Most Australian universities offer partial tuition scholarships to international students: check each programme page"
+   },
+   {
+    "name": "Australia Awards",
+    "amount": "Full funding",
+    "who": "Government awards for selected countries: check eligibility for India before planning on it",
+    "url": "https://www.dfat.gov.au/people-to-people/australia-awards"
+   }
+  ],
+  "sources": [
+   "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/post-higher-education-work",
+   "https://oneplanetmigrationlaw.com.au/immigration-blog/student-visa-500-financial-capacity-requirement-2026/"
+  ],
+  "confidence": "partial"
+ },
+ "United Kingdom": {
+  "credential": "UK universities convert Indian marks to a UK class themselves. Typical bars seen: Edinburgh 60% (or 8.0/10, 3.2/4) for a 2:1; Manchester AMBS 60% to 70%; Bath First Class for Indian graduates; Imperial a 2:1 equivalent in a quantitative subject. Always check the university's own India table.",
+  "threeYear": "UK universities usually accept a 3-year Indian bachelor's for a one-year masters if the marks meet the bar, but confirm on each programme page: I did not verify this for every row.",
+  "visa": "Student visa with a CAS. Maintenance funds (28 days in your account): GBP 1,529 a month London and GBP 1,171 outside London for up to 9 months for applications before 30 November 2026; GBP 1,570 and GBP 1,203 from 30 November 2026 (up to GBP 14,130 London, GBP 10,827 elsewhere), plus any fees still owed. Pay the Immigration Health Surcharge with the application.",
+  "work": "Confirm term-time hours on GOV.UK; they are limited for masters students.",
+  "after": "Graduate visa: 2 years if you apply on or before 31 December 2026, but 18 months if you apply on or after 1 January 2027 (GOV.UK). A September 2027 start falls under the 18-month rule. After that you need a Skilled Worker sponsor.",
+  "english": "IELTS Academic 6.5 to 7.0 depending on the school: Warwick and Edinburgh 7.0, Imperial varies, Bath and Leeds 6.5, Strathclyde 6.5. UKVI-approved tests only. Many schools do not accept IELTS Indicator, Duolingo or MOI letters from India; Manchester accepts Indian Standard XII English at 85% for some courses.",
+  "scholarships": [
+   {
+    "name": "GREAT Scholarships India",
+    "amount": "At least GBP 10,000 towards tuition for a one-year course",
+    "who": "12 postgraduate awards at UK universities for Indian students; deadlines set by each university",
+    "url": "https://www.britishcouncil.in/study-uk/scholarships/great-scholarships"
+   },
+   {
+    "name": "Chevening",
+    "amount": "Fully funded",
+    "who": "Indian applicants with work experience; check the India page for the current cycle",
+    "url": "https://www.chevening.org/scholarship/india/"
+   },
+   {
+    "name": "Strathclyde Business School International Masters Scholarship",
+    "amount": "GBP 9,000 (automatic) to GBP 7,000 to 9,000 for January",
+    "who": "Self-funded international offer holders"
+   }
+  ],
+  "sources": [
+   "https://www.gov.uk/graduate-visa",
+   "https://www.otssolicitors.co.uk/news/student-visa-maintenance-funds-increase-from-30-november-2026/",
+   "https://www.britishcouncil.in/study-uk/scholarships/great-scholarships"
+  ],
+  "confidence": "partial"
+ },
+ "Sweden": {
+  "credential": "Apply through universityadmissions.se (application fee SEK 900 for non-EU, paid by 1 February). Universities map Indian degrees to Swedish requirements themselves, usually asking for a bachelor's with course-level credits in the subject (Lund wants 60 credits in Information Systems).",
+  "threeYear": "Swedish universities accept bachelor's degrees of at least 3 years for a masters; the real barrier is subject credits, not degree length. Match your syllabus to the programme's credit list and attach course descriptions.",
+  "visa": "Residence permit for studies. Maintenance requirement for 2026 applications is SEK 10,656 a month (Migrationsverket), about SEK 127,900 for 12 months. Tuition must be paid before you apply for the permit. Funds must be in your own bank account.",
+  "work": "Confirm work-hour rules for students on Migrationsverket.",
+  "after": "Migrationsverket has a residence permit to look for work or start a business after completing studies in Sweden. I could not confirm the duration here, so check the page.",
+  "english": "English 6 / level 2 (advanced) as Swedish universities define it; IELTS 6.5 with no band below 5.5 is the usual route. Check the programme page.",
+  "scholarships": [
+   {
+    "name": "Swedish Institute Scholarship for Global Professionals",
+    "amount": "Full tuition plus SEK 12,000 a month",
+    "who": "Citizens of eligible countries with 3,000 hours of work and leadership experience, for eligible programmes in STEM, governance, public health, entrepreneurship. I could not confirm India is on the eligible list: check si.se",
+    "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
+   },
+   {
+    "name": "University scholarships",
+    "amount": "Varies",
+    "who": "Chalmers and Lund both run scholarships for tuition-paying master's students: check each page"
+   }
+  ],
+  "sources": [
+   "https://www.migrationsverket.se/en/you-want-to-apply/study/studies-in-a-mobility-programme/mobility-studies-in-an-eu-country-with-a-stay-in-sweden.html",
+   "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
+  ],
+  "confidence": "partial"
+ },
+ "Denmark": {
+  "credential": "Universities assess your bachelor's against Danish requirements. DTU wants an engineering or natural-science BSc less than 10 years old and uses a point-based selection from autumn 2026. CBS wants 30 ECTS in IT, quantitative methods or economics.",
+  "threeYear": "Not verified for these programmes: ask the programme office whether a 3-year Indian bachelor's is accepted.",
+  "visa": "Residence permit for studies after tuition is paid. Aarhus now asks for the whole first year's tuition before the first semester for applicants after 1 November 2026. Application fees: EUR 150 at Aarhus and CBS, EUR 100 at DTU (deducted from the first payment).",
+  "work": "Check SIRI for student work limits.",
+  "after": "Check SIRI for post-study stay rules: not verified here.",
+  "english": "English B-level through IELTS, TOEFL or Cambridge; deadlines for English results are usually 15 January.",
+  "scholarships": [
+   {
+    "name": "Aarhus University scholarship programmes",
+    "amount": "Not captured",
+    "who": "Four Danish-state-funded programmes for highly qualified non-EU students admitted to two-year masters",
+    "url": "https://kandidat.au.dk/en/admission/tuition-fees-and-scholarships/"
+   }
+  ],
+  "sources": [
+   "https://masters.au.dk/tuitionfees/current-tuition-fee-rates",
+   "https://www.dtu.dk/english/education/graduate/fees-and-funding"
+  ],
+  "confidence": "partial"
+ },
+ "Norway": {
+  "credential": "NHH asks non-Norwegian bachelor's holders for GMAT (555 Focus or 600 older) or GRE (152 quantitative) scores under 5 years old, plus English scores under 2 years old.",
+  "threeYear": "Not verified: ask NHH whether a 3-year Indian bachelor's is accepted.",
+  "visa": "You must document NOK 128,887 for one academic year; missing the financing deadline makes you ineligible regardless of grades.",
+  "work": "Check UDI for student work limits.",
+  "after": "Check UDI for the post-study job-search permit: not verified here.",
+  "english": "English proof under 2 years old at the application deadline.",
+  "scholarships": [
+   {
+    "name": "NHH financing",
+    "amount": "Not captured",
+    "who": "See NHH financing your studies page",
+    "url": "https://www.nhh.no/en/study-programmes/application-and-admission/admission-msc-in-economics-and-business-administration/financing-your-studies/"
+   }
+  ],
+  "sources": [
+   "https://www.nhh.no/en/study-programmes/application-and-admission/financial-matters/"
+  ],
+  "confidence": "partial"
+ },
+ "Finland": {
+  "credential": "Apply through the joint admissions system and the university's own forms. Aalto asks at least 12 ECTS in relevant prior subjects for Information and Service Management. Non-EU applicants pay a EUR 100 application fee.",
+  "threeYear": "Not verified for these programmes: ask the programme office whether a 3-year Indian bachelor's is accepted.",
+  "visa": "Residence permit for studies with proof of funds. Aalto says living costs of at least EUR 800 a month are not covered by its scholarships.",
+  "work": "Check Migri for student work limits.",
+  "after": "Check Migri for post-graduation residence permits: not verified here.",
+  "english": "Tests accepted per university; IELTS 6.5 is typical.",
+  "scholarships": [
+   {
+    "name": "Aalto Excellence Scholarship",
+    "amount": "Full tuition waiver",
+    "who": "A small number; tick the scholarship box on the application during the window",
+    "url": "https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees"
+   },
+   {
+    "name": "University of Helsinki scholarships",
+    "amount": "50% or 100% of tuition",
+    "who": "Non-EU fee-liable students; granted only at admission"
+   }
+  ],
+  "sources": [
+   "https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees",
+   "https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/tuition-fees-and-scholarship-programme"
+  ],
+  "confidence": "partial"
+ },
+ "France": {
+  "credential": "Business schools judge your degree themselves; ESCP asks for 180 ECTS. Campus France India runs the student-visa procedure: start there before applying for the visa.",
+  "threeYear": "ESCP lists a bachelor's of 180 ECTS (3 years), so a 3-year Indian degree can qualify. HEC/Polytechnique wants strong maths and economics. Ask each school.",
+  "visa": "Long-stay student visa through Campus France India (check the 5-year-validity and procedure pages). Tuition is paid to the school after admission.",
+  "work": "Check Campus France for the student work-hour limit.",
+  "after": "APS / job-seeker residence permit: 12 months after a master's-level degree or a Conference of Grandes Ecoles MSc, not renewable; India is on the list of countries with bilateral arrangements. Apply for a new permit if you find a job within the 12 months.",
+  "english": "TOEFL, TOEIC or IELTS taken within the last two years (ESCP). Most MSc programmes now say GMAT/GRE are not required (ESCP) but others do (ESSEC asks for a management test score).",
+  "scholarships": [
+   {
+    "name": "School scholarships",
+    "amount": "Varies",
+    "who": "HEC assigns need-based awards at application; ESSEC, ESCP and others run merit awards: check each page"
+   }
+  ],
+  "sources": [
+   "https://www.campusfrance.org/en/temporary-resident-permit-aps",
+   "https://www.inde.campusfrance.org/how-to-find-work-in-france"
+  ],
+  "confidence": "partial"
+ },
+ "Spain": {
+  "credential": "ESADE and IE assess your degree directly. Both ask for an admission test (ESADE test, GMAT or GRE; IE GAT, GMAT or GRE).",
+  "threeYear": "Not verified for these programmes: ask admissions whether a 3-year Indian bachelor's is accepted.",
+  "visa": "Spanish student visa through the consulate; school letter of admission and proof of funds. Not verified in detail.",
+  "work": "Check the Spanish consulate for work rules.",
+  "after": "Not verified here: check the Spanish government pages for the post-study search-for-work permit.",
+  "english": "IE: TOEFL 100, IELTS 7.0, Duolingo 130, or Cambridge Advanced.",
+  "scholarships": [
+   {
+    "name": "Programme scholarships",
+    "amount": "10% to 40% of tuition at IE",
+    "who": "Merit and need-based; none named for India in the IE listings"
+   }
+  ],
+  "sources": [
+   "https://www.ie.edu/masters/master-business-analytics-data-science/admissions-fees/",
+   "https://www.esade.edu/master-of-science/en/fees-and-financing"
+  ],
+  "confidence": "partial"
+ },
+ "Italy": {
+  "credential": "Italian universities ask for a recognised first-cycle degree and may ask for a Declaration of Value or CIMEA statement. Politecnico di Milano requires graduating students to have earned all required ECTS before application (excluding the final exam) and to upload a study plan.",
+  "threeYear": "Italian masters need a degree giving access to EQF level 7; a 3-year bachelor's is usually enough. Check each programme.",
+  "visa": "Italian student visa; B2 in Italian or English is needed for the visa (UniMi). Universitaly pre-enrolment is the route for non-EU students. Not verified in detail.",
+  "work": "Check the Italian immigration ministry for work limits.",
+  "after": "Post-study permit: not verified here; check the Ministry of the Interior.",
+  "english": "B2 or higher: TOEIC 785 + 310, Cambridge B2 First (B) or C1 Advanced (C), and so on. A bachelor's taught in English can substitute (Politecnico).",
+  "scholarships": [
+   {
+    "name": "Invest Your Talent in Italy",
+    "amount": "EUR 1,000 a month plus tuition waiver",
+    "who": "Master's students from partner countries; the 2025-26 call was found, the 2026-27 call was not: check whether India is eligible",
+    "url": "https://investyourtalent.esteri.it/SitoIYT/EN/how-does-it-work"
+   },
+   {
+    "name": "MAECI scholarships for foreign students",
+    "amount": "EUR 5,500 first instalment (9 months, renewable)",
+    "who": "Selected by citizenship; unconfirmed for India",
+    "url": "https://www.esteri.it/wp-content/uploads/2026/03/Bando-26-27-ENG.pdf"
+   },
+   {
+    "name": "Regional DSU grants",
+    "amount": "Varies",
+    "who": "Open to some international students in regions such as Emilia-Romagna; income-based"
+   }
+  ],
+  "sources": [
+   "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-magistrale/foreign-qualification/requirements",
+   "https://www.esteri.it/wp-content/uploads/2026/03/Bando-26-27-ENG.pdf"
+  ],
+  "confidence": "partial"
+ },
+ "Austria": {
+  "credential": "WU asks for 180 ECTS (3 years) and a set number of business credits; TU Wien needs a 180 ECTS bachelor's with a dean's equivalence review. Indian transcripts need credit mapping: ask the programme.",
+  "threeYear": "180 ECTS is the minimum at both, so a 3-year Indian bachelor's can qualify if the subjects match. TU Wien can add up to 30 ECTS of catch-up exams; more than that means no admission.",
+  "visa": "Residence permit for students through the Austrian representation. Start early (WU advises the earliest priority deadline in early October for third-country nationals).",
+  "work": "Check migration.gv.at for student work limits.",
+  "after": "Austrian universities can renew your student permit once for 12 months to look for work. A qualifying job offer (30 hours a week, 2026 minimum EUR 3,465 gross a month on the OeAD page) converts to a Red-White-Red Card without a labour market test.",
+  "english": "WU: IELTS 7.0 or TOEFL iBT 100 for English-taught masters (confirm per programme). TU Wien: no English test found.",
+  "scholarships": [
+   {
+    "name": "OeAD and university scholarships",
+    "amount": "Varies",
+    "who": "Check oead.at and each university"
+   }
+  ],
+  "sources": [
+   "https://oead.at/en/to-austria/entry-and-residence/researcher-without-hosting-agreement/red-white-red-card",
+   "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/graduates/"
+  ],
+  "confidence": "partial"
+ },
+ "Singapore": {
+  "credential": "NUS and NTU take a good bachelor's in any discipline for business analytics; NUS prefers quantitative and accepts 2 years of experience in place of the degree. Check each programme for the CGPA bar for Indian degrees.",
+  "threeYear": "Not verified: ask NUS, NTU and SMU whether a 3-year Indian bachelor's is accepted.",
+  "visa": "Student's Pass for full-time study at an approved institution; apply online 2 to 3 months before the course starts (ICA). Processing is about 10 working days for nationals who need an entry visa. You need 90% attendance and may not work without a work pass.",
+  "work": "Student's Pass holders may not work without a valid work pass.",
+  "after": "I could not confirm the post-study route (Employment Pass/COMPASS or Long-Term Visit Pass) from MOM. S Pass minimum salary rises from SGD 3,300 to SGD 3,600 for new applications from 1 January 2027. Check MOM for Employment Pass thresholds.",
+  "english": "NTU: TOEFL iBT 100 or IELTS 6.5 if English was not the medium of undergraduate instruction. NUS MSBA does not ask for an English test.",
+  "scholarships": [
+   {
+    "name": "University scholarships",
+    "amount": "Varies",
+    "who": "SMU offers partner-university discounts; check NUS and NTU programme pages"
+   }
+  ],
+  "sources": [
+   "https://www.ica.gov.sg/reside/STP/apply",
+   "https://msba.nus.edu.sg/programme/"
+  ],
+  "confidence": "partial"
+ },
+ "United Arab Emirates": {
+  "credential": "Heriot-Watt Dubai asks 50% overall in Year 12 (CBSE/ICSE) for entry and a good honours degree for the masters; MBZUAI wants a STEM bachelor's with CGPA 3.0 on 4.0.",
+  "threeYear": "Not verified: ask each university.",
+  "visa": "MBZUAI sponsors the UAE student visa for non-UAE nationals as part of its scholarship. Heriot-Watt Dubai students arrange a student visa through the university.",
+  "work": "Not verified.",
+  "after": "Not verified: check UAE government pages for graduate residency options.",
+  "english": "MBZUAI: TOEFL iBT 90, IELTS 6.5 or EmSAT 1550. Heriot-Watt Dubai: IELTS 6.0 for STEM masters, 6.0 with no band below 5.5 for non-STEM; CBSE/CISCE Standard XII English accepted as proof.",
+  "scholarships": [
+   {
+    "name": "MBZUAI full scholarship",
+    "amount": "100% tuition, on-campus accommodation, health insurance, visa, monthly stipend (AED 8,000 quoted for international MSc students)",
+    "who": "Most full-time admitted graduate students; continuation depends on academic standing",
+    "url": "https://mbzuai.ac.ae/admissions/graduate-masters-admissions"
+   }
+  ],
+  "sources": [
+   "https://mbzuai.ac.ae/admissions/graduate-masters-admissions",
+   "https://www.hw.ac.uk/dubai/study/apply/international-entry-requirements"
+  ],
+  "confidence": "partial"
+ },
+ "United States": {
+  "credential": "US programmes ask for a 4-year bachelor's (or Indian 3-year degree plus a postgraduate qualification) with a minimum 3.0 GPA on a 4.0 scale. UT Dallas: 3.0 in both core and aggregate courses; Georgia Tech OMSA 3.0.",
+  "threeYear": "Many US programmes want a 4-year bachelor's. Georgia Tech and UT Dallas pages I read did not state the rule for 3-year Indian degrees: ask them, and if you only hold a 3-year degree ask whether a 3-year degree plus work experience is accepted.",
+  "visa": "F-1 visa. DHS published a final rule on 17 July 2026 ending 'duration of status': from 15 September 2026 F-1 students are admitted for a fixed period tied to the I-20 programme length, up to four years, plus 30 days before and after. Longer stays need an extension of stay with USCIS. Students who file Form I-765 for OPT or STEM OPT on or before 18 March 2027 do not need an extension for that. Read the final rule before you commit.",
+  "work": "Check your school's DSO for on-campus and CPT rules.",
+  "after": "OPT is 12 months; STEM OPT adds 24 months only if the degree is on the DHS STEM Designated Degree List (I did not confirm analytics programmes are listed: check the list). A proposed rule published 8 October 2026 would make schools pay USD 70,000 for initial OPT and USD 30,000 for later OPT: this is a proposal, not final.",
+  "english": "Georgia Tech: TOEFL iBT 100 (or 5 on the new scale), IELTS 7.5. UT Dallas: TOEFL 80, IELTS 6.5, PTE 67.",
+  "scholarships": [
+   {
+    "name": "University merit awards",
+    "amount": "Varies",
+    "who": "UT Dallas Dean's Excellence Scholarship charges international students the in-state tuition rate; requires a GMAT/GRE score"
+   }
+  ],
+  "sources": [
+   "https://studyinthestates.dhs.gov/final-rule-establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-quick",
+   "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees"
+  ],
+  "confidence": "partial"
+ },
+ "New Zealand": {
+  "credential": "Auckland lists India's entry score as First Class on one page and a B average on another: ask which mapping applies to your degree.",
+  "threeYear": "Not verified for Auckland: ask the Business Masters team.",
+  "visa": "Student visa with proof of funds. The NZD 5,000 figure on the INZ page is for the Post-Study Work Visa, not the student visa; confirm the student visa living-cost amount on INZ before relying on a number.",
+  "work": "Check INZ for student work hours.",
+  "after": "Post-Study Work Visa: an eligible master's (Level 9) graduate may get 3 years if they completed at least 30 weeks of full-time study in the master's. From 16 November 2026 eligibility extends to Level 7 graduate diploma holders who also hold a bachelor's. A Green List job can lead to residence immediately or after 2 years.",
+  "english": "IELTS Academic 6.5 with no band below 6.0.",
+  "scholarships": [
+   {
+    "name": "University of Auckland India High Achievers Scholarship",
+    "amount": "Not captured",
+    "who": "Mentioned in the 2026 postgraduate handbook; eligibility and value unknown"
+   }
+  ],
+  "sources": [
+   "https://www.immigration.govt.nz/visas/post-study-work-visa/",
+   "https://www.immigration.govt.nz/study/after-you-finish-your-study/staying-to-work-after-finishing-your-study/"
+  ],
+  "confidence": "partial"
+ },
+ "Switzerland": {
+  "credential": "HSG wants a 180 ECTS bachelor's in business administration or close, assessed case by case with possible integration week or preparatory courses. ETH MTEC wants a 180 ECTS bachelor's in engineering or natural sciences.",
+  "threeYear": "180 ECTS is the minimum at both, so a 3-year Indian degree can qualify only if it carries 180 recognised ECTS and the subject match. ETH checks Indian degrees case by case.",
+  "visa": "Swiss student permit with proof of funds. Not verified in detail here.",
+  "work": "Check the Swiss State Secretariat for Migration for student work rules.",
+  "after": "Not verified here: check the Swiss State Secretariat for Migration.",
+  "english": "ETH: English C1 by the deadline. HSG: language proof only needed before the programme ends.",
+  "scholarships": [
+   {
+    "name": "ETH Excellence Scholarship and Opportunity Programme",
+    "amount": "Not captured",
+    "who": "Check the ETH website"
+   }
+  ],
+  "sources": [
+   "https://www.unisg.ch/en/studying/admission/admission-master/business-innovation/",
+   "https://mtec.ethz.ch/studies/prospectives/admissions.html"
+  ],
+  "confidence": "partial"
+ },
+ "Portugal": {
+  "credential": "NOVA IMS asks for a bachelor's in a compatible field and English proficiency; non-EU applicants upload an ID document.",
+  "threeYear": "Not verified: ask NOVA IMS.",
+  "visa": "Portuguese student visa after admission; non-EU applicants pay a EUR 2,500 pre-registration fee that is deducted from tuition unless an entity covers it.",
+  "work": "Not verified.",
+  "after": "Not verified: check AIMA.",
+  "english": "Spoken and written English proficiency; test scores not captured.",
+  "scholarships": [
+   {
+    "name": "NOVA IMS scholarships",
+    "amount": "Not captured",
+    "who": "Check the programme page"
+   }
+  ],
+  "sources": [
+   "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics/"
+  ],
+  "confidence": "partial"
+ },
+ "Hong Kong": {
+  "credential": "HKUST asks for a bachelor's from a recognised institution plus basic SQL and Python before entry; GMAT/GRE is optional but highly recommended.",
+  "threeYear": "Not verified: ask HKUST whether a 3-year Indian bachelor's is accepted.",
+  "visa": "Student visa/entry permit; HKUST charges a HK$1,000 visa fee to non-local students. Not verified in detail.",
+  "work": "Not verified.",
+  "after": "Not verified here: check the Hong Kong Immigration Department for graduate stay options.",
+  "english": "TOEFL iBT 80 before 21 Jan 2026 or 4.5 after; IELTS 6.5 with no sub-score below 5.5.",
+  "scholarships": [
+   {
+    "name": "Hong Kong Future Talents Scholarship Scheme",
+    "amount": "Not captured",
+    "who": "Listed on HKUST's pages for advanced studies: check eligibility",
+    "url": "https://fytgs.hkust.edu.hk/hong-kong-future-talents-scholarship-scheme-advanced-studies"
+   }
+  ],
+  "sources": [
+   "https://msba.hkust.edu.hk/admission/admission-requirements"
+  ],
+  "confidence": "partial"
+ },
+ "Poland": {
+  "credential": "Universities accept a foreign bachelor's and look at the average grade; UW requires English at B2. Indian-specific rules were not found: ask each programme.",
+  "threeYear": "Not verified.",
+  "visa": "Polish national visa after admission. Not verified in detail.",
+  "work": "Not verified.",
+  "after": "Not verified here: check the Office for Foreigners.",
+  "english": "B2 at the University of Warsaw.",
+  "scholarships": [
+   {
+    "name": "NAWA and university scholarships",
+    "amount": "Varies",
+    "who": "Check the Polish National Agency for Academic Exchange and each university"
+   }
+  ],
+  "sources": [
+   "https://www.sgh.waw.pl/en/fees-graduate-studies",
+   "https://rekrutacja.uw.edu.pl/en/application-and-tuition-fees/"
+  ],
+  "confidence": "partial"
+ },
+ "Czechia": {
+  "credential": "VŠE asks for a bachelor's (recommended in a related field), a credential assessment, English proof, a CV and an online oral exam.",
+  "threeYear": "Not verified.",
+  "visa": "Czech long-term study visa through the embassy; start early. Not verified in detail.",
+  "work": "Not verified.",
+  "after": "Not verified here: check the Czech Ministry of the Interior.",
+  "english": "Proof of English proficiency (score not captured).",
+  "scholarships": [
+   {
+    "name": "VŠE scholarships",
+    "amount": "Not captured",
+    "who": "Check the VŠE admissions pages"
+   }
+  ],
+  "sources": [
+   "https://admissions.vse.cz/admission-procedure/",
+   "https://fis.vse.cz/english/admissions/admissions/master/"
+  ],
+  "confidence": "partial"
+ },
+ "Hungary": {
+  "credential": "Corvinus wants a BSc in IS, CS or software engineering, or a business degree with technical knowledge (60 to 70 credits in listed fields). Missing credits can be completed in the first two semesters.",
+  "threeYear": "Not verified.",
+  "visa": "Hungarian residence permit for study after admission. Not verified in detail.",
+  "work": "Not verified.",
+  "after": "Not verified here.",
+  "english": "In-house written exam or a recognised test.",
+  "scholarships": [
+   {
+    "name": "Stipendium Hungaricum",
+    "amount": "Full scholarship in the programme's usual form",
+    "who": "Non-EU nationals from more than 70 countries; India's current eligibility and deadline were not confirmed",
+    "url": "https://stipendiumhungaricum.hu"
+   }
+  ],
+  "sources": [
+   "https://www.uni-corvinus.hu/post/landing-page/masters/msc-in-business-informatics/?lang=en"
+  ],
+  "confidence": "partial"
+ },
+ "Estonia": {
+  "credential": "Admission depends on the Estonian ENIC/NARIC evaluation of your prior education (about 1 month for non-EU qualifications).",
+  "threeYear": "Not verified.",
+  "visa": "Estonian study residence permit/visa; admitted non-EU students must register in person at the Admissions Office by 31 August.",
+  "work": "Not verified.",
+  "after": "Not verified here.",
+  "english": "Per the university; not captured.",
+  "scholarships": [
+   {
+    "name": "University of Tartu",
+    "amount": "None for new non-EU admits",
+    "who": "From 2026/27 the University of Tartu no longer offers tuition waivers to newly admitted non-EU/EEA students"
+   }
+  ],
+  "sources": [
+   "https://ut.ee/en/curriculum/computer-science"
+  ],
+  "confidence": "partial"
+ },
+ "Lithuania": {
+  "credential": "Vilnius University: the gap since your completed bachelor's should not exceed five years for non-EU applicants, and you must pass the Online Mathematics Placement Test (OMPT-E) with at least 70%.",
+  "threeYear": "Not verified.",
+  "visa": "Lithuanian national visa/residence permit after admission; pay tuition within 15 days of the offer. Not verified in detail.",
+  "work": "Not verified.",
+  "after": "Not verified here.",
+  "english": "Not captured.",
+  "scholarships": [
+   {
+    "name": "Vilnius University scholarships",
+    "amount": "Not captured",
+    "who": "Check the programme page"
+   }
+  ],
+  "sources": [
+   "https://www.vu.lt/en/studies/master-studies/data-science"
+  ],
+  "confidence": "partial"
+ },
+ "Luxembourg": {
+  "credential": "Selection leans heavily on the number of maths courses and grades in your bachelor's; 180 ECTS in maths, physics, engineering or economics (with enough maths) is required.",
+  "threeYear": "180 ECTS is the minimum, so a 3-year degree can qualify if the maths content is enough.",
+  "visa": "Third-country route: you need at least EUR 18,211 a year (EUR 1,517 a month) in resources (2025 figure). Social-security affiliation is required and adds to cost.",
+  "work": "Not verified.",
+  "after": "Not verified here.",
+  "english": "Not captured.",
+  "scholarships": [
+   {
+    "name": "University of Luxembourg",
+    "amount": "Not captured",
+    "who": "No separate tuition for international students; check the page"
+   }
+  ],
+  "sources": [
+   "https://www.uni.lu/fstm-en/study-programs/master-in-data-science/admissions/"
+  ],
+  "confidence": "partial"
+ }
+}

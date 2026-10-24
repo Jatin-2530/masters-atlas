@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Masters Atlas</title>
-<meta name="description" content="Fifty analytics, AI and technology-management master's programmes across 19 countries, scored for an Indian applicant on a fixed budget.">
+<meta name="description" content="One hundred analytics, AI and technology-management master's programmes across 27 countries, with admission steps, tests and scholarships for Indian applicants, scored on a fixed budget.">
 <meta name="theme-color" content="#0B6B73">
 <meta property="og:title" content="Masters Atlas">
 <meta property="og:description" content="Compare overseas master's programmes on cost, visa route, PR chances and fit. Re-weight the scores to re-rank.">
@@ -175,6 +175,23 @@ ul.src{margin:6px 0 0;padding-left:18px;font-size:13px;overflow-wrap:anywhere}
 .ring.s-mid .fg{stroke:var(--gold)}.ring.s-lo .fg{stroke:var(--bad)}
 .ring span{position:absolute;inset:0;display:grid;place-items:center;font:500 18px var(--f-data);background:none!important;padding:0}
 .foot{margin-top:32px;padding-top:14px;border-top:1px solid var(--line);display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between;align-items:center}
+/* programme depth */
+.steps{margin:0;padding:0;list-style:none;counter-reset:s}
+.steps li{counter-increment:s;position:relative;padding:0 0 12px 34px;margin:0}
+.steps li::before{content:counter(s);position:absolute;left:0;top:0;width:24px;height:24px;border-radius:50%;background:var(--accent-tint);color:var(--accent);font:600 12px var(--f-data);display:grid;place-items:center}
+.steps li:not(:last-child)::after{content:"";position:absolute;left:11.5px;top:26px;bottom:2px;width:1px;background:var(--line)}
+.kv{display:grid;grid-template-columns:110px minmax(0,1fr);gap:4px 12px;margin:0}
+.kv dt{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;padding-top:2px}
+.kv dd{margin:0 0 8px;overflow-wrap:anywhere}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 2px}
+.tag{font:500 12px var(--f-body);padding:3px 8px;border-radius:999px;background:var(--bg);border:1px solid var(--line);color:var(--ink)}
+.bul{margin:0;padding-left:18px}.bul li{margin:0 0 6px}
+.sch{border-top:1px solid var(--line);padding:10px 0}.sch:first-of-type{border-top:0;padding-top:2px}
+.sch b{display:block}.sch .amt{font:500 13px var(--f-data);color:var(--good)}
+details.guide summary{cursor:pointer;font:600 16px var(--f-display);padding:2px 0}
+details.guide[open] summary{margin-bottom:8px}
+.conf{display:inline-flex;align-items:center;gap:6px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--warn)}.conf.verified .dot{background:var(--good)}
 /* motion: entry only, played on first paint and route change; base state stays visible so reduced motion is safe */
 @keyframes rise{from{opacity:0;transform:translateY(10px)}}
 @keyframes grow{from{transform:scaleX(0)}}
@@ -187,6 +204,7 @@ ul.src{margin:6px 0 0;padding-left:18px;font-size:13px;overflow-wrap:anywhere}
 .fresh .bar i b{animation:grow 700ms var(--ease-out) backwards;animation-delay:calc(var(--i,0)*60ms + 250ms)}
 .fresh .ring .fg{animation:ringin 800ms var(--ease-out) backwards .2s}
 @media (max-width:720px){
+  .kv{grid-template-columns:1fr}.kv dt{padding-top:6px}
   .controls{grid-template-columns:1fr 1fr}.controls label:first-child{grid-column:1/-1}
   .dgrid{grid-template-columns:1fr}
   .prow{grid-template-columns:minmax(0,1fr) auto auto}
@@ -210,7 +228,7 @@ ul.src{margin:6px 0 0;padding-left:18px;font-size:13px;overflow-wrap:anywhere}
 (function(){
 "use strict";
 var DATA=null, W={}, WDEF={}, LABEL={}, S={q:"",cont:"All",country:"All",budget:"all",verify:"all",sort:"score"};
-var dbRef=null, userRef=null, commentsByPid={}, unsub=null, canWrite=null, myId=null, names={}, isOwner=false;
+var DET={}, CTRY={}, dbRef=null, userRef=null, commentsByPid={}, unsub=null, canWrite=null, myId=null, names={}, isOwner=false;
 var app=document.getElementById("app");
 var animate=true;
 var REDUCED=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -225,7 +243,7 @@ function h(tag,attrs){var e=document.createElement(tag);
   return e;}
 function svg(markup,cls){var d=document.createElement("div");d.innerHTML=markup;var e=d.firstChild;if(cls)e.setAttribute("class",cls);return e;}
 function stag(nodes,step){Array.prototype.forEach.call(nodes,function(n,i){n.style.setProperty("--i",String((step||1)*i));});}
-var ISO={"Australia":"au","Austria":"at","Canada":"ca","Denmark":"dk","Finland":"fi","France":"fr","Germany":"de","Ireland":"ie","Italy":"it","Netherlands":"nl","New Zealand":"nz","Norway":"no","Singapore":"sg","Spain":"es","Sweden":"se","Switzerland":"ch","United Arab Emirates":"ae","United Kingdom":"gb","United States":"us"};
+var ISO={"Hong Kong":"hk","Poland":"pl","Czechia":"cz","Hungary":"hu","Portugal":"pt","Estonia":"ee","Lithuania":"lt","Luxembourg":"lu","Australia":"au","Austria":"at","Canada":"ca","Denmark":"dk","Finland":"fi","France":"fr","Germany":"de","Ireland":"ie","Italy":"it","Netherlands":"nl","New Zealand":"nz","Norway":"no","Singapore":"sg","Spain":"es","Sweden":"se","Switzerland":"ch","United Arab Emirates":"ae","United Kingdom":"gb","United States":"us"};
 function flag(country,lg){var c=ISO[country];if(!c)return null;
   return h("img",{class:"flag"+(lg?" lg":""),src:"https://flagcdn.com/w40/"+c+".png",srcset:"https://flagcdn.com/w80/"+c+".png 2x",alt:"",width:lg?24:20,height:lg?18:15,loading:"lazy",decoding:"async",onerror:function(e){e.target.remove();}});}
 function initials(name){var w=name.split("/")[0].split(/[\s,()-]+/).filter(function(x){return /^[A-Z]/.test(x)&&!/^(Of|The|And)$/.test(x);});
@@ -437,7 +455,7 @@ function renderDetail(p){
   fact("Budget",p.costLakh>60?"Over INR 60 L":p.costLakh>=54?"Near INR 60 L cap":"Within INR 60 L");
   fact("Duration",p.months+" months");
   fact("Mode",p.mode);
-  fact("Rank in report","#"+p.rank);
+  fact("Rank by default weights","#"+p.rank);
   stag(f.children);
   root.appendChild(f);
 
@@ -452,16 +470,60 @@ function renderDetail(p){
   bars.appendChild(h("p",{class:"note",style:"margin-top:8px",text:"Scores are judgement-based on official fee pages, visa rules and programme fit. Weights on the main page change your total, not these ratings."}));
   left.appendChild(bars);
 
+  var D=DET[p.id], C=CTRY[p.country];
+  function bullets(arr){var u=h("ul",{class:"bul"});arr.forEach(function(x){u.appendChild(h("li",{text:x}));});return u;}
+  if(D){
+    var adm=h("section",{class:"panel"},h("h3",{text:"Admission process"}));
+    var ol=h("ol",{class:"steps"});D.process.forEach(function(x){ol.appendChild(h("li",{text:x}));});adm.appendChild(ol);
+    if(D.deadlines&&D.deadlines.length){adm.appendChild(h("p",{class:"note",style:"margin:4px 0 4px;font-weight:600",text:"Deadlines"}));adm.appendChild(bullets(D.deadlines));}
+    if(D.documents&&D.documents.length){adm.appendChild(h("p",{class:"note",style:"margin:10px 0 4px;font-weight:600",text:"Documents"}));
+      var tg=h("div",{class:"tags"});D.documents.forEach(function(x){tg.appendChild(h("span",{class:"tag",text:x}));});adm.appendChild(tg);}
+    left.appendChild(adm);
+    var T=D.tests||{}, tp=h("section",{class:"panel"},h("h3",{text:"Tests and scores"}));
+    var kv=h("dl",{class:"kv"});
+    [["English",T.english],["GMAT / GRE",T.aptitude],["Other",T.other]].forEach(function(r){if(r[1])kv.appendChild(h("div",{style:"display:contents"},h("dt",{text:r[0]}),h("dd",{text:r[1]})));});
+    tp.appendChild(kv);left.appendChild(tp);
+  }
   left.appendChild(h("section",{class:"panel"},h("h3",{text:"Immigration and PR pathway"}),h("p",{text:p.visaNote})));
-  left.appendChild(h("section",{class:"panel"},h("h3",{text:"Admission"}),
+  left.appendChild(h("section",{class:"panel"},h("h3",{text:"Admission summary"}),
     h("p",{text:p.admission}),h("p",{class:"note",text:"Intake and deadline: "+p.intake})));
   left.appendChild(h("section",{class:"panel"},h("h3",{text:"Cost build-up"}),
     h("p",{text:"Tuition: "+p.tuition}),h("p",{text:"Living cost per year: "+p.living}),
     h("p",{class:"note",text:"Total includes living cost for the whole programme, insurance and visa fees, and a one-off INR 2.0 to 2.5 lakh setup allowance. Fees are 2026/27 or 2027/28, not inflated to 2029. "+DATA.meta.fx})));
 
+  if(D){
+    var ind=h("section",{class:"panel"},h("h3",{text:"For Indian applicants"}));
+    if(D.india&&D.india.length)ind.appendChild(bullets(D.india));
+    right.appendChild(ind);
+    var sc=h("section",{class:"panel"},h("h3",{text:"Scholarships and funding"}));
+    (D.scholarships||[]).forEach(function(x){
+      var b=h("div",{class:"sch"},h("b",{text:x.name}));
+      if(x.amount&&x.amount!=="-")b.appendChild(h("span",{class:"amt",text:x.amount}));
+      if(x.who)b.appendChild(h("p",{class:"note",style:"margin:2px 0 0",text:x.who}));
+      if(x.how)b.appendChild(h("p",{class:"note",style:"margin:2px 0 0",text:x.how}));
+      if(x.url)b.appendChild(h("a",{href:x.url,target:"_blank",rel:"noopener noreferrer",text:"Official page",style:"font-size:13px"}));
+      sc.appendChild(b);});
+    sc.appendChild(h("p",{class:"note",style:"margin-top:8px",text:"Costs on this site assume no scholarship. Awards are shown for information and change each year."}));
+    right.appendChild(sc);
+  }
+  if(C){
+    var g=h("details",{class:"panel guide"},h("summary",{text:"Country guide: "+p.country}));
+    var gk=h("dl",{class:"kv",style:"margin-top:8px"});
+    [["Degree check",C.credential],["3-year degree",C.threeYear],["Visa and funds",C.visa],["Work rules",C.work],["After study",C.after],["English",C.english]].forEach(function(r){if(r[1])gk.appendChild(h("div",{style:"display:contents"},h("dt",{text:r[0]}),h("dd",{text:r[1]})));});
+    g.appendChild(gk);
+    if(C.scholarships&&C.scholarships.length){g.appendChild(h("p",{class:"note",style:"margin:6px 0 4px;font-weight:600",text:"Country-level funding"}));
+      C.scholarships.forEach(function(x){var b=h("div",{class:"sch"},h("b",{text:x.name}));if(x.amount)b.appendChild(h("span",{class:"amt",text:x.amount}));if(x.who)b.appendChild(h("p",{class:"note",style:"margin:2px 0 0",text:x.who}));if(x.url)b.appendChild(h("a",{href:x.url,target:"_blank",rel:"noopener noreferrer",text:"Official page",style:"font-size:13px"}));g.appendChild(b);});}
+    g.appendChild(h("p",{class:"note",style:"margin-top:8px",text:"Country guide confidence: "+(C.confidence||"partial")+". Rules change often: confirm on the official sources before paying."}));
+    right.appendChild(g);
+  }
   var st=h("section",{class:"panel"},h("h3",{text:"Data quality"}),
     h("span",{class:"badge "+vclass(p.status),text:p.status}));
-  if(p.sourceUrls.length){var ul=h("ul",{class:"src"});p.sourceUrls.forEach(function(u){ul.appendChild(h("li",null,h("a",{href:u,target:"_blank",rel:"noopener noreferrer",text:u})));});st.appendChild(h("p",{class:"note",style:"margin-top:10px",text:"Sources used"}));st.appendChild(ul);}
+  if(D){
+    st.appendChild(h("p",{class:"note conf "+(D.confidence==="verified"?"verified":""),style:"margin-top:10px"},h("span",{class:"dot"}),"Detail confidence: "+D.confidence+". Checked "+D.checked+"."));
+    if(D.unverified&&D.unverified.length){st.appendChild(h("p",{class:"note",style:"margin:6px 0 2px;font-weight:600",text:"Not confirmed"}));st.appendChild(bullets(D.unverified));}
+  }
+  var allSrc=p.sourceUrls.slice();if(D&&D.sources)D.sources.forEach(function(u){if(allSrc.indexOf(u)<0)allSrc.push(u);});
+  if(allSrc.length){var ul=h("ul",{class:"src"});allSrc.forEach(function(u){ul.appendChild(h("li",null,h("a",{href:u,target:"_blank",rel:"noopener noreferrer",text:u})));});st.appendChild(h("p",{class:"note",style:"margin-top:10px",text:"Sources used"}));st.appendChild(ul);}
   else st.appendChild(h("p",{class:"note",style:"margin-top:10px",text:"No official page was retrieved for this row. Treat every figure as indicative and check the university site."}));
   right.appendChild(st);
 
@@ -560,7 +622,9 @@ function downloadCsv(){
 
 /* boot */
 applyTheme(safeGet("atlas-theme"));
-fetch("data/programs.json").then(function(r){return r.json();}).then(function(j){
+function jget(u){return fetch(u).then(function(r){return r.json();});}
+Promise.all([jget("data/programs.json"),jget("data/details.json").catch(function(){return {};}),jget("data/countries.json").catch(function(){return {};})]).then(function(a){
+  var j=a[0];DET=a[1]||{};CTRY=a[2]||{};
   DATA=j;WDEF=Object.assign({},j.meta.weights);LABEL=j.meta.weightLabels;W=Object.assign({},WDEF);
   try{var sv=JSON.parse(safeGet("atlas-weights")||"null");if(sv)Object.keys(WDEF).forEach(function(k){if(typeof sv[k]==="number")W[k]=sv[k];});}catch(e){}
   window.addEventListener("hashchange",render);
