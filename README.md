@@ -4,10 +4,15 @@ Single source of truth for Jatin's overseas master's search (analytics, AI, tech
 
 ## What is here
 
+The site is a static page: `index.html`, `css/style.css`, `js/*.js`, plus the data below. No build step.
+
+Features: profile-based fit check (degree length, marks, IELTS, GMAT/GRE plans, budget), shortlist with status, notes and document checklists, side-by-side compare, deadline calendar with .ics export, funding and loan planner, month-by-month roadmap, country comparison, glossary tooltips, quick filters, flat or grouped list with sorting, share links, print view, offline use and home-screen install.
+
 - `index.html`: the explorer. Browse by continent, country and university, re-weight the seven scores, open an info page per programme (`#p12`), add comments and YouTube links.
 - `data/programs.json`: the 100 programmes the page reads (cost, scores, links). Edit this file and the page updates.
 - `data/details.json`: per-programme depth keyed by id (`p1` to `p100`): admission process, documents, deadlines, tests, notes for Indian applicants, scholarships, a confidence flag and a list of what was not confirmed.
 - `data/countries.json`: one guide per country (degree checks, 3-year degree rules, visa and funds, after-study stay, English norms, country-level funding).
+- `tools/augment.py`: derives `testNeed`, `threeYear`, `tuitionFree`, `indiaFunding`, `ieltsMin` and parsed deadline dates from the details. Re-run it after editing details.
 - `data/programs.csv`: the programme rows for Excel or Sheets. Regenerate it from the JSON after any edit.
 
 ## Data rules

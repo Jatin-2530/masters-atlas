@@ -62,7 +62,12 @@
    "sourceUrls": [
     "https://www.mannheim-business-school.com/en/mba-master-and-courses/masters-programs/mannheim-master-in-management-analytics-part-time/admissions/"
    ],
-   "weightedCheck": 8.4
+   "weightedCheck": 8.4,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes",
+   "expNeed": 2
   },
   {
    "rank": 11,
@@ -102,7 +107,11 @@
     "https://www.bwl.uni-mannheim.de/en/programs/master/mmm/application-information/",
     "https://www.uni-mannheim.de/en/academics/during-your-studies/organizing-your-studies/fees/"
    ],
-   "weightedCheck": 7.85
+   "weightedCheck": 7.85,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 12,
@@ -141,7 +150,11 @@
    "sourceUrls": [
     "https://www.uni-mannheim.de/en/academics/during-your-studies/organizing-your-studies/fees/"
    ],
-   "weightedCheck": 7.85
+   "weightedCheck": 7.85,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 13,
@@ -182,7 +195,11 @@
     "https://www.mgt.tum.de/faq-center",
     "https://www.tum.de/en/studies/fees"
    ],
-   "weightedCheck": 7.75
+   "weightedCheck": 7.75,
+   "testNeed": "required",
+   "tuitionFree": true,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 19,
@@ -221,7 +238,11 @@
    "sourceUrls": [
     "https://www.ucc.ie/en/ckl51/"
    ],
-   "weightedCheck": 7.55
+   "weightedCheck": 7.55,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 18,
@@ -260,7 +281,11 @@
    "sourceUrls": [
     "https://wiso.uni-koeln.de/en/studies/application/master/master-business-analytics-and-econometrics"
    ],
-   "weightedCheck": 7.55
+   "weightedCheck": 7.55,
+   "testNeed": "optional",
+   "tuitionFree": true,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 20,
@@ -300,7 +325,11 @@
     "https://www.mgt.tum.de/programs/master-in-management-technology/how-to-apply",
     "https://www.tum.de/en/studies/fees"
    ],
-   "weightedCheck": 7.55
+   "weightedCheck": 7.55,
+   "testNeed": "required",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 22,
@@ -340,7 +369,11 @@
     "https://business.dcu.ie/course/msc-in-business-analytics/",
     "https://www.dcu.ie/fees/postgraduate-fees-2027-28"
    ],
-   "weightedCheck": 7.45
+   "weightedCheck": 7.45,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 24,
@@ -380,7 +413,11 @@
     "https://www.tcd.ie/courses/postgraduate/courses/business-analytics-and-ai-for-management-msc/",
     "https://www.tcd.ie/business/programmes/masters-programmes/admissions/"
    ],
-   "weightedCheck": 7.4
+   "weightedCheck": 7.4,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 25,
@@ -419,7 +456,11 @@
    "sourceUrls": [
     "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/business-analytics.html"
    ],
-   "weightedCheck": 7.35
+   "weightedCheck": 7.35,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 26,
@@ -458,7 +499,11 @@
    "sourceUrls": [
     "https://www.wiwi.uni-frankfurt.de/en/study/study-programs/master/master-in-management-science/application"
    ],
-   "weightedCheck": 7.3
+   "weightedCheck": 7.3,
+   "testNeed": "optional",
+   "tuitionFree": true,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 29,
@@ -498,7 +543,11 @@
     "https://www.rsm.nl/education/master/msc-programmes/how-to-apply/",
     "https://www.rsm.nl/education/master/msc-programmes/mscba-business-analytics-management/"
    ],
-   "weightedCheck": 7.25
+   "weightedCheck": 7.25,
+   "testNeed": "required",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 33,
@@ -538,7 +587,11 @@
     "https://www.smurfitschool.ie/programmes/masters/mscinbusinessanalytics/eligibilityfees/",
     "https://www.ucd.ie/courses/b154"
    ],
-   "weightedCheck": 7.2
+   "weightedCheck": 7.2,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "ask"
   },
   {
    "rank": 32,
@@ -578,7 +631,11 @@
     "https://www.smu.ca/webfiles/MBAN_Brochure_2026_WEB.pdf",
     "https://www.smu.ca/sobey/edba/admissions/"
    ],
-   "weightedCheck": 7.2
+   "weightedCheck": 7.2,
+   "testNeed": "unknown",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "no"
   },
   {
    "rank": 35,
@@ -618,7 +675,11 @@
     "https://www.sauder.ubc.ca/master-business-analytics/application-process/mban-admission-requirements",
     "https://org-www.sauder.ubc.ca/master-business-analytics/application-process/mban-application-deadlines"
    ],
-   "weightedCheck": 7.1
+   "weightedCheck": 7.1,
+   "testNeed": "required",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "no"
   },
   {
    "rank": 37,
@@ -657,7 +718,11 @@
    "sourceUrls": [
     "https://www.wu.ac.at/en/programs/masters-programs/digital-economy/application-admission/"
    ],
-   "weightedCheck": 7.05
+   "weightedCheck": 7.05,
+   "testNeed": "either",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 39,
@@ -696,7 +761,11 @@
    "sourceUrls": [
     "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-analytics.html"
    ],
-   "weightedCheck": 7.0
+   "weightedCheck": 7.0,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "ask"
   },
   {
    "rank": 45,
@@ -735,7 +804,11 @@
    "sourceUrls": [
     "https://www.uva.nl/en/programmes/masters/business-administration/application-and-admission/students-with-international-prior-education/international-applicants.html"
    ],
-   "weightedCheck": 6.95
+   "weightedCheck": 6.95,
+   "testNeed": "required",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 44,
@@ -774,7 +847,11 @@
    "sourceUrls": [
     "https://www.wu.ac.at/en/programs/application-and-admission/"
    ],
-   "weightedCheck": 6.95
+   "weightedCheck": 6.95,
+   "testNeed": "either",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 48,
@@ -813,7 +890,11 @@
    "sourceUrls": [
     "https://smith.queensu.ca/grad_studies/mma/program-details/admissions-requirements.php"
    ],
-   "weightedCheck": 6.9
+   "weightedCheck": 6.9,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "no"
   },
   {
    "rank": 53,
@@ -853,7 +934,11 @@
     "https://www.aalto.fi/en/admission-services/apply-to-masters-programmes",
     "https://www.aalto.fi/en/study-options/information-and-service-management-master-of-science-economics-and-business-administration"
    ],
-   "weightedCheck": 6.8
+   "weightedCheck": 6.8,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 55,
@@ -892,7 +977,11 @@
    "sourceUrls": [
     "https://escp.eu/programmes/specialised-masters-MSc/MSc-in-Business-Analytics-in-AI"
    ],
-   "weightedCheck": 6.75
+   "weightedCheck": 6.75,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 57,
@@ -932,7 +1021,11 @@
     "https://www.rotman.utoronto.ca/programs/specialized-programs/master-of-management-analytics/admissions/",
     "https://www.rotman.utoronto.ca/programs/specialized-programs/master-of-management-analytics/tuition-scholarships/"
    ],
-   "weightedCheck": 6.75
+   "weightedCheck": 6.75,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "no"
   },
   {
    "rank": 54,
@@ -971,7 +1064,11 @@
    "sourceUrls": [
     "https://www.tilburguniversity.edu/education/masters-programs/data-science-and-society/application"
    ],
-   "weightedCheck": 6.75
+   "weightedCheck": 6.75,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 58,
@@ -1011,7 +1108,11 @@
     "https://www.esade.edu/master-of-science/en/admissions",
     "https://www.esade.edu/master-of-science/en/program/masters-in-business-analytics/fees-and-financing"
    ],
-   "weightedCheck": 6.7
+   "weightedCheck": 6.7,
+   "testNeed": "either",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 59,
@@ -1050,7 +1151,11 @@
    "sourceUrls": [
     "https://www.frankfurt-school.de/en/study/master/master-in-management"
    ],
-   "weightedCheck": 6.65
+   "weightedCheck": 6.65,
+   "testNeed": "either",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 61,
@@ -1089,7 +1194,11 @@
    "sourceUrls": [
     "https://www.essec.edu/en/program/master-data-sciences-business-analytics/"
    ],
-   "weightedCheck": 6.45
+   "weightedCheck": 6.45,
+   "testNeed": "either",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 63,
@@ -1128,7 +1237,11 @@
    "sourceUrls": [
     "https://www.monash.edu/__data/assets/pdf_file/0010/3945205/graduate-international-course-guide.pdf"
    ],
-   "weightedCheck": 6.4
+   "weightedCheck": 6.4,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 65,
@@ -1167,7 +1280,11 @@
    "sourceUrls": [
     "https://www.ie.edu/masters/master-business-analytics-data-science/admissions-fees/"
    ],
-   "weightedCheck": 6.35
+   "weightedCheck": 6.35,
+   "testNeed": "either",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 68,
@@ -1206,7 +1323,12 @@
    "sourceUrls": [
     "https://www.strath.ac.uk/courses/postgraduatetaught/businessanalysisconsultingwithartificialintelligence/"
    ],
-   "weightedCheck": 6.3
+   "weightedCheck": 6.3,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "yes",
+   "minPct": 55
   },
   {
    "rank": 67,
@@ -1246,7 +1368,11 @@
     "https://www.lusem.lu.se/study/masters/programmes/information-systems/requirements",
     "https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/tuition-fees"
    ],
-   "weightedCheck": 6.3
+   "weightedCheck": 6.3,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 74,
@@ -1286,7 +1412,11 @@
     "https://pe.gatech.edu/degrees/analytics",
     "https://www.analytics.gatech.edu/admissions"
    ],
-   "weightedCheck": 6.1
+   "weightedCheck": 6.1,
+   "testNeed": "unknown",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 78,
@@ -1326,7 +1456,12 @@
     "https://www.imperial.ac.uk/business-school/masters/business-analytics/admissions/",
     "https://www.imperial.ac.uk/business-school/masters/business-analytics/fees-and-funding/"
    ],
-   "weightedCheck": 6.1
+   "weightedCheck": 6.1,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "yes",
+   "minPct": 60
   },
   {
    "rank": 77,
@@ -1365,7 +1500,12 @@
    "sourceUrls": [
     "https://warwick.ac.uk/study/postgraduate/courses/msc-business-analytics/"
    ],
-   "weightedCheck": 6.1
+   "weightedCheck": 6.1,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "yes",
+   "minPct": 60
   },
   {
    "rank": 79,
@@ -1405,7 +1545,11 @@
     "https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/admissions",
     "https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/fees-and-financing"
    ],
-   "weightedCheck": 6.1
+   "weightedCheck": 6.1,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 76,
@@ -1444,7 +1588,11 @@
    "sourceUrls": [
     "https://studieordninger.cbs.dk/2025/kan/1268"
    ],
-   "weightedCheck": 6.1
+   "weightedCheck": 6.1,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 81,
@@ -1483,7 +1631,11 @@
    "sourceUrls": [
     "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-analytics-mc242/apply-now"
    ],
-   "weightedCheck": 6.05
+   "weightedCheck": 6.05,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 82,
@@ -1522,7 +1674,12 @@
    "sourceUrls": [
     "https://www.manchester.ac.uk/study/masters/courses/list/22043/msc-business-analytics-and-artificial-intelligence/entry-requirements/"
    ],
-   "weightedCheck": 5.85
+   "weightedCheck": 5.85,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "yes",
+   "minPct": 60
   },
   {
    "rank": 84,
@@ -1562,7 +1719,11 @@
     "https://www.nhh.no/en/study-programmes/application-and-admission/financial-matters/",
     "https://www.nhh.no/en/study-programmes/application-and-admission/admission-msc-in-economics-and-business-administration/"
    ],
-   "weightedCheck": 5.8
+   "weightedCheck": 5.8,
+   "testNeed": "required",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 83,
@@ -1601,7 +1762,11 @@
    "sourceUrls": [
     "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-magistrale/foreign-qualification/requirements"
    ],
-   "weightedCheck": 5.8
+   "weightedCheck": 5.8,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 87,
@@ -1640,7 +1805,11 @@
    "sourceUrls": [
     "https://www.monash.edu/__data/assets/pdf_file/0010/3945205/graduate-international-course-guide.pdf"
    ],
-   "weightedCheck": 5.55
+   "weightedCheck": 5.55,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 88,
@@ -1680,7 +1849,11 @@
     "https://msba.nus.edu.sg/programme/",
     "https://msba.nus.edu.sg/wp-content/uploads/2025/09/Application-Guide-for-MSBA-AY2026_27-11-Sep_v2.pdf"
    ],
-   "weightedCheck": 5.55
+   "weightedCheck": 5.55,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 90,
@@ -1719,7 +1892,11 @@
    "sourceUrls": [
     "https://www.handbook.uts.edu.au/courses/c04412.html"
    ],
-   "weightedCheck": 5.45
+   "weightedCheck": 5.45,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 89,
@@ -1759,7 +1936,11 @@
     "https://www.unibocconi.it/en/applying-bocconi/master-science-and-ma-programs/application-and-admissions/gmat-and-gre-test",
     "https://www.unibocconi.it/en/current-students/fees/bocconi-tuition-and-fees"
    ],
-   "weightedCheck": 5.45
+   "weightedCheck": 5.45,
+   "testNeed": "either",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 92,
@@ -1799,7 +1980,11 @@
     "https://www.analytics.gatech.edu/admissions",
     "https://www.analytics.gatech.edu/admissions/tuition-and-funding"
    ],
-   "weightedCheck": 5.35
+   "weightedCheck": 5.35,
+   "testNeed": "required",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 93,
@@ -1839,7 +2024,11 @@
     "https://www.hw.ac.uk/dubai/study/postgraduate/business-analytics-and-consultancy",
     "https://www.hw.ac.uk/dubai/study/apply/international-entry-requirements"
    ],
-   "weightedCheck": 5.3
+   "weightedCheck": 5.3,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 94,
@@ -1878,7 +2067,11 @@
    "sourceUrls": [
     "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions"
    ],
-   "weightedCheck": 5.3
+   "weightedCheck": 5.3,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 96,
@@ -1918,7 +2111,11 @@
     "https://mbs.edu/degree-programs/full-time-master-of-business-analytics",
     "https://study.unimelb.edu.au/find/courses/graduate/master-of-business-analytics/entry-requirements/"
    ],
-   "weightedCheck": 5.2
+   "weightedCheck": 5.2,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 99,
@@ -1957,7 +2154,11 @@
    "sourceUrls": [
     "https://www.unisg.ch/en/studying/admission/admission-master/business-innovation/"
    ],
-   "weightedCheck": 4.95
+   "weightedCheck": 4.95,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 100,
@@ -1997,7 +2198,11 @@
     "https://mtec.ethz.ch/studies/prospectives/admissions.html",
     "https://mas-mtec.ethz.ch/education/faq.html"
    ],
-   "weightedCheck": 4.8
+   "weightedCheck": 4.8,
+   "testNeed": "unknown",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 7,
@@ -2036,7 +2241,11 @@
    "sourceUrls": [
     "https://www.tu.berlin/en/eecs/academics-teaching/study-offer/masters-programs/msc-information-systems-management-wirtschaftsinformatik/msc-ism-wi-application-admission"
    ],
-   "weightedCheck": 8.2
+   "weightedCheck": 8.2,
+   "testNeed": "none",
+   "tuitionFree": true,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 6,
@@ -2075,7 +2284,11 @@
    "sourceUrls": [
     "https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/application-for-admission/"
    ],
-   "weightedCheck": 8.3
+   "weightedCheck": 8.3,
+   "testNeed": "required",
+   "tuitionFree": true,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 21,
@@ -2115,7 +2328,11 @@
     "https://www.tum.de/en/studies/degree-programs/detail/data-engineering-and-analytics-master-of-science-msc",
     "https://www.cit.tum.de/en/cit/studies/degree-programs/master-data-engineering-and-analytics/"
    ],
-   "weightedCheck": 7.5
+   "weightedCheck": 7.5,
+   "testNeed": "required",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 8,
@@ -2155,7 +2372,11 @@
     "https://www.uni-mannheim.de/en/academics/before-your-studies/programs/mannheim-master-in-data-science/",
     "https://www.uni-mannheim.de/media/Einrichtungen/zula/Auswahlsatzungen_master/satzung_ma_mmds_en.pdf"
    ],
-   "weightedCheck": 8.15
+   "weightedCheck": 8.15,
+   "testNeed": "required",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 46,
@@ -2195,7 +2416,11 @@
     "https://www.whu.edu/en/programs/master-of-science-programs/master-in-management/application-admissions/",
     "https://www.whu.edu/en/programs/master-of-science-programs/fees-financing/"
    ],
-   "weightedCheck": 6.95
+   "weightedCheck": 6.95,
+   "testNeed": "required",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 15,
@@ -2235,7 +2460,11 @@
     "https://www.ul.ie/gps/business-analytics-msc",
     "https://www.ul.ie/fees/course-fees/postgraduate-fees/postgraduate-taught-fees-2026-2027"
    ],
-   "weightedCheck": 7.75
+   "weightedCheck": 7.75,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 14,
@@ -2274,7 +2503,11 @@
    "sourceUrls": [
     "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/msc-data-science-and-analytics"
    ],
-   "weightedCheck": 7.75
+   "weightedCheck": 7.75,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "no"
   },
   {
    "rank": 17,
@@ -2313,7 +2546,11 @@
    "sourceUrls": [
     "https://www.ucc.ie/en/ckr49/"
    ],
-   "weightedCheck": 7.6
+   "weightedCheck": 7.6,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 73,
@@ -2352,7 +2589,11 @@
    "sourceUrls": [
     "https://www.uu.nl/en/masters/business-informatics"
    ],
-   "weightedCheck": 6.15
+   "weightedCheck": 6.15,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 80,
@@ -2391,7 +2632,12 @@
    "sourceUrls": [
     "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/master-program/program/data-science-and-artificial-intelligence/country/india"
    ],
-   "weightedCheck": 6.05
+   "weightedCheck": 6.05,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "no",
+   "minPct": 75
   },
   {
    "rank": 40,
@@ -2430,7 +2676,11 @@
    "sourceUrls": [
     "https://schulich.yorku.ca/admissions/admissions-requirements/mban/"
    ],
-   "weightedCheck": 7.0
+   "weightedCheck": 7.0,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "no"
   },
   {
    "rank": 30,
@@ -2470,7 +2720,11 @@
     "https://www.sfu.ca/fas/study/future-graduates/programs/master-big-data.html",
     "https://www.sfu.ca/gradstudies/apply/applying/requirements.html"
    ],
-   "weightedCheck": 7.25
+   "weightedCheck": 7.25,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "no"
   },
   {
    "rank": 91,
@@ -2510,7 +2764,11 @@
     "https://www.deakin.edu.au/course/master-business-analytics-international",
     "https://handbook.deakin.edu.au/courses-search/course.php?course=M761&stutype=international"
    ],
-   "weightedCheck": 5.45
+   "weightedCheck": 5.45,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 69,
@@ -2549,7 +2807,12 @@
    "sourceUrls": [
     "https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc"
    ],
-   "weightedCheck": 6.3
+   "weightedCheck": 6.3,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "yes",
+   "minPct": 60
   },
   {
    "rank": 75,
@@ -2589,7 +2852,12 @@
     "https://www.bath.ac.uk/courses/postgraduate-2026/taught-postgraduate-courses/msc-business-analytics/",
     "https://www.bath.ac.uk/corporate-information/school-of-management-taught-postgraduate-tuition-fees-2027-28/"
    ],
-   "weightedCheck": 6.1
+   "weightedCheck": 6.1,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "ask",
+   "minPct": 70
   },
   {
    "rank": 60,
@@ -2629,7 +2897,11 @@
     "https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/programme-overview/MPDSC/",
     "https://www.chalmers.se/en/education/application-and-admission/tuition-fees/"
    ],
-   "weightedCheck": 6.6
+   "weightedCheck": 6.6,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 70,
@@ -2669,7 +2941,11 @@
     "https://www.dtu.dk/english/education/graduate/msc-programmes/business-analytics/prerequisites",
     "https://www.dtu.dk/english/education/graduate/fees-and-funding"
    ],
-   "weightedCheck": 6.25
+   "weightedCheck": 6.25,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 66,
@@ -2709,7 +2985,11 @@
     "https://masters.au.dk/datascience",
     "https://masters.au.dk/tuitionfees/current-tuition-fee-rates"
    ],
-   "weightedCheck": 6.35
+   "weightedCheck": 6.35,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 31,
@@ -2748,7 +3028,11 @@
    "sourceUrls": [
     "https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme"
    ],
-   "weightedCheck": 7.25
+   "weightedCheck": 7.25,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 10,
@@ -2788,7 +3072,11 @@
     "https://www.tuwien.at/en/studies/studies/master-programmes/informatics/data-science",
     "https://www.tuwien.at/en/studies/admission/students-union-fee-and-tuition-fee/tuition-fee"
    ],
-   "weightedCheck": 7.85
+   "weightedCheck": 7.85,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 43,
@@ -2827,7 +3115,11 @@
    "sourceUrls": [
     "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/professional-master/2026-2027/artificial-intelligence-for-management-1"
    ],
-   "weightedCheck": 6.95
+   "weightedCheck": 6.95,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 86,
@@ -2867,7 +3159,11 @@
     "https://masters.smu.edu.sg/programme/master-of-it-in-business",
     "https://scis.smu.edu.sg/master-it-business/admission-main/fees"
    ],
-   "weightedCheck": 5.55
+   "weightedCheck": 5.55,
+   "testNeed": "either",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 97,
@@ -2907,7 +3203,11 @@
     "https://mbzuai.ac.ae/study/msc-programs/master-of-science-in-machine-learning/",
     "https://mbzuai.ac.ae/admissions/graduate-masters-admissions"
    ],
-   "weightedCheck": 5.15
+   "weightedCheck": 5.15,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 52,
@@ -2946,7 +3246,11 @@
    "sourceUrls": [
     "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics/"
    ],
-   "weightedCheck": 6.8
+   "weightedCheck": 6.8,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 98,
@@ -2986,7 +3290,11 @@
     "https://jindal.utdallas.edu/ms-business-analytics-faq/",
     "https://academics.utdallas.edu/fact-sheets/jindal/ms-business-analytics-and-artificial-intelligence/"
    ],
-   "weightedCheck": 5.05
+   "weightedCheck": 5.05,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 34,
@@ -3026,7 +3334,11 @@
     "https://www.lut.fi/en/studies/business/masters-programmes-business-administration/masters-programme-business-analytics",
     "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/tuition-fee"
    ],
-   "weightedCheck": 7.1
+   "weightedCheck": 7.1,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 72,
@@ -3065,7 +3377,11 @@
    "sourceUrls": [
     "https://www.utwente.nl/en/education/master/programmes/business-information-technology/financial-matters/"
    ],
-   "weightedCheck": 6.15
+   "weightedCheck": 6.15,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 27,
@@ -3105,7 +3421,11 @@
     "https://www.eur.nl/en/master/data-science-and-marketing-analytics/facts-figures",
     "https://www.eur.nl/en/master/data-science-and-marketing-analytics/admission"
    ],
-   "weightedCheck": 7.3
+   "weightedCheck": 7.3,
+   "testNeed": "unknown",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 85,
@@ -3145,7 +3465,11 @@
     "https://msba.hkust.edu.hk/admission/admission-requirements",
     "https://msba.hkust.edu.hk/admission/program-fee-expenses"
    ],
-   "weightedCheck": 5.65
+   "weightedCheck": 5.65,
+   "testNeed": "optional",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 64,
@@ -3184,7 +3508,11 @@
    "sourceUrls": [
     "https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science-data-science"
    ],
-   "weightedCheck": 6.35
+   "weightedCheck": 6.35,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 16,
@@ -3224,7 +3552,11 @@
     "https://www.mun.ca/become/graduate/programs-and-courses/data-science/",
     "https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/expenses-and-fees/"
    ],
-   "weightedCheck": 7.65
+   "weightedCheck": 7.65,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "no"
   },
   {
    "rank": 38,
@@ -3263,7 +3595,11 @@
    "sourceUrls": [
     "https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-analytics-PMANL/"
    ],
-   "weightedCheck": 7.05
+   "weightedCheck": 7.05,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 23,
@@ -3303,7 +3639,11 @@
     "https://www.uc3m.es/master/big-data-analytics",
     "https://www.uc3m.es/postgraduate/enrollment/prices"
    ],
-   "weightedCheck": 7.4
+   "weightedCheck": 7.4,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 41,
@@ -3343,7 +3683,11 @@
     "https://informatorects.uw.edu.pl/en/programmes-all/DSBA-PRK/S2-PRK-DSBA/",
     "https://rekrutacja.uw.edu.pl/en/application-and-tuition-fees/"
    ],
-   "weightedCheck": 6.95
+   "weightedCheck": 6.95,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 42,
@@ -3383,7 +3727,11 @@
     "https://www.sgh.waw.pl/en/second-cycle-studies/master-studies-advanced-analytics-big-data",
     "https://www.sgh.waw.pl/en/fees-graduate-studies"
    ],
-   "weightedCheck": 6.95
+   "weightedCheck": 6.95,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 49,
@@ -3423,7 +3771,11 @@
     "https://fis.vse.cz/english/admissions/admissions/master/",
     "https://fis.vse.cz/english/admissions/study-in-the-cz/cost-of-living/"
    ],
-   "weightedCheck": 6.85
+   "weightedCheck": 6.85,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 50,
@@ -3463,7 +3815,11 @@
     "https://www.uni-corvinus.hu/post/landing-page/masters/msc-in-business-informatics/?lang=en",
     "https://www.uni-corvinus.hu/post/landing-page/application/fees-and-costs/?lang=en"
    ],
-   "weightedCheck": 6.85
+   "weightedCheck": 6.85,
+   "testNeed": "either",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 2,
@@ -3503,7 +3859,11 @@
     "https://www.uni-saarland.de/en/study/programmes/master/data-science.html",
     "https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/"
    ],
-   "weightedCheck": 8.5
+   "weightedCheck": 8.5,
+   "testNeed": "none",
+   "tuitionFree": true,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 4,
@@ -3542,7 +3902,11 @@
    "sourceUrls": [
     "https://www.wi.uni-muenster.de/prospective-students/our-courses-study/master-science-information-systems/application-and-admission"
    ],
-   "weightedCheck": 8.4
+   "weightedCheck": 8.4,
+   "testNeed": "none",
+   "tuitionFree": true,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 62,
@@ -3582,7 +3946,12 @@
     "https://www.business-school.ed.ac.uk/msc/business-analytics/entry-requirements",
     "https://www.business-school.ed.ac.uk/msc/business-analytics/fees-living-expenses"
    ],
-   "weightedCheck": 6.4
+   "weightedCheck": 6.4,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "yes",
+   "minPct": 60
   },
   {
    "rank": 56,
@@ -3621,7 +3990,11 @@
    "sourceUrls": [
     "https://en.itu.dk/Programmes/MSc-Programmes/Applying-to-a-MSc-programme/Non-EU-EOES"
    ],
-   "weightedCheck": 6.75
+   "weightedCheck": 6.75,
+   "testNeed": "unknown",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 3,
@@ -3660,7 +4033,11 @@
    "sourceUrls": [
     "https://statistik.tu-dortmund.de/en/studies/degrees/data-science-msc/admission/"
    ],
-   "weightedCheck": 8.45
+   "weightedCheck": 8.45,
+   "testNeed": "none",
+   "tuitionFree": true,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 51,
@@ -3700,7 +4077,11 @@
     "https://dsv.su.se/sdsbo",
     "https://www.su.se/english/education/how-to-apply/costs-fees-and-scholarships"
    ],
-   "weightedCheck": 6.85
+   "weightedCheck": 6.85,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 95,
@@ -3740,7 +4121,11 @@
     "https://www.oec.uzh.ch/en/academic-programs/master/it.html",
     "https://www.uzh.ch/en/studies/application/fees.html"
    ],
-   "weightedCheck": 5.3
+   "weightedCheck": 5.3,
+   "testNeed": "unknown",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 71,
@@ -3780,7 +4165,12 @@
     "https://www.gla.ac.uk/postgraduate/taught/business-analytics/",
     "https://www.gla.ac.uk/schools/business/postgraduate/asbs-india/"
    ],
-   "weightedCheck": 6.2
+   "weightedCheck": 6.2,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": true,
+   "threeYear": "yes",
+   "minPct": 55
   },
   {
    "rank": 47,
@@ -3820,7 +4210,11 @@
     "https://ut.ee/en/curriculum/computer-science",
     "https://cs.ut.ee/en/content/computer-science-msc"
    ],
-   "weightedCheck": 6.9
+   "weightedCheck": 6.9,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 36,
@@ -3860,7 +4254,11 @@
     "https://www.vu.lt/en/studies/master-studies/data-science",
     "https://apply.vu.lt/courses/course/36-data-science"
    ],
-   "weightedCheck": 7.05
+   "weightedCheck": 7.05,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "ask"
   },
   {
    "rank": 28,
@@ -3899,7 +4297,11 @@
    "sourceUrls": [
     "https://www.uni.lu/fstm-en/study-programs/master-in-data-science/admissions/"
    ],
-   "weightedCheck": 7.3
+   "weightedCheck": 7.3,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 1,
@@ -3938,7 +4340,11 @@
    "sourceUrls": [
     "https://www.inf.uni-hamburg.de/en/studies/master/dsai.html"
    ],
-   "weightedCheck": 8.6
+   "weightedCheck": 8.6,
+   "testNeed": "unknown",
+   "tuitionFree": true,
+   "indiaFunding": false,
+   "threeYear": "yes"
   },
   {
    "rank": 9,
@@ -3978,7 +4384,11 @@
     "https://www.math.uni-freiburg.de/nlehre/en/page/mscdata/",
     "https://uni-freiburg.de/en/studies/during-your-studies/tuition-fees-international-students/"
    ],
-   "weightedCheck": 7.95
+   "weightedCheck": 7.95,
+   "testNeed": "none",
+   "tuitionFree": false,
+   "indiaFunding": false,
+   "threeYear": "yes"
   }
  ]
 }

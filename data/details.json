@@ -50,7 +50,15 @@
   "sources": [
    "https://www.mannheim-business-school.com/en/mba-master-and-courses/masters-programs/mannheim-master-in-management-analytics-part-time/admissions/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2027-01-15",
+    "kind": "early",
+    "text": "Early bird: 15 Jan 2027"
+   }
+  ]
  },
  "p2": {
   "process": [
@@ -95,7 +103,15 @@
    "https://www.bwl.uni-mannheim.de/en/programs/master/mmm/application-information/",
    "https://www.uni-mannheim.de/en/academics/during-your-studies/organizing-your-studies/fees/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": [
+   {
+    "iso": "2027-05-15",
+    "kind": "deadline",
+    "text": "1 April to 15 May 2027 for the fall 2027 intake (2026 round is closed)"
+   }
+  ]
  },
  "p3": {
   "process": [
@@ -139,7 +155,15 @@
    "https://www.uni-mannheim.de/en/academics/before-your-studies/programs/masters-program-in-business-informatics/",
    "https://www.uni-mannheim.de/en/academics/dates/application-deadlines/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2026-11-15",
+    "kind": "deadline",
+    "text": "Spring 2027: 15 Oct to 15 Nov 2026"
+   }
+  ]
  },
  "p4": {
   "process": [
@@ -190,7 +214,9 @@
    "https://www.tum.de/en/studies/fees",
    "https://www.mgt.tum.de/faq-center"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p5": {
   "process": [
@@ -242,7 +268,15 @@
   "sources": [
    "https://www.ucc.ie/en/ckl51/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2027-06-15",
+    "kind": "deadline",
+    "text": "Rolling; closes when full or no later than 15 June 2027"
+   }
+  ]
  },
  "p6": {
   "process": [
@@ -288,7 +322,9 @@
   "sources": [
    "https://wiso.uni-koeln.de/en/studies/application/master/master-business-analytics-and-econometrics"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 5.5,
+  "dates": []
  },
  "p7": {
   "process": [
@@ -336,7 +372,9 @@
    "https://www.mgt.tum.de/programs/master-in-management-technology/how-to-apply",
    "https://www.tum.de/en/studies/fees"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p8": {
   "process": [
@@ -387,7 +425,9 @@
    "https://www.dcu.ie/fees/postgraduate-fees-2027-28",
    "https://business.dcu.ie/scholarships/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p9": {
   "process": [
@@ -434,7 +474,15 @@
    "https://www.tcd.ie/courses/postgraduate/courses/business-analytics-and-ai-for-management-msc/",
    "https://www.tcd.ie/business/programmes/masters-programmes/admissions/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2027-07-31",
+    "kind": "deadline",
+    "text": "Closes 31 July 2027 (waitlist available)"
+   }
+  ]
  },
  "p10": {
   "process": [
@@ -482,7 +530,9 @@
    "https://www.universityofgalway.ie/courses/taught-postgraduate-courses/business-analytics.html",
    "https://www.universityofgalway.ie/postgraduate_scholarships/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p11": {
   "process": [
@@ -528,7 +578,9 @@
    "https://www.wiwi.uni-frankfurt.de/en/study/study-programs/master/master-in-management-science/application",
    "https://www.wiwi.uni-frankfurt.de/en/study/study-programs/master/master-in-management-science/selection-process"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": []
  },
  "p12": {
   "process": [
@@ -584,7 +636,25 @@
    "https://www.rsm.nl/education/master/msc-programmes/how-to-apply/",
    "https://www.rsm.nl/education/master/msc-programmes/mscba-business-analytics-management/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-10-01",
+    "kind": "opens",
+    "text": "Opens 1 October 2026"
+   },
+   {
+    "iso": "2027-01-31",
+    "kind": "deadline",
+    "text": "Test scores: 31 January 2027"
+   },
+   {
+    "iso": "2027-05-15",
+    "kind": "deadline",
+    "text": "Closes at 270 applications or 15 May 2027"
+   }
+  ]
  },
  "p13": {
   "process": [
@@ -635,7 +705,9 @@
    "https://www.smurfitschool.ie/programmes/masters/mscinbusinessanalytics/eligibilityfees/",
    "https://www.ucd.ie/courses/b154"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p14": {
   "process": [
@@ -681,7 +753,9 @@
    "https://www.smu.ca/webfiles/MBAN_Brochure_2026_WEB.pdf",
    "https://www.smu.ca/sobey/edba/admissions/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p15": {
   "process": [
@@ -730,7 +804,30 @@
    "https://www.sauder.ubc.ca/master-business-analytics/application-process/mban-admission-requirements",
    "https://org-www.sauder.ubc.ca/master-business-analytics/application-process/mban-application-deadlines"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": [
+   {
+    "iso": "2026-08-04",
+    "kind": "early",
+    "text": "Early bird 4 Aug 2026"
+   },
+   {
+    "iso": "2026-10-06",
+    "kind": "deadline",
+    "text": "Round 1: 6 Oct 2026"
+   },
+   {
+    "iso": "2027-01-08",
+    "kind": "deadline",
+    "text": "Round 2: 8 Jan 2027"
+   },
+   {
+    "iso": "2027-03-02",
+    "kind": "deadline",
+    "text": "Final: 2 March 2027"
+   }
+  ]
  },
  "p16": {
   "process": [
@@ -774,7 +871,9 @@
    "https://www.wu.ac.at/en/programs/masters-programs/digital-economy/application-admission/",
    "https://www.wu.ac.at/en/programs/application-and-admission/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": []
  },
  "p17": {
   "process": [
@@ -817,7 +916,9 @@
    "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-analytics.html",
    "https://www.businessmasters.auckland.ac.nz/programme-information/master-of-business-analytics/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p18": {
   "process": [
@@ -865,7 +966,25 @@
    "https://www.uva.nl/en/programmes/masters/business-administration/application-and-admission/students-with-international-prior-education/international-applicants.html",
    "https://www.uva.nl/en/programmes/masters/business-administration/application-and-admission/application-and-admission.html"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2027-01-15",
+    "kind": "scholarship",
+    "text": "Scholarship consideration: 15 Jan 2027"
+   },
+   {
+    "iso": "2027-04-01",
+    "kind": "deadline",
+    "text": "Visa/housing: 1 April 2027"
+   },
+   {
+    "iso": "2027-08-31",
+    "kind": "documents",
+    "text": "Tuition payment: 31 Aug 2027"
+   }
+  ]
  },
  "p19": {
   "process": [
@@ -907,7 +1026,9 @@
    "https://www.wu.ac.at/en/programs/masters-programs",
    "https://www.wu.ac.at/en/programs/application-and-admission/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": []
  },
  "p20": {
   "process": [
@@ -955,7 +1076,9 @@
    "https://smith.queensu.ca/grad_studies/mma/program-details/admissions-requirements.php",
    "https://smith.queensu.ca/grad_studies/mma-ft/program-details/admission-requirements.php"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p21": {
   "process": [
@@ -1001,7 +1124,30 @@
    "https://www.aalto.fi/en/study-options/information-and-service-management-master-of-science-economics-and-business-administration",
    "https://www.aalto.fi/en/admission-services/apply-to-masters-programmes"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-12-07",
+    "kind": "opens",
+    "text": "Application: 7 Dec 2026 to 5 Jan 2027"
+   },
+   {
+    "iso": "2027-01-05",
+    "kind": "deadline",
+    "text": "Application: 7 Dec 2026 to 5 Jan 2027"
+   },
+   {
+    "iso": "2027-01-12",
+    "kind": "documents",
+    "text": "Documents: 12 Jan 2027"
+   },
+   {
+    "iso": "2027-03-12",
+    "kind": "result",
+    "text": "Results: 12 Mar 2027"
+   }
+  ]
  },
  "p22": {
   "process": [
@@ -1045,7 +1191,9 @@
   "sources": [
    "https://escp.eu/programmes/specialised-masters-MSc/MSc-in-Business-Analytics-in-AI"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p23": {
   "process": [
@@ -1090,7 +1238,25 @@
    "https://www.rotman.utoronto.ca/programs/specialized-programs/master-of-management-analytics/admissions/",
    "https://www.rotman.utoronto.ca/programs/specialized-programs/master-of-management-analytics/tuition-scholarships/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": [
+   {
+    "iso": "2026-10-14",
+    "kind": "deadline",
+    "text": "Round 1: 14 Oct 2026"
+   },
+   {
+    "iso": "2027-01-20",
+    "kind": "deadline",
+    "text": "Round 2: 20 Jan 2027"
+   },
+   {
+    "iso": "2027-03-24",
+    "kind": "deadline",
+    "text": "Final: 24 March 2027"
+   }
+  ]
  },
  "p24": {
   "process": [
@@ -1134,7 +1300,15 @@
   "sources": [
    "https://www.tilburguniversity.edu/education/masters-programs/data-science-and-society/application"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2027-04-01",
+    "kind": "deadline",
+    "text": "1 April 2027 (non-EEA, August start)"
+   }
+  ]
  },
  "p25": {
   "process": [
@@ -1183,7 +1357,20 @@
    "https://www.esade.edu/master-of-science/en/admissions",
    "https://www.esade.edu/master-of-science/en/program/masters-in-business-analytics/fees-and-financing"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-11-18",
+    "kind": "opens",
+    "text": "Nine rounds, 18 Nov 2026 to 30 June 2027"
+   },
+   {
+    "iso": "2027-06-30",
+    "kind": "deadline",
+    "text": "Nine rounds, 18 Nov 2026 to 30 June 2027"
+   }
+  ]
  },
  "p26": {
   "process": [
@@ -1239,7 +1426,25 @@
   "sources": [
    "https://www.frankfurt-school.de/en/study/master/master-in-management"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": [
+   {
+    "iso": "2026-11-30",
+    "kind": "early",
+    "text": "30 Nov 2026 (Early Bird 1)"
+   },
+   {
+    "iso": "2027-03-31",
+    "kind": "early",
+    "text": "31 March 2027 (Early Bird 2)"
+   },
+   {
+    "iso": "2027-06-30",
+    "kind": "scholarship",
+    "text": "30 June 2027 (final; late applications cannot be considered for scholarships)"
+   }
+  ]
  },
  "p27": {
   "process": [
@@ -1283,7 +1488,9 @@
   "sources": [
    "https://www.essec.edu/en/program/master-data-sciences-business-analytics/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p28": {
   "process": [
@@ -1328,7 +1535,9 @@
    "https://www.monash.edu/__data/assets/pdf_file/0010/3945205/graduate-international-course-guide.pdf",
    "https://www.monash.edu/__data/assets/pdf_file/0007/2613652/MonBS_PG-Course-Factsheet_Business-analytics_2022_v2.pdf"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p29": {
   "process": [
@@ -1372,7 +1581,20 @@
   "sources": [
    "https://www.ie.edu/masters/master-business-analytics-data-science/admissions-fees/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": [
+   {
+    "iso": "2026-09-21",
+    "kind": "deadline",
+    "text": "No 2027 deadline found; Fall start 21 Sept 2026 and Spring 20 April 2027 listed"
+   },
+   {
+    "iso": "2027-04-20",
+    "kind": "deadline",
+    "text": "No 2027 deadline found; Fall start 21 Sept 2026 and Spring 20 April 2027 listed"
+   }
+  ]
  },
  "p30": {
   "process": [
@@ -1423,7 +1645,15 @@
    "https://www.strath.ac.uk/courses/postgraduatetaught/businessanalysisconsultingwithartificialintelligence/",
    "https://www.strath.ac.uk/studywithus/scholarships/sbsinternationalmastersscholarshipsseptember2026/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2026-11-30",
+    "kind": "scholarship",
+    "text": "January 2027 intake still open; scholarship deadline 30 Nov 2026"
+   }
+  ]
  },
  "p31": {
   "process": [
@@ -1468,7 +1698,30 @@
    "https://www.lusem.lu.se/study/masters/programmes/information-systems/requirements",
    "https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/tuition-fees"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2027-01-15",
+    "kind": "deadline",
+    "text": "15 Jan 2027 application"
+   },
+   {
+    "iso": "2027-02-01",
+    "kind": "deadline",
+    "text": "1 Feb 2027 fee and documents"
+   },
+   {
+    "iso": "2027-08-30",
+    "kind": "opens",
+    "text": "Programme runs 30 Aug 2027 to 4 June 2028"
+   },
+   {
+    "iso": "2028-06-04",
+    "kind": "deadline",
+    "text": "Programme runs 30 Aug 2027 to 4 June 2028"
+   }
+  ]
  },
  "p32": {
   "process": [
@@ -1512,7 +1765,9 @@
    "https://pe.gatech.edu/degrees/analytics",
    "https://www.analytics.gatech.edu/admissions"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.5,
+  "dates": []
  },
  "p33": {
   "process": [
@@ -1562,7 +1817,30 @@
    "https://www.imperial.ac.uk/business-school/masters/business-analytics/admissions/",
    "https://www.imperial.ac.uk/business-school/masters/business-analytics/fees-and-funding/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-09-29",
+    "kind": "deadline",
+    "text": "Round 1: 29 Sep 2026"
+   },
+   {
+    "iso": "2027-01-06",
+    "kind": "deadline",
+    "text": "Round 2: 6 Jan 2027"
+   },
+   {
+    "iso": "2027-03-10",
+    "kind": "deadline",
+    "text": "Round 3: 10 Mar 2027"
+   },
+   {
+    "iso": "2027-04-28",
+    "kind": "deadline",
+    "text": "Round 4: 28 Apr 2027"
+   }
+  ]
  },
  "p34": {
   "process": [
@@ -1606,7 +1884,15 @@
   "sources": [
    "https://warwick.ac.uk/study/postgraduate/courses/msc-business-analytics/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": [
+   {
+    "iso": "2027-08-02",
+    "kind": "deadline",
+    "text": "2 August 2027 (unconfirmed for this course)"
+   }
+  ]
  },
  "p35": {
   "process": [
@@ -1655,7 +1941,30 @@
    "https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/admissions",
    "https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/fees-and-financing"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-10-07",
+    "kind": "deadline",
+    "text": "R1: 7 Oct 2026"
+   },
+   {
+    "iso": "2026-11-26",
+    "kind": "deadline",
+    "text": "R2: 26 Nov 2026"
+   },
+   {
+    "iso": "2027-02-17",
+    "kind": "deadline",
+    "text": "R3: 17 Feb 2027"
+   },
+   {
+    "iso": "2027-04-28",
+    "kind": "deadline",
+    "text": "R4: 28 Apr 2027"
+   }
+  ]
  },
  "p36": {
   "process": [
@@ -1698,7 +2007,15 @@
    "https://studieordninger.cbs.dk/2025/kan/1268",
    "https://www.cbs.dk/en/study-programmes/master-programmes/application-and-admission"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-01-15",
+    "kind": "deadline",
+    "text": "Last cycle: 15 January 2026; 2027 date not confirmed"
+   }
+  ]
  },
  "p37": {
   "process": [
@@ -1742,7 +2059,20 @@
    "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-analytics-mc242",
    "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-analytics-mc242/apply-now"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2026-08-03",
+    "kind": "deadline",
+    "text": "Semester 1 2027: applications open since 3 Aug 2026; start 1 March 2027"
+   },
+   {
+    "iso": "2027-03-01",
+    "kind": "deadline",
+    "text": "Semester 1 2027: applications open since 3 Aug 2026; start 1 March 2027"
+   }
+  ]
  },
  "p38": {
   "process": [
@@ -1786,7 +2116,9 @@
    "https://www.manchester.ac.uk/study/masters/courses/list/22043/msc-business-analytics-and-artificial-intelligence/entry-requirements/",
    "https://www.alliancembs.manchester.ac.uk/study/masters/masters-entry-requirements/international-entry-requirements/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p39": {
   "process": [
@@ -1831,7 +2163,20 @@
    "https://www.nhh.no/en/study-programmes/application-and-admission/financial-matters/",
    "https://www.nhh.no/en/study-programmes/application-and-admission/admission-msc-in-economics-and-business-administration/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-11-01",
+    "kind": "opens",
+    "text": "Portal opens 1 Nov 2026"
+   },
+   {
+    "iso": "2027-02-15",
+    "kind": "deadline",
+    "text": "Deadline 15 Feb 2027"
+   }
+  ]
  },
  "p40": {
   "process": [
@@ -1875,7 +2220,9 @@
    "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-magistrale/foreign-qualification/requirements",
    "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/management-engineering"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p41": {
   "process": [
@@ -1915,7 +2262,9 @@
   "sources": [
    "https://www.monash.edu/__data/assets/pdf_file/0010/3945205/graduate-international-course-guide.pdf"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p42": {
   "process": [
@@ -1957,7 +2306,9 @@
    "https://msba.nus.edu.sg/programme/",
    "https://msba.nus.edu.sg/wp-content/uploads/2025/09/Application-Guide-for-MSBA-AY2026_27-11-Sep_v2.pdf"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p43": {
   "process": [
@@ -2000,7 +2351,9 @@
    "https://www.handbook.uts.edu.au/courses/c04412.html",
    "https://www.uts.edu.au/courses/master-of-business-analytics"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p44": {
   "process": [
@@ -2043,7 +2396,9 @@
    "https://www.unibocconi.it/en/applying-bocconi/master-science-and-ma-programs/application-and-admissions/gmat-and-gre-test",
    "https://www.unibocconi.it/en/current-students/fees/bocconi-tuition-and-fees"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p45": {
   "process": [
@@ -2089,7 +2444,20 @@
    "https://www.analytics.gatech.edu/admissions",
    "https://www.analytics.gatech.edu/admissions/tuition-and-funding"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.5,
+  "dates": [
+   {
+    "iso": "2027-01-01",
+    "kind": "deadline",
+    "text": "Priority 1 Jan 2027"
+   },
+   {
+    "iso": "2027-03-01",
+    "kind": "deadline",
+    "text": "Late 1 Mar 2027"
+   }
+  ]
  },
  "p46": {
   "process": [
@@ -2130,7 +2498,9 @@
    "https://www.hw.ac.uk/dubai/study/postgraduate/business-analytics-and-consultancy",
    "https://www.hw.ac.uk/dubai/study/apply/international-entry-requirements"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.0,
+  "dates": []
  },
  "p47": {
   "process": [
@@ -2173,7 +2543,9 @@
   "sources": [
    "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p48": {
   "process": [
@@ -2219,7 +2591,15 @@
    "https://mbs.edu/degree-programs/full-time-master-of-business-analytics",
    "https://study.unimelb.edu.au/find/courses/graduate/master-of-business-analytics/entry-requirements/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": [
+   {
+    "iso": "2026-10-19",
+    "kind": "deadline",
+    "text": "Offshore deadline 19 Oct 2026 (unconfirmed)"
+   }
+  ]
  },
  "p49": {
   "process": [
@@ -2263,7 +2643,9 @@
    "https://www.unisg.ch/en/studying/admission/admission-master/business-innovation/",
    "https://www.unisg.ch/en/studying/admission/application-deadlines/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p50": {
   "process": [
@@ -2306,7 +2688,9 @@
    "https://mtec.ethz.ch/studies/prospectives/admissions.html",
    "https://mas-mtec.ethz.ch/education/faq.html"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p51": {
   "process": [
@@ -2352,7 +2736,9 @@
    "https://www.tu.berlin/en/eecs/academics-teaching/study-offer/masters-programs/msc-information-systems-management-wirtschaftsinformatik/msc-ism-wi-application-admission",
    "https://www.tu.berlin/en/eecs/academics-teaching/study-offer/application-admission-faq"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p52": {
   "process": [
@@ -2398,7 +2784,9 @@
    "https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/application-for-admission/",
    "https://www.rwth-aachen.de/cms/root/studium/vor-dem-studium/zugangsvoraussetzungen/~bxip/besonderheiten-internationale-studienint/?lidx=1"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p53": {
   "process": [
@@ -2447,7 +2835,9 @@
    "https://www.tum.de/en/studies/degree-programs/detail/data-engineering-and-analytics-master-of-science-msc",
    "https://www.cit.tum.de/en/cit/studies/degree-programs/master-data-engineering-and-analytics/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p54": {
   "process": [
@@ -2491,7 +2881,15 @@
    "https://www.uni-mannheim.de/en/academics/before-your-studies/programs/mannheim-master-in-data-science/",
    "https://www.uni-mannheim.de/media/Einrichtungen/zula/Auswahlsatzungen_master/satzung_ma_mmds_en.pdf"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2026-11-15",
+    "kind": "deadline",
+    "text": "Spring 2027: 15 Oct to 15 Nov 2026"
+   }
+  ]
  },
  "p55": {
   "process": [
@@ -2549,7 +2947,25 @@
    "https://www.whu.edu/en/programs/master-of-science-programs/master-in-management/application-admissions/",
    "https://www.whu.edu/en/programs/master-of-science-programs/fees-financing/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.5,
+  "dates": [
+   {
+    "iso": "2027-03-31",
+    "kind": "scholarship",
+    "text": "Scholarship consideration: 31 Jan or 31 March 2027 (pages differ)"
+   },
+   {
+    "iso": "2027-04-30",
+    "kind": "deadline",
+    "text": "Student visa applicants: 30 April 2027"
+   },
+   {
+    "iso": "2027-05-31",
+    "kind": "deadline",
+    "text": "Everyone else: 31 May 2027"
+   }
+  ]
  },
  "p56": {
   "process": [
@@ -2593,7 +3009,9 @@
    "https://www.ul.ie/gps/business-analytics-msc",
    "https://www.ul.ie/fees/course-fees/postgraduate-fees/postgraduate-taught-fees-2026-2027"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p57": {
   "process": [
@@ -2637,7 +3055,15 @@
    "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/msc-data-science-and-analytics",
    "https://www.maynoothuniversity.ie/study-maynooth/how-apply/postgraduate-applicants"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2027-08-27",
+    "kind": "deadline",
+    "text": "Closes 27 August 2027"
+   }
+  ]
  },
  "p58": {
   "process": [
@@ -2679,7 +3105,20 @@
   "sources": [
    "https://www.ucc.ie/en/ckr49/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2027-06-15",
+    "kind": "deadline",
+    "text": "Closes 15 June 2027 or when full; start 6 September 2027"
+   },
+   {
+    "iso": "2027-09-06",
+    "kind": "deadline",
+    "text": "Closes 15 June 2027 or when full; start 6 September 2027"
+   }
+  ]
  },
  "p59": {
   "process": [
@@ -2722,7 +3161,15 @@
    "https://www.uu.nl/en/masters/business-informatics",
    "https://www.uu.nl/en/masters/business-informatics/application-and-admission/degree-from-a-non-dutch-university"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2027-04-01",
+    "kind": "deadline",
+    "text": "1 April 2027 (September start); 1 September (February start)"
+   }
+  ]
  },
  "p60": {
   "process": [
@@ -2770,7 +3217,25 @@
   "sources": [
    "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/master-program/program/data-science-and-artificial-intelligence/country/india"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2027-01-01",
+    "kind": "scholarship",
+    "text": "1 January 2027 (scholarship)"
+   },
+   {
+    "iso": "2027-05-01",
+    "kind": "deadline",
+    "text": "1 May 2027 (final)"
+   },
+   {
+    "iso": "2027-06-01",
+    "kind": "deadline",
+    "text": "1 June 2027 (visa forms and payments)"
+   }
+  ]
  },
  "p61": {
   "process": [
@@ -2815,7 +3280,9 @@
   "sources": [
    "https://schulich.yorku.ca/admissions/admissions-requirements/mban/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": []
  },
  "p62": {
   "process": [
@@ -2860,7 +3327,9 @@
    "https://www.sfu.ca/fas/study/future-graduates/programs/master-big-data.html",
    "https://www.sfu.ca/gradstudies/apply/applying/requirements.html"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p63": {
   "process": [
@@ -2903,7 +3372,9 @@
    "https://www.deakin.edu.au/course/master-business-analytics-international",
    "https://handbook.deakin.edu.au/courses-search/course.php?course=M761&stutype=international"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p64": {
   "process": [
@@ -2947,7 +3418,9 @@
    "https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc",
    "https://business.leeds.ac.uk/masters/doc/entry-requirements-2"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p65": {
   "process": [
@@ -2992,7 +3465,9 @@
    "https://www.bath.ac.uk/courses/postgraduate-2026/taught-postgraduate-courses/msc-business-analytics/",
    "https://www.bath.ac.uk/corporate-information/school-of-management-taught-postgraduate-tuition-fees-2027-28/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p66": {
   "process": [
@@ -3036,7 +3511,15 @@
    "https://www.chalmers.se/en/education/your-studies/find-course-and-programme-syllabi/programme-overview/MPDSC/",
    "https://www.chalmers.se/en/education/application-and-admission/tuition-fees/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2027-01-15",
+    "kind": "deadline",
+    "text": "15 Jan 2027 (listed for sister Chalmers programmes: confirm for this one)"
+   }
+  ]
  },
  "p67": {
   "process": [
@@ -3078,7 +3561,15 @@
    "https://www.dtu.dk/english/education/graduate/msc-programmes/business-analytics/prerequisites",
    "https://www.dtu.dk/english/education/graduate/fees-and-funding"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2027-01-15",
+    "kind": "deadline",
+    "text": "15 January 2027"
+   }
+  ]
  },
  "p68": {
   "process": [
@@ -3121,7 +3612,9 @@
    "https://masters.au.dk/datascience",
    "https://masters.au.dk/tuitionfees/current-tuition-fee-rates"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p69": {
   "process": [
@@ -3167,7 +3660,9 @@
    "https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme",
    "https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/tuition-fees-and-scholarship-programme"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p70": {
   "process": [
@@ -3210,7 +3705,9 @@
    "https://www.tuwien.at/en/studies/studies/master-programmes/informatics/data-science",
    "https://www.tuwien.at/en/studies/admission/students-union-fee-and-tuition-fee/tuition-fee"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p71": {
   "process": [
@@ -3254,7 +3751,9 @@
    "https://www.bbs.unibo.it/en/master-fulltime/artificial-intelligence-2/",
    "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/professional-master/2026-2027/artificial-intelligence-for-management-1"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p72": {
   "process": [
@@ -3298,7 +3797,9 @@
    "https://masters.smu.edu.sg/programme/master-of-it-in-business",
    "https://scis.smu.edu.sg/master-it-business/admission-main/fees"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p73": {
   "process": [
@@ -3344,7 +3845,9 @@
    "https://mbzuai.ac.ae/study/msc-programs/master-of-science-in-machine-learning/",
    "https://mbzuai.ac.ae/admissions/graduate-masters-admissions"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p74": {
   "process": [
@@ -3385,7 +3888,9 @@
   "sources": [
    "https://novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p75": {
   "process": [
@@ -3432,7 +3937,9 @@
    "https://jindal.utdallas.edu/ms-business-analytics-faq/",
    "https://academics.utdallas.edu/fact-sheets/jindal/ms-business-analytics-and-artificial-intelligence/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p76": {
   "process": [
@@ -3479,7 +3986,20 @@
    "https://www.lut.fi/en/studies/business/masters-programmes-business-administration/masters-programme-business-analytics",
    "https://www.lut.fi/en/studies/apply-lut/applying-masters-programmes/tuition-fee"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-10-01",
+    "kind": "opens",
+    "text": "1 Oct 2026 to 31 Mar 2027"
+   },
+   {
+    "iso": "2027-03-31",
+    "kind": "deadline",
+    "text": "1 Oct 2026 to 31 Mar 2027"
+   }
+  ]
  },
  "p77": {
   "process": [
@@ -3523,7 +4043,20 @@
    "https://www.utwente.nl/en/education/master/programmes/business-information-technology/financial-matters/",
    "https://www.utwente.nl/en/education/master/programmes/business-information-technology/eligibility-check/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2027-05-01",
+    "kind": "deadline",
+    "text": "1 May 2027 (September start)"
+   },
+   {
+    "iso": "2027-09-01",
+    "kind": "documents",
+    "text": "Documents: 1 Sept 2027"
+   }
+  ]
  },
  "p78": {
   "process": [
@@ -3566,7 +4099,15 @@
    "https://www.eur.nl/en/master/data-science-and-marketing-analytics/facts-figures",
    "https://www.eur.nl/en/master/data-science-and-marketing-analytics/admission"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2027-04-01",
+    "kind": "deadline",
+    "text": "1 April 2027 (non-EEA)"
+   }
+  ]
  },
  "p79": {
   "process": [
@@ -3611,7 +4152,15 @@
    "https://msba.hkust.edu.hk/admission/program-fee-expenses",
    "https://msba.hkust.edu.hk/admission/application-schedule-procedures"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": [
+   {
+    "iso": "2026-11-29",
+    "kind": "deadline",
+    "text": "Phase 2: 29 Nov 2026 (Phase 1, 11 Oct, has passed)"
+   }
+  ]
  },
  "p80": {
   "process": [
@@ -3655,7 +4204,9 @@
    "https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science-data-science",
    "https://siebelschool.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p81": {
   "process": [
@@ -3698,7 +4249,9 @@
    "https://www.mun.ca/become/graduate/programs-and-courses/data-science/",
    "https://www.mun.ca/science/graduate-students/interdisciplinary-graduate-programs/data-science-program/expenses-and-fees/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p82": {
   "process": [
@@ -3740,7 +4293,9 @@
    "https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-analytics-PMANL/",
    "https://www.massey.ac.nz/study/fees-and-funding/tuition-fees-for-international-students/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p83": {
   "process": [
@@ -3783,7 +4338,15 @@
    "https://www.uc3m.es/master/big-data-analytics",
    "https://www.uc3m.es/postgraduate/enrollment/prices"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-05-31",
+    "kind": "deadline",
+    "text": "Last intake: 31 May 2026; confirm the 2027 date"
+   }
+  ]
  },
  "p84": {
   "process": [
@@ -3824,7 +4387,9 @@
    "https://informatorects.uw.edu.pl/en/programmes-all/DSBA-PRK/S2-PRK-DSBA/",
    "https://rekrutacja.uw.edu.pl/en/application-and-tuition-fees/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p85": {
   "process": [
@@ -3863,7 +4428,9 @@
    "https://www.sgh.waw.pl/en/second-cycle-studies/master-studies-advanced-analytics-big-data",
    "https://www.sgh.waw.pl/en/fees-graduate-studies"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p86": {
   "process": [
@@ -3907,7 +4474,9 @@
    "https://fis.vse.cz/english/admissions/admissions/master/",
    "https://fis.vse.cz/english/admissions/study-in-the-cz/cost-of-living/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p87": {
   "process": [
@@ -3951,7 +4520,9 @@
    "https://www.uni-corvinus.hu/post/landing-page/masters/msc-in-business-informatics/?lang=en",
    "https://www.uni-corvinus.hu/post/landing-page/application/fees-and-costs/?lang=en"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p88": {
   "process": [
@@ -3995,7 +4566,9 @@
    "https://www.uni-saarland.de/en/study/programmes/master/data-science.html",
    "https://saarland-informatics-campus.de/en/studium-studies/master-english/application-guide/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p89": {
   "process": [
@@ -4039,7 +4612,9 @@
    "https://www.wi.uni-muenster.de/prospective-students/our-courses-study/master-science-information-systems/application-and-admission",
    "https://www.wi.uni-muenster.de/prospective-students/faq"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p90": {
   "process": [
@@ -4092,7 +4667,35 @@
    "https://study.ed.ac.uk/programmes/postgraduate-taught/929-business-analytics",
    "https://www.business-school.ed.ac.uk/msc/business-analytics/fees-living-expenses"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 7.0,
+  "dates": [
+   {
+    "iso": "2026-10-14",
+    "kind": "deadline",
+    "text": "R1 14 Oct 2026"
+   },
+   {
+    "iso": "2026-12-09",
+    "kind": "deadline",
+    "text": "R2 9 Dec 2026"
+   },
+   {
+    "iso": "2027-02-10",
+    "kind": "deadline",
+    "text": "R3 10 Feb 2027"
+   },
+   {
+    "iso": "2027-04-21",
+    "kind": "deadline",
+    "text": "R4 21 Apr 2027"
+   },
+   {
+    "iso": "2027-06-09",
+    "kind": "deadline",
+    "text": "R5 9 Jun 2027"
+   }
+  ]
  },
  "p91": {
   "process": [
@@ -4132,7 +4735,9 @@
    "https://en.itu.dk/Programmes/MSc-Programmes/Applying-to-a-MSc-programme/Non-EU-EOES",
    "https://en.itu.dk/Programmes/MSc-Programmes/Applying-to-a-MSc-programme/Admission-requirements-DS"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p92": {
   "process": [
@@ -4175,7 +4780,9 @@
    "https://statistik.tu-dortmund.de/en/studies/degrees/data-science-msc/admission/",
    "https://statistik.tu-dortmund.de/en/studies/student-advisory-and-faqs/enrollment-master-foreign-students/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p93": {
   "process": [
@@ -4217,7 +4824,9 @@
    "https://dsv.su.se/sdsbo",
    "https://www.su.se/english/education/how-to-apply/costs-fees-and-scholarships"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p94": {
   "process": [
@@ -4260,7 +4869,9 @@
    "https://www.oec.uzh.ch/en/academic-programs/master/it.html",
    "https://www.uzh.ch/en/studies/application/fees.html"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p95": {
   "process": [
@@ -4309,7 +4920,9 @@
    "https://www.gla.ac.uk/postgraduate/taught/business-analytics/",
    "https://www.gla.ac.uk/schools/business/postgraduate/asbs-india/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": 6.5,
+  "dates": []
  },
  "p96": {
   "process": [
@@ -4351,7 +4964,9 @@
    "https://ut.ee/en/curriculum/computer-science",
    "https://cs.ut.ee/en/content/computer-science-msc"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p97": {
   "process": [
@@ -4396,7 +5011,20 @@
    "https://www.vu.lt/en/studies/master-studies/data-science",
    "https://apply.vu.lt/courses/course/36-data-science"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2026-12-01",
+    "kind": "opens",
+    "text": "Opens 1 Dec 2026"
+   },
+   {
+    "iso": "2027-05-01",
+    "kind": "deadline",
+    "text": "1 May 2027 (non-EU, visa needed)"
+   }
+  ]
  },
  "p98": {
   "process": [
@@ -4440,7 +5068,15 @@
    "https://www.uni.lu/fstm-en/study-programs/master-in-data-science/admissions/",
    "https://www.uni.lu/en/admissions/admission-criteria/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": [
+   {
+    "iso": "2027-03-24",
+    "kind": "deadline",
+    "text": "Non-EU window about 1 Feb to 24 Mar 2027 (2026 dates shown)"
+   }
+  ]
  },
  "p99": {
   "process": [
@@ -4481,7 +5117,9 @@
   "sources": [
    "https://www.inf.uni-hamburg.de/en/studies/master/dsai.html"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  },
  "p100": {
   "process": [
@@ -4521,6 +5159,8 @@
    "https://www.math.uni-freiburg.de/nlehre/en/page/mscdata/",
    "https://uni-freiburg.de/en/studies/during-your-studies/tuition-fees-international-students/"
   ],
-  "checked": "2026-10-25"
+  "checked": "2026-10-25",
+  "ieltsMin": null,
+  "dates": []
  }
 }
