@@ -45,7 +45,7 @@ A.views.shortlist=function(params){
       h("div",null,h("div",{class:"row",style:"flex-wrap:nowrap;margin-bottom:4px"},A.uniLogo(p.university,p.links.university),
           h("div",null,h("h3",null,h("a",{href:"#"+p.id,style:"color:inherit;text-decoration:none",text:p.program})),h("div",{class:"meta"},A.flag(p.country)," "+p.university+", "+p.country))),
         h("div",{class:"chiprow",style:"margin:6px 0"},h("span",{class:"mini-t",text:A.money(p.costLakh)}),h("span",{class:"mini-t",text:p.months+" months"}),h("span",{class:"mini-t",text:"Score "+A.score(p).toFixed(2)}),
-          h("span",{class:"mini-t "+(p.testNeed==="required"?"w":p.testNeed==="none"?"g":""),text:A.TEST_LABEL[p.testNeed]}),A.profileSet()?A.fitChip(p):null),
+          h("span",{class:"mini-t "+(p.testNeed==="required"?"w":p.testNeed==="none"?"g":""),text:A.TEST_LABEL[p.testNeed]}),A.profileSet()?A.fitChip(p):null,A.bgChip(p),A.careerChip(p)),
         d?h("p",{class:"small",style:"margin:4px 0",text:"Next date: "+A.fmtDate(d.iso)+" ("+A.daysLeft(d.iso)+" days)"}):h("p",{class:"small",style:"margin:4px 0",text:"No dated deadline found: check the programme page."}),
         tot?h("div",{style:"max-width:320px"},pr,h("span",{class:"small",text:n+" of "+tot+" documents ready"})):null,
         T.note?h("p",{class:"small",style:"margin:6px 0 0;white-space:pre-wrap",text:T.note.length>140?T.note.slice(0,140)+"...":T.note}):null),
@@ -76,6 +76,8 @@ A.views.compare=function(){
   addRow("PR route (1-10)",function(p){return String(p.pr);},{best:function(p){return -p.pr;},num:1});
   addRow("Admission odds (1-10)",function(p){return String(p.adm);},{best:function(p){return -p.adm;},num:1});
   addRow("Scholarships",function(p){var D=A.DET[p.id];return D&&D.scholarships&&D.scholarships.length?D.scholarships.map(function(x){return x.name;}).join("; "):"None listed";});
+  addRow("Career support",function(p){return A.CAREER_TXT[A.career(p).l]+(A.career(p).s?": "+A.career(p).s:"");});
+  addRow("Fit with your background",function(p){var f=A.bgFit(p);return A.BGCHIP[f.level]||"Neutral";});
   addRow("Fit for you",function(p){return A.FITLABEL[A.fit(p).level];});
   addRow("Details verified",function(p){return A.conf(p)==="verified"?"Yes":"Partly";});
   var t=h("table",{class:"tbl"});
@@ -225,6 +227,9 @@ var FAQ=[
  ["Why might a fact differ from the university's page?","Fees, deadlines and visa rules change. Every programme shows the date checked. If something is wrong, use 'Report a wrong or outdated detail' on the programme page."],
  ["Where is my shortlist saved?","Only in this browser, on this device. Clearing site data removes it. Export your shortlist as CSV, or copy a share link, to keep or move it."],
  ["Can I use this offline?","After your first visit the site works offline for pages you have already opened, and you can add it to your phone's home screen."],
+ ["What do the background highlights mean?","Tick the points that apply to you on Explore: an MBA, the IIT Madras BS in Data Science, SAP experience and about 2 years of work experience. Each programme is rated Strong fit, Fits, Neutral or Risk on each point. A gold chip means at least two strong fits and no risks. Some ratings are stated on official pages and some are my inference from the programme's audience or prerequisites: the programme page says which."],
+ ["Will foreign universities accept the IIT Madras online BS?","The BS is a 4-year, 142-credit IIT degree, and IIT Madras says graduates have joined universities including Georgia Tech, Cornell and Aalto. Germany is the catch: APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course, and APS is needed for the visa. Confirm with APS India before you apply to a German programme. Other countries: ask each programme whether an online-mode degree is accepted."],
+ ["How reliable are the career-network ratings?","Strong means a published employment figure of about 90% within 6 months (or 85% within 3 months, or equivalent) plus a dedicated careers team or employer network. Good means a career service with some outcome data or strong employer ties. Basic means only a central university service with no programme figures. Almost all figures are published by the schools themselves, so they are self-reported."],
  ["Is this legal or migration advice?","No. Confirm visa and immigration rules with official government sources or a registered adviser before paying any fee."]];
 A.views.guide=function(){
   var out=[head("Guide","How to use this site, what the labels mean, and what every acronym stands for.")];

@@ -1,0 +1,2802 @@
+{
+ "p1": {
+  "workex": {
+   "l": "strong",
+   "n": "Employment and first work experience are admission requirements. Participants come from IT, consulting, automotive and finance.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "strong",
+   "n": "A part-time programme for working professionals: an MBA and management background fits the cohort.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "Mannheim sits in SAP's home region (Rhine-Neckar). It runs a joint SAP PhD programme, and Business Informatics lists SAP among graduate employers.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "No published employment rate. The MMAAI class of 2025 reported an average 35% salary increase and 42% moving into data roles",
+   "n": "Mannheim Career Network: career fair, virtual job market, free application checks and a CV book. SAP, BASF, Microsoft and Deutsche Bank hire Business Informatics graduates.",
+   "u": "https://www.wim.uni-mannheim.de/en/academics/professional-development/career-network/"
+  }
+ },
+ "p2": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "risk",
+   "n": "A Master in Management aimed at bachelor's graduates and young professionals: an MBA may duplicate it.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "Mannheim sits in SAP's home region (Rhine-Neckar). It runs a joint SAP PhD programme, and Business Informatics lists SAP among graduate employers.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "No published employment rate. The MMAAI class of 2025 reported an average 35% salary increase and 42% moving into data roles",
+   "n": "Mannheim Career Network: career fair, virtual job market, free application checks and a CV book. SAP, BASF, Microsoft and Deutsche Bank hire Business Informatics graduates.",
+   "u": "https://www.wim.uni-mannheim.de/en/academics/professional-development/career-network/"
+  }
+ },
+ "p3": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "Mannheim sits in SAP's home region (Rhine-Neckar). It runs a joint SAP PhD programme, and Business Informatics lists SAP among graduate employers.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "No published employment rate. The MMAAI class of 2025 reported an average 35% salary increase and 42% moving into data roles",
+   "n": "Mannheim Career Network: career fair, virtual job market, free application checks and a CV book. SAP, BASF, Microsoft and Deutsche Bank hire Business Informatics graduates.",
+   "u": "https://www.wim.uni-mannheim.de/en/academics/professional-development/career-network/"
+  }
+ },
+ "p4": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "TUM's SAP partnership is university-wide. I could not confirm SAP content in the Heilbronn programme.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "TUM School of Management reports 84% employed within 3 months (Management & Technology)",
+   "n": "TUM's career service and IKOM fairs apply; no programme-level figure for this master's.",
+   "u": "https://www.mgt.tum.de/programs/master-in-management-technology"
+  }
+ },
+ "p5": {
+  "workex": {
+   "l": "ok",
+   "n": "Experience can substitute for a degree grade, but the stated route is 3 years.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p6": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p7": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "risk",
+   "n": "A Master in Management aimed at bachelor's graduates and young professionals: an MBA may duplicate it.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "strong",
+   "n": "TUM runs an SAP University Competence Center, and SAP is the first partner of the TUM Industry Engagement Program.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "84% to 89% employed within 3 to 6 months; average starting salary about EUR 65,000",
+   "n": "School career fair (Meet@TUM), TUM-wide fair IKOM (about 400 companies a year), job board. Mostly consulting, project management and IT.",
+   "u": "https://www.mgt.tum.de/programs/master-in-management-technology"
+  }
+ },
+ "p8": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "DCU Business School 97% employment (Graduate Outcomes Survey, school-wide)",
+   "n": "No figure for this master's.",
+   "u": "https://business.dcu.ie/graduate-employability/"
+  }
+ },
+ "p9": {
+  "workex": {
+   "l": "ok",
+   "n": "Work experience is optional; recent graduates can apply.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "85% of Business Analytics graduates found work within 6 months",
+   "n": "Employers include AIB, Accenture, Amazon, Deloitte and Stripe.",
+   "u": "https://www.tcd.ie/business/programmes/masters-programmes/msc-in-business-analytics-and-ai-for-management/careers-and-development/"
+  }
+ },
+ "p10": {
+  "workex": {
+   "l": "ok",
+   "n": "A 2.2 degree plus 2 years of relevant work is considered.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p11": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p12": {
+  "workex": {
+   "l": "ok",
+   "n": "No minimum experience; list relevant experience on your CV.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "96% employed within 6 months (programme page); 95.8% across RSM MSc graduates, 2026 report",
+   "n": "RSM Career Centre with an annual MSc Employment Report. Survey response rate was 25%.",
+   "u": "https://www.rsm.nl/msc-employment-report/"
+  }
+ },
+ "p13": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "UCD joined SAP University Alliances in 2009 and integrated SAP applications into Smurfit programmes: check what is current.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "89% employed 6 months after graduating (Graduate Outcomes Survey 2025)",
+   "n": "Smurfit careers support; alumni at Deloitte and Google Cloud.",
+   "u": "https://www.smurfitschool.ie/programmes/masters/mscinbusinessanalytics/yourcareer/"
+  }
+ },
+ "p14": {
+  "workex": {
+   "l": "ok",
+   "n": "Work experience is desired but not mandatory.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted. Canadian masters expect a 4-year degree: the BS qualifies on length.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "About 95% internship placement over three years; an 8-month paid internship option",
+   "n": "The MBAN has an industry-engagement and internship pipeline.",
+   "u": "https://www.smu.ca/sobey/mban/students-internship-placement.html"
+  }
+ },
+ "p15": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted. Canadian masters expect a 4-year degree: the BS qualifies on length.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "87% employed within 3 months (Class of 2023); average salary CAD 80,611",
+   "n": "Career Strategists, 1,265 internship and job postings for the 2025-26 classes, an internship programme and the SEAT employment tool.",
+   "u": "https://www.sauder.ubc.ca/programs/masters-degrees/mban/career-outcomes"
+  }
+ },
+ "p16": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "An information-systems or business-informatics programme where ERP is a typical topic. I found no SAP partnership.",
+   "ev": "inferred"
+  },
+  "career": {
+   "l": "good",
+   "s": "About 85% of WU's Economics master's graduates hold a job within 3 months; 95% for CEMS (2025). No figure for this master's",
+   "n": "WU's ZBP Career Center runs more than 3,000 counselling sessions a year plus employer events.",
+   "u": "https://www.wu.ac.at/en/programs/masters-programs/masters-program-economics/overview/career-prospects"
+  }
+ },
+ "p17": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "Auckland business graduates: employment at least 91.7% (2024, faculty-wide)",
+   "n": "Dedicated career development manager and 10-week applied projects, twice a year.",
+   "u": "https://www.auckland.ac.nz/en/business/current-students/student-support/careers-centre/explore-majors-and-careers/business-analytics.html"
+  }
+ },
+ "p18": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "An information-systems or business-informatics programme where ERP is a typical topic. I found no SAP partnership.",
+   "ev": "inferred"
+  },
+  "career": {
+   "l": "good",
+   "s": "UvA's Data Science and Business Analytics master reports 2 months to a job and about EUR 3,363 a month (a related programme)",
+   "n": "No figure for this exact programme. UvA Career Services apply.",
+   "u": "https://www.uva.nl/en/programmes/masters/data-science-and-business-analytics/careers/careers.html"
+  }
+ },
+ "p19": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "strong",
+   "n": "WU's IS & Processes specialisation includes a course on integrating business processes in SAP ERP.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "About 85% of WU's Economics master's graduates hold a job within 3 months; 95% for CEMS (2025). No figure for this master's",
+   "n": "WU's ZBP Career Center runs more than 3,000 counselling sessions a year plus employer events.",
+   "u": "https://www.wu.ac.at/en/programs/masters-programs/masters-program-economics/overview/career-prospects"
+  }
+ },
+ "p20": {
+  "workex": {
+   "l": "ok",
+   "n": "Queen's runs part-time and online versions for working professionals alongside a full-time one: check which you apply to.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Suits experienced professionals; an MBA is welcome but not specifically rewarded.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted. Canadian masters expect a 4-year degree: the BS qualifies on length.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p21": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "An information-systems or business-informatics programme where ERP is a typical topic. I found no SAP partnership.",
+   "ev": "inferred"
+  },
+  "career": {
+   "l": "good",
+   "s": "98% of Aalto business master's graduates employed in a five-year survey (2017 graduates)",
+   "n": "Aalto Career Services track outcomes at one and five years. Not programme-specific.",
+   "u": "https://www.aalto.fi/en/news/aalto-university-graduates-valued-in-the-job-market"
+  }
+ },
+ "p22": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "83% employed less than 3 months after graduating; average salary EUR 60,000 (Class of 2024)",
+   "n": "ESCP lists AI Consultant and Data Scientist roles. Career-service details were thin.",
+   "u": "https://escp.eu/programmes/specialised-masters-MSc/MSc-in-Business-Analytics-in-AI"
+  }
+ },
+ "p23": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted. Canadian masters expect a 4-year degree: the BS qualifies on length.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "92% employed within 6 months (Class of 2025); average compensation CAD 84,012",
+   "n": "Rotman publishes an annual employment and salary report. 60% of placements are in financial services, 88% in Toronto.",
+   "u": "https://www.rotman.utoronto.ca/media/rotman/content-assets/documents/Rotman-MMA-Employment-and-Salary-Report-2026.pdf"
+  }
+ },
+ "p24": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p25": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "96% employed within 3 months (Class of 2024); average base salary about USD 72,800 PPP",
+   "n": "Career fairs, workshops, company presentations and recruiting events across Esade MSc programmes.",
+   "u": "https://www.esade.edu/master-of-science/en/program/masters-in-business-analytics/your-career-future"
+  }
+ },
+ "p26": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "risk",
+   "n": "A Master in Management aimed at bachelor's graduates and young professionals: an MBA may duplicate it.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "92% found a job within 3 months (Class of 2025); average salary EUR 69,000 with bonus",
+   "n": "QS 2027: 3rd in Germany for employability among Master in Management programmes.",
+   "u": "https://www.frankfurt-school.de/en/study/master/master-in-management"
+  }
+ },
+ "p27": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "School brochure claims up to 100% within 6 months, but another page says only 'the vast majority'",
+   "n": "Named recruiters include Accenture, Bain, Google and PwC. Treat the 100% claim with caution.",
+   "u": "https://www.essec.edu/en/program/master-data-sciences-business-analytics/"
+  }
+ },
+ "p28": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "94% employed within 4 months (Monash Master of Business Analytics, QILT 2022)",
+   "n": "Monash Business School careers service; independent national survey (QILT).",
+   "u": "https://www.monash.edu/__data/assets/pdf_file/0008/3636044/2025-PG-Interational-course-guide.pdf"
+  }
+ },
+ "p29": {
+  "workex": {
+   "l": "strong",
+   "n": "Prefers at least one year of relevant experience (IE).",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "92% received an offer within 6 months; QS ranks the predecessor 4th worldwide for employability",
+   "n": "IE career reports are published each year; partner companies include Google, AWS and Microsoft.",
+   "u": "https://www.ie.edu/school-science-technology/programs/master-business-analytics-data-science/career-path/"
+  }
+ },
+ "p30": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p31": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "An information-systems or business-informatics programme where ERP is a typical topic. I found no SAP partnership.",
+   "ev": "inferred"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p32": {
+  "workex": {
+   "l": "strong",
+   "n": "Online and part-time, so you can keep working while you study.",
+   "ev": "inferred"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Suits experienced professionals; an MBA is welcome but not specifically rewarded.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "limited",
+   "s": "Online degree: no job-placement support (stated for Georgia Tech OMSA)",
+   "n": "Value comes from keeping your job and the credential.",
+   "u": "https://pe.gatech.edu/degrees/analytics/program-comparison"
+  }
+ },
+ "p33": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "97% accepted an offer within 6 months (Class of 2025); 95% (Class of 2024)",
+   "n": "Employers include Amazon, Bloomberg, Google, HSBC, JP Morgan. 35% go into finance.",
+   "u": "https://www.imperial.ac.uk/business-school/masters/business-analytics/career-impact/"
+  }
+ },
+ "p34": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "Average salary USD 71,541 PPP within 6 months (Class of 2025); no employment rate for this programme",
+   "n": "WBS credits its careers team; employers include JPMorgan and KPMG.",
+   "u": "https://www.wbs.ac.uk/news/wbs-masters-graduates-secure-high-paying-roles-in-fast-changing-job-market/"
+  }
+ },
+ "p35": {
+  "workex": {
+   "l": "ok",
+   "n": "Aimed at candidates with under 3 years of experience: 2 years fits, but an MBA on top may take you over.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "risk",
+   "n": "A pre-experience programme (under 3 years of experience): an MBA holder may be over-qualified.",
+   "ev": "documented"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "97% employed within 6 months; average starting salary EUR 63,000 (2024 survey)",
+   "n": "Fairs, workshops and conferences; the page names few employers.",
+   "u": "https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec"
+  }
+ },
+ "p36": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "CBS graduates have about 3.8% unemployment; 9 in 10 find private-sector jobs",
+   "n": "School-wide figure from CBS; no programme data.",
+   "u": "https://www.cbs.dk/en/news/more-people-want-study-business-cbs-breaks-another-application-record"
+  }
+ },
+ "p37": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p38": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "No programme rate. Manchester is ranked 1st among UK universities targeted by top graduate employers (High Fliers 2026)",
+   "n": "Dedicated Postgraduate Careers Service; recent recruiters include Deloitte, Google, Goldman Sachs and HSBC.",
+   "u": "https://www.alliancembs.manchester.ac.uk/study/masters/msc-business-analytics-and-artificial-intelligence/"
+  }
+ },
+ "p39": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "93.6% employed 6 months after graduating; 84% secured a job before graduation",
+   "n": "NHH's annual labour-market survey and career centre; 37% survey response.",
+   "u": "https://www.nhh.no/en/nhh-bulletin/article-archive/2023/march/new-labour-market-survey-nhh-graduates-have-never-been-so-in-demand/"
+  }
+ },
+ "p40": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "About 97% to 98% employed one year after graduating (Management Engineering)",
+   "n": "Politecnico di Milano Career Service and a mentorship programme for Management Engineering students.",
+   "u": "https://management-eng.polimi.it/en/after-graduation/career-opportunities/"
+  }
+ },
+ "p41": {
+  "workex": {
+   "l": "ok",
+   "n": "A related bachelor's plus 2 years of experience qualifies you for the shorter entry level.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "94% employed within 4 months (Monash Master of Business Analytics, QILT 2022)",
+   "n": "Monash Business School careers service; independent national survey (QILT).",
+   "u": "https://www.monash.edu/__data/assets/pdf_file/0008/3636044/2025-PG-Interational-course-guide.pdf"
+  }
+ },
+ "p42": {
+  "workex": {
+   "l": "ok",
+   "n": "Two years of relevant experience can replace the degree requirement.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "NUS partnered with SAP on a cloud HANA system for its MSBA (older announcement).",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p43": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p44": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "95.6% employed one year after graduation; 74% employed on graduation day (2022-23)",
+   "n": "Bocconi runs a placement office; graduates receive about 2.2 offers on average.",
+   "u": "https://www.unibocconi.it/en/programs/master-science/data-science-and-business-analytics/program-placement"
+  }
+ },
+ "p45": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "100% placement for the first (2015) cohort; no current figure",
+   "n": "The programme lists placement professionals and employer engagement. Georgia Tech's annual career survey reports offers by degree.",
+   "u": "https://www.isye.gatech.edu/news/georgia-techs-ms-analytics-program-achieves-100-percent-placement"
+  }
+ },
+ "p46": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "88.9% positive outcome within 12 months, 66% within 3 months (Dubai campus, 2024)",
+   "n": "Dubai Careers and Graduate Futures Service. University-wide, not programme-specific.",
+   "u": "https://www.hw.ac.uk/dubai/study/our-rankings"
+  }
+ },
+ "p47": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "strong",
+   "n": "NTU's MSc includes a module on the SAP ERP system and an SAP elective.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "Nine in 10 NTU graduates employed (university-wide, 2025)",
+   "n": "NTU Nanyang Business School careers office.",
+   "u": "https://www.ntu.edu.sg/business/admissions/graduate-studies/msc-business-analytics/admissions"
+  }
+ },
+ "p48": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "No published rate",
+   "n": "Melbourne Business School has a Career Management Centre and a supervised industry project. Employers named include Microsoft, Canva and McKinsey.",
+   "u": "https://mbs.edu/degree-programs/full-time-master-of-business-analytics"
+  }
+ },
+ "p49": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "86% of HSG master's graduates hold a permanent post at graduation; 1.7 offers on average (school-wide)",
+   "n": "HSG runs a career service with a strong Swiss employer network. Programme-level figures are not published.",
+   "u": "https://www.unisg.ch/en/studying/why-hsg/great-career-opportunities/"
+  }
+ },
+ "p50": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "ETH publishes no master's employment figures that I found",
+   "n": "ETH's central career service. Highly regarded in Switzerland, but no outcome data was found.",
+   "u": ""
+  }
+ },
+ "p51": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "An information-systems or business-informatics programme where ERP is a typical topic. I found no SAP partnership.",
+   "ev": "inferred"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p52": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p53": {
+  "workex": {
+   "l": "none",
+   "n": "Work experience cannot make up for missing CS subjects.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "strong",
+   "n": "TUM runs an SAP University Competence Center, and SAP is the first partner of the TUM Industry Engagement Program.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "TUM School of Management reports 84% employed within 3 months (Management & Technology)",
+   "n": "TUM's career service and IKOM fairs apply; no programme-level figure for this master's.",
+   "u": "https://www.mgt.tum.de/programs/master-in-management-technology"
+  }
+ },
+ "p54": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "Mannheim sits in SAP's home region (Rhine-Neckar). It runs a joint SAP PhD programme, and Business Informatics lists SAP among graduate employers.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "No published employment rate. The MMAAI class of 2025 reported an average 35% salary increase and 42% moving into data roles",
+   "n": "Mannheim Career Network: career fair, virtual job market, free application checks and a CV book. SAP, BASF, Microsoft and Deutsche Bank hire Business Informatics graduates.",
+   "u": "https://www.wim.uni-mannheim.de/en/academics/professional-development/career-network/"
+  }
+ },
+ "p55": {
+  "workex": {
+   "l": "risk",
+   "n": "Allows no more than 2 years of postgraduate experience. An MBA plus 2 years of work would probably exceed it.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "risk",
+   "n": "A pre-experience Master in Management: it requires a business bachelor's and caps experience at 2 years.",
+   "ev": "documented"
+  },
+  "iitm": {
+   "l": "risk",
+   "n": "Asks for business credits (ECONOMICS or business ECTS) that the IITM BS does not carry. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "92% receive a job offer within 3 months; average starting salary EUR 66,655",
+   "n": "WHU career service for master's students; about 43% go into consulting.",
+   "u": "https://www.whu.edu/en/programs/master-of-science-programs/career-service/"
+  }
+ },
+ "p56": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "UL: 95% of taught master's graduates employed or in further study; average starting salary EUR 45,304",
+   "n": "UL's Cooperative Education and Careers Division is the largest co-op programme in Ireland. University-wide.",
+   "u": "https://www.ul.ie/study/postgraduate/articles/uls-secret-strategy-for-postgrad-career-success"
+  }
+ },
+ "p57": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Needs a 4-year degree with 65% and maths modules at 60%: the BS fits on length and maths content.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p58": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p59": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "An information-systems or business-informatics programme where ERP is a typical topic. I found no SAP partnership.",
+   "ev": "inferred"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p60": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Needs a 4-year degree from a NAAC/AICTE or Institute-of-National-Importance university with CGPA 8.5: IIT Madras qualifies on type, but the CGPA bar is high, and the eight prerequisite subject areas match the BS courses.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "TU/e graduates find a first job in about 3 months on average (National Alumni Survey 2025)",
+   "n": "Strong ties with the Brainport industry cluster; 69% stay in the region.",
+   "u": "https://www.tue.nl/en/education/become-a-tue-student/student-facts-figures"
+  }
+ },
+ "p61": {
+  "workex": {
+   "l": "ok",
+   "n": "Post-degree work experience is recommended, not required.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted. Canadian masters expect a 4-year degree: the BS qualifies on length.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "97% hired within 6 months (Class of 2021; older), average salary CAD 82,306",
+   "n": "Schulich's Centre for Career Design; recent reports cover MBA programmes rather than the MBAN.",
+   "u": "https://schulich.yorku.ca/wp-content/uploads/2022/08/MBAN-Student-Success-Report-_Class-of-2021-1.pdf"
+  }
+ },
+ "p62": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. Canadian masters expect a 4-year degree: the BS qualifies on length.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p63": {
+  "workex": {
+   "l": "ok",
+   "n": "Relevant experience can shorten the course to 1.5 years.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "93.6% of Deakin business postgraduates in full-time work within 4 months (QILT discipline figure)",
+   "n": "DeakinTALENT careers platform. Not programme-specific.",
+   "u": "https://www.deakin.edu.au/media-sources"
+  }
+ },
+ "p64": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p65": {
+  "workex": {
+   "l": "ok",
+   "n": "Relevant experience is accepted in place of the degree grade only in exceptional cases.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "81% overall employment counting graduates seeking work (2021-23 cohorts)",
+   "n": "School of Management career data page; most graduates become data analysts, consultants or business analysts.",
+   "u": "https://www.bath.ac.uk/campaigns/msc-in-business-analytics-career-data/"
+  }
+ },
+ "p66": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p67": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "About 88% to 90% of DTU engineering master's graduates are employed within one year",
+   "n": "DTU-wide figure from an employer and graduate survey.",
+   "u": "https://www.dtu.dk/english/newsarchive/2022/08/stor-efterspoergsel-paa-nyuddannede-ingenioerer"
+  }
+ },
+ "p68": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p69": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "94% of Helsinki graduates employed five years after graduation (class of 2018)",
+   "n": "University career services support you until a year after graduation. Not programme-specific.",
+   "u": "https://www.helsinki.fi/en/innovations-and-cooperation/alumni/graduate-employment"
+  }
+ },
+ "p70": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p71": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "Placement above 90% within 6 months (school's claim)",
+   "n": "Bologna Business School runs placement for its full-time masters. Self-reported and not audited.",
+   "u": "https://www.bbs.unibo.it/en/master-fulltime/master-in-data-science-2/"
+  }
+ },
+ "p72": {
+  "workex": {
+   "l": "strong",
+   "n": "About 2 years of business or technology experience is preferred (SMU).",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Suits experienced professionals; an MBA is welcome but not specifically rewarded.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "SMU graduates: 91.4% secured employment (university-wide, 2025)",
+   "n": "SMU career office. MITB-specific figures were not found.",
+   "u": "https://www.ntu.edu.sg/docs/default-source/corporate-ntu/media-hub/0388-ntu-s-class-of-2018-well-sought-after-and-earn-higher-salaries/hro_190227_fresh-graduates-from-ntu-nus-smu-and-suss.pdf"
+  }
+ },
+ "p73": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "Annual employment report; about 80% of graduates stay in the UAE; salary AED 22,000 to 23,000 a month (2023 master's cohort)",
+   "n": "Compulsory summer internship in several programmes; internship fairs draw 37 to 48 employers. Self-reported.",
+   "u": "https://staticcdn.mbzuai.ac.ae/mbzuaiwpprd01/2026/03/MBZUAI-Annual-Employment-Report-Cohort-1-and-2.pdf"
+  }
+ },
+ "p74": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "100% of active graduates employed (an external 2020 report; excludes graduates outside the labour market)",
+   "n": "NOVA IMS reports the figure on its rankings page.",
+   "u": "https://novaims.unl.pt/en/education/programs/bachelor-s-degrees/ranking-accreditations-and-certifications-bachelor-s-degrees/"
+  }
+ },
+ "p75": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "strong",
+   "n": "UT Dallas teaches SAP S/4HANA courses and offers an SAP University Alliances certificate.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "83% found a job within 90 days; average package about USD 93,000 (2023 exit surveys)",
+   "n": "UT Dallas runs a Career Management Center and a paid-internship track.",
+   "u": "https://infosystems.utdallas.edu/ms-ba-options/"
+  }
+ },
+ "p76": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "Master's graduates: 3% unemployment five years out; median salary EUR 5,100 a month",
+   "n": "LUT runs an annual career survey. Not programme-specific.",
+   "u": "https://www.lut.fi/en/news/alumni-feedback-needed-lut-universitys-career-survey"
+  }
+ },
+ "p77": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "An information-systems or business-informatics programme where ERP is a typical topic. I found no SAP partnership.",
+   "ev": "inferred"
+  },
+  "career": {
+   "l": "good",
+   "s": "94% have paid work; first job in 2.7 months on average (University of Twente alumni survey 2025)",
+   "n": "University-wide survey; 12.7% response rate.",
+   "u": "https://www.utwente.nl/en/about-us/news-events-ceremonies/news/2026/6/941799/ut-alumni-quickly-find-their-way-into-the-labour-market-and-look-back-positively-on-their-studies"
+  }
+ },
+ "p78": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p79": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "Class of 2024: finance 35%, consulting 16%, technology 13% of jobs; no employment rate",
+   "n": "HKUST lets full-time students stay an extra half year for career exploration. Career Center runs an annual survey.",
+   "u": "https://msba.hkust.edu.hk/student-life/alumni-spotlight"
+  }
+ },
+ "p80": {
+  "workex": {
+   "l": "strong",
+   "n": "Online and part-time, so you can keep working while you study.",
+   "ev": "inferred"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Suits experienced professionals; an MBA is welcome but not specifically rewarded.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "limited",
+   "s": "Online degree: no job-placement support (stated for Georgia Tech OMSA)",
+   "n": "Value comes from keeping your job and the credential.",
+   "u": "https://pe.gatech.edu/degrees/analytics/program-comparison"
+  }
+ },
+ "p81": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. Canadian masters expect a 4-year degree: the BS qualifies on length.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p82": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p83": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p84": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "Over 90% employed within a year (University of Warsaw graduate monitoring)",
+   "n": "University of Warsaw Career Office. University-wide.",
+   "u": "https://biurokarier.uw.edu.pl/en/career-counselling/"
+  }
+ },
+ "p85": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "93% found a job within 3 months (FT ranking, older data); average 2.2 months to a full-time job",
+   "n": "SGH Career and Alumni Center.",
+   "u": "https://kariera.sgh.waw.pl/en"
+  }
+ },
+ "p86": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p87": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "ok",
+   "n": "An information-systems or business-informatics programme where ERP is a typical topic. I found no SAP partnership.",
+   "ev": "inferred"
+  },
+  "career": {
+   "l": "good",
+   "s": "Corvinus graduates earn more than other Hungarian master's graduates in the national career-tracking system",
+   "n": "Salary measure, not an employment rate.",
+   "u": "https://www.uni-corvinus.hu/post/hir/with-a-corvinus-degree-you-can-get-a-salary-advantage-of-up-to-several-hundred-thousand-forints/?lang=en"
+  }
+ },
+ "p88": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p89": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "strong",
+   "n": "Münster's information systems department offers SAP-certified ERP courses (TERP10) through SAP University Alliances. Dates I found were older: check the current schedule.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "No programme-level figure",
+   "n": "Münster Careers Service and the department's employer links (zeb, viadee, Provinzial, LVM, GAD). Around 100 graduates a year.",
+   "u": "https://www.wi.uni-muenster.de/prospective-students/studying-is-in-muenster"
+  }
+ },
+ "p90": {
+  "workex": {
+   "l": "ok",
+   "n": "Work experience is desirable; an unrelated degree can be considered with relevant experience.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "strong",
+   "s": "91% in jobs within 6 months (classes 2023-24); finance 37%, IT 27%",
+   "n": "Business School career development team; employers include Deloitte, EY, PwC.",
+   "u": "https://www.business-school.ed.ac.uk/msc/business-analytics/career-outcomes"
+  }
+ },
+ "p91": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p92": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p93": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p94": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "UZH graduates: 75% in permanent posts one year after graduating (2015 cohort, university-wide)",
+   "n": "Central UZH career services.",
+   "u": "https://www.jacobscenter.uzh.ch/dam/jcr:a6b033b2-c078-4f09-88f5-54e21f82e968/UZH_grads_income_v16.pdf"
+  }
+ },
+ "p95": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "ok",
+   "n": "Open to graduates with a business background. Admission does not give extra credit for an MBA.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ok",
+   "n": "Accepts any relevant bachelor's. A quantitative degree helps; ask whether an online-mode degree is accepted.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p96": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p97": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level employment figures found",
+   "n": "A university or faculty careers service exists. I found no published outcomes for this programme.",
+   "u": ""
+  }
+ },
+ "p98": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "strong",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree.",
+   "ev": "inferred"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "good",
+   "s": "86% of master's graduates stay in Luxembourg for work two years after graduating",
+   "n": "University of Luxembourg graduate tracking. Measures employment in Luxembourg only.",
+   "u": "https://www.uni.lu/en/about/profile/facts-figures/graduates/"
+  }
+ },
+ "p99": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ },
+ "p100": {
+  "workex": {
+   "l": "none",
+   "n": "Experience is not part of the selection we found.",
+   "ev": "documented"
+  },
+  "mba": {
+   "l": "none",
+   "n": "A technical programme: selection is on maths and CS credits, so an MBA adds little.",
+   "ev": "inferred"
+  },
+  "iitm": {
+   "l": "ask",
+   "n": "Matches the maths, statistics, programming and ML prerequisites. The BS is a 4-year, 142-credit IIT degree. APS India verifies online or distance degrees only if the Distance Education Bureau recognised them for the whole course: confirm with APS India before you apply.",
+   "ev": "documented"
+  },
+  "sap": {
+   "l": "none",
+   "n": "No SAP link found.",
+   "ev": "documented"
+  },
+  "career": {
+   "l": "basic",
+   "s": "No programme-level outcome data found",
+   "n": "Central university career service only. Public German and Austrian universities rarely publish programme outcomes. The online degrees (p32, p80) provide no placement support.",
+   "u": ""
+  }
+ }
+}

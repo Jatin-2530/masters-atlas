@@ -22,8 +22,17 @@ function actBtns(p){
     onclick:function(){if(A.cmpToggle(p.id))cmp.setAttribute("aria-pressed",A.state.cmp.indexOf(p.id)>=0?"true":"false");}},A.svg(A.ICON.cmp));
   return h("div",{class:"acts"},star,cmp);}
 A.actBtns=actBtns;
+function bgChip(p){var f=A.bgFit(p);if(f.level==="none")return null;
+  var tip=f.items.map(function(x){return A.BGLABEL[x.k]+": "+A.LEVEL_TXT[x.l]+". "+x.n;}).join("\n");
+  return h("span",{class:"fit gold "+f.level,title:tip,tabindex:"0",role:"img","aria-label":A.BGCHIP[f.level]+". "+tip,text:A.BGCHIP[f.level]});}
+A.bgChip=bgChip;
+function careerChip(p){var c=A.career(p);if(c.l==="strong")return h("span",{class:"mini-t gold",title:c.s,text:"Strong career network"});
+  if(c.l==="good")return h("span",{class:"mini-t",title:c.s,text:"Good career support"});return null;}
+A.careerChip=careerChip;
 function tags(p){
   var out=[];
+  var bc=bgChip(p);if(bc&&(A.bgFit(p).level==="strong"||A.bgFit(p).level==="good"||A.bgFit(p).level==="risk"))out.push(bc);
+  var cc=careerChip(p);if(cc)out.push(cc);
   if(A.profileSet())out.push(A.fitChip(p));
   if(p.testNeed==="required")out.push(h("span",{class:"mini-t w",text:"GMAT/GRE needed"}));
   else if(p.testNeed==="none")out.push(h("span",{class:"mini-t g",text:"No GMAT/GRE"}));
@@ -31,7 +40,7 @@ function tags(p){
   return out.length?h("div",{class:"chiprow"},out):null;}
 function row(p,flat){
   var s=A.score(p),v=A.conf(p)==="verified";
-  return h("div",{class:"prow"},
+  return h("div",{class:"prow"+(A.bgFit(p).level==="strong"?" hl":"")},
     h("a",{class:"pmain",href:"#"+p.id},
       h("div",{class:"pn"},
         flat?h("span",{style:"display:flex;align-items:center;gap:6px;color:var(--muted);font-size:12px"},A.flag(p.country),p.university+", "+p.country):null,
@@ -82,7 +91,7 @@ function paintTree(){
         h("div",{class:"tt"},A.uniLogo(p.university,p.links.university),A.flag(p.country),h("span",{class:"small",text:p.country})),
         h("b",{text:p.program}),h("div",{class:"meta",text:p.university}),
         h("div",{class:"row"},h("span",{class:"big",text:A.score(p).toFixed(2)}),h("span",{class:"mono small",text:A.money(p.costLakh)})),
-        A.profileSet()?A.fitChip(p):null));});
+        A.profileSet()?A.fitChip(p):null,A.bgChip(p),A.careerChip(p)));});
     A.stag(tp.children,1);
     frag.appendChild(h("h2",{style:"font-size:18px;margin:6px 0 8px",text:A.profileSet()?"Top picks for you":"Top picks by your weights"}));frag.appendChild(tp);}
   if(f.view==="flat"){
@@ -117,7 +126,7 @@ function paintControls(){
   var f=F(),S=A.state,frag=h("div");
   /* quick picks */
   var presets=[["Within my budget",{budget:"within"},f.budget==="within"],["No GMAT/GRE",{tests:"none"},f.tests==="none"],["One year or less",{dur:"12"},f.dur==="12"],
-    ["Tuition-free",{free:true},f.free],["Strong PR route",{pr:true},f.pr],["Funding for Indians",{india:true},f.india],["Good fit for me",{fit:"good"},f.fit==="good"]];
+    ["Tuition-free",{free:true},f.free],["Strong career network",{career:"strong"},f.career==="strong"],["Fits my background",{bg:true},f.bg],["Strong PR route",{pr:true},f.pr],["Funding for Indians",{india:true},f.india],["Good fit for me",{fit:"good"},f.fit==="good"]];
   var pk=h("div",{class:"picks",role:"group","aria-label":"Quick filters"},h("span",{class:"lbl",text:"Quick picks"}));
   presets.forEach(function(pr){pk.appendChild(h("button",{class:"chip soft",type:"button","aria-pressed":pr[2]?"true":"false",
     onclick:function(){var patch={};Object.keys(pr[1]).forEach(function(k){patch[k]=pr[2]?A.DEFAULT_FILTERS[k]:pr[1][k];});if(pr[0]==="Good fit for me"&&!A.profileSet()&&!pr[2]){A.toast("Fill in your profile above first");var d=document.querySelector("details.profile");if(d)d.open=true;return;}setF(patch);},text:pr[0]}));});
@@ -142,6 +151,7 @@ function paintControls(){
   g.appendChild(h("label",null,"Duration",opt(h("select",{onchange:function(e){setF({dur:e.target.value});}}),[["all","Any length"],["12","12 months or less"],["18","18 months or less"],["24","Up to 24 months"]],f.dur)));
   g.appendChild(h("label",null,"GMAT / GRE",opt(h("select",{onchange:function(e){setF({tests:e.target.value});}}),[["all","Any"],["none","Not needed or optional"],["req","Needed"]],f.tests)));
   g.appendChild(h("label",null,"English bar I can meet",opt(h("select",{onchange:function(e){setF({ielts:e.target.value});}}),[["all","Any"],["6","IELTS 6.0"],["6.5","IELTS 6.5"],["7","IELTS 7.0"],["7.5","IELTS 7.5"]],f.ielts)));
+  g.appendChild(h("label",null,"Career support",opt(h("select",{onchange:function(e){setF({career:e.target.value});}}),[["all","Any"],["strong","Strong career network"],["good","Good or strong"]],f.career)));
   g.appendChild(h("label",null,"Fit with my profile",opt(h("select",{onchange:function(e){setF({fit:e.target.value});}}),[["all","Show all"],["ok","Hide hard to qualify"],["good","Good fit only"]],f.fit)));
   g.appendChild(h("label",null,"Budget",opt(h("select",{onchange:function(e){setF({budget:e.target.value});}}),[["all","Any"],["within","Within budget"],["over","Over budget"]],f.budget)));
   g.appendChild(chk("Tuition-free","free"));g.appendChild(chk("Funding for Indians","india"));g.appendChild(chk("Strong PR route (8+)","pr"));
@@ -182,8 +192,13 @@ function paintProfile(){
   g.appendChild(h("label",null,"Best IELTS band",h("input",{type:"number",min:"4",max:"9",step:"0.5",placeholder:"e.g. 6.5",value:P.ielts,oninput:function(e){P.ielts=e.target.value;save();}})));
   g.appendChild(h("label",null,"GMAT / GRE",opt(h("select",{onchange:function(e){P.tests=e.target.value;save();}}),[["","Not set"],["have","I have a score"],["willing","I will take it"],["no","I will not take it"]],P.tests)));
   d.appendChild(g);
+  d.appendChild(h("p",{class:"small",style:"margin:14px 0 6px;font-weight:600;color:var(--ink)",text:"Your background: highlight programmes that value"}));
+  var bgr=h("div",{class:"row"});
+  [["mba","MBA"],["iitm","IIT Madras BS Data Science"],["sap","SAP experience"],["work","2 years of work experience"]].forEach(function(x){
+    bgr.appendChild(h("label",{class:"chk",style:"display:flex;gap:8px;align-items:center;font-size:13px"},h("input",{type:"checkbox",checked:P[x[0]]?true:null,onchange:function(e){P[x[0]]=e.target.checked;A.save("profile");paintTree();}}),x[1]));});
+  d.appendChild(bgr);
   d.appendChild(h("div",{class:"row mt"},
-    h("button",{class:"btn",type:"button",onclick:function(){S.profile={years:"",pct:"",exp:"",ielts:"",tests:""};A.save("profile");paintProfile();paintTree();},text:"Clear profile"}),
+    h("button",{class:"btn",type:"button",onclick:function(){S.profile={years:"",pct:"",exp:"",ielts:"",tests:"",mba:true,iitm:true,sap:true,work:true};A.save("profile");paintProfile();paintTree();},text:"Reset profile"}),
     h("span",{class:"small",text:"Saved only in this browser. It flags programmes you may struggle to qualify for. It cannot predict an admission decision."})));
   profHost.replaceChildren(d);}
 
@@ -226,9 +241,9 @@ A.views.explore=function(params,animate){
 /* CSV of the filtered list */
 function downloadCsv(){
   var cols=["rank","continent","country","university","program","months","mode","tuition","living","costLakh","withinBudget","testNeed","rel","emp","imm","pr","aff","adm","dur","weighted","visaNote","admission","intake","status"];
-  var rows=[cols.concat(["yourScore","universityLink","programLink","nextDeadline"]).join(",")];
+  var rows=[cols.concat(["yourScore","universityLink","programLink","nextDeadline","careerNetwork","backgroundFit"]).join(",")];
   A.filtered().sort(A.sorters.score).forEach(function(p){var nd=A.nextDeadline(p);
-    rows.push(cols.map(function(c){return A.csvCell(p[c]);}).concat([A.csvCell(A.score(p).toFixed(2)),A.csvCell(p.links.university),A.csvCell(p.links.program),A.csvCell(nd?nd.iso:"")]).join(","));});
+    rows.push(cols.map(function(c){return A.csvCell(p[c]);}).concat([A.csvCell(A.score(p).toFixed(2)),A.csvCell(p.links.university),A.csvCell(p.links.program),A.csvCell(nd?nd.iso:""),A.csvCell(A.CAREER_TXT[A.career(p).l]),A.csvCell(A.BGCHIP[A.bgFit(p).level]||"")]).join(","));});
   A.saveFile("masters-atlas.csv",rows.join("\n"),"text/csv");A.toast("CSV downloaded");}
 A.downloadCsv=downloadCsv;
 })();

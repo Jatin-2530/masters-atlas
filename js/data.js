@@ -4,21 +4,21 @@
 var A=window.A;
 
 A.state={};
-var DEFAULT_FILTERS={q:"",cont:"All",country:"All",budget:"all",verify:"all",sort:"score",view:"tree",dur:"all",tests:"all",free:false,india:false,conf:false,fit:"all",ielts:"all",pr:false,short:false};
+var DEFAULT_FILTERS={q:"",cont:"All",country:"All",budget:"all",verify:"all",sort:"score",view:"tree",dur:"all",tests:"all",free:false,india:false,conf:false,fit:"all",ielts:"all",pr:false,short:false,career:"all",bg:false};
 A.DEFAULT_FILTERS=DEFAULT_FILTERS;
 
 function jget(u){return fetch(u).then(function(r){if(!r.ok)throw new Error(u);return r.json();});}
 
 A.load=function(){
-  return Promise.all([jget("data/programs.json"),jget("data/details.json").catch(function(){return {};}),jget("data/countries.json").catch(function(){return {};})]).then(function(a){
-    A.DATA=a[0];A.DET=a[1]||{};A.CTRY=a[2]||{};A.P=A.DATA.programs;
+  return Promise.all([jget("data/programs.json"),jget("data/details.json").catch(function(){return {};}),jget("data/countries.json").catch(function(){return {};}),jget("data/background.json").catch(function(){return {};})]).then(function(a){
+    A.DATA=a[0];A.DET=a[1]||{};A.CTRY=a[2]||{};A.BG=a[3]||{};A.P=A.DATA.programs;
     A.byId={};A.P.forEach(function(p){A.byId[p.id]=p;});
     A.WDEF=Object.assign({},A.DATA.meta.weights);A.LABEL=A.DATA.meta.weightLabels;
     var S=A.state;
     S.W=Object.assign({},A.WDEF);
     var sw=A.store.get("weights",null)||(function(){try{return JSON.parse(A.store.raw("atlas-weights")||"null");}catch(e){return null;}})();
     if(sw)Object.keys(A.WDEF).forEach(function(k){if(typeof sw[k]==="number")S.W[k]=sw[k];});
-    S.profile=A.store.get("profile",{years:"",pct:"",exp:"",ielts:"",tests:""});
+    S.profile=Object.assign({years:"",pct:"",exp:"",ielts:"",tests:"",mba:true,iitm:true,sap:true,work:true},A.store.get("profile",{}));
     S.short=A.store.get("short",[]).filter(function(id){return A.byId[id];});
     S.cmp=A.store.get("cmp",[]).filter(function(id){return A.byId[id];});
     S.track=A.store.get("track",{});
@@ -45,6 +45,7 @@ A.conf=function(p){var d=A.DET[p.id];return d?d.confidence:"partial";};
 
 /* profile and fit */
 A.profileSet=function(){var P=A.state.profile;return !!(P.years||P.pct||P.exp||P.ielts||P.tests);};
+A.bgPicked=function(){var P=A.state.profile,o=[];if(P.mba)o.push("mba");if(P.iitm)o.push("iitm");if(P.sap)o.push("sap");if(P.work)o.push("workex");return o;};
 var TEST_LABEL={required:"GMAT or GRE required",either:"A test is needed (GMAT/GRE or the school's own)",optional:"GMAT/GRE optional",none:"No GMAT/GRE found",unknown:"GMAT/GRE rule unclear"};
 A.TEST_LABEL=TEST_LABEL;
 A.fit=function(p){
@@ -84,6 +85,9 @@ A.filtered=function(){
     if(F.pr&&p.pr<8)return false;
     if(F.short&&S.short.indexOf(p.id)<0)return false;
     if(F.ielts!=="all"&&!(D&&D.ieltsMin&&D.ieltsMin<=+F.ielts))return false;
+    if(F.career==="strong"&&A.career(p).l!=="strong")return false;
+    if(F.career==="good"&&A.career(p).l!=="strong"&&A.career(p).l!=="good")return false;
+    if(F.bg&&A.bgFit(p).level!=="strong"&&A.bgFit(p).level!=="good")return false;
     if(F.fit==="good"&&A.fit(p).level!=="good")return false;
     if(F.fit==="ok"&&A.fit(p).level==="block")return false;
     if(q&&(p.university+" "+p.program+" "+p.country).toLowerCase().indexOf(q)<0)return false;
@@ -94,9 +98,11 @@ A.sorters={
   costDesc:function(a,b){return b.costLakh-a.costLakh;},
   months:function(a,b){return a.months-b.months||a.costLakh-b.costLakh;},
   name:function(a,b){return a.university.localeCompare(b.university);},
+  career:function(a,b){return A.careerRank(b)-A.careerRank(a)||A.score(b)-A.score(a);},
+  bg:function(a,b){return A.bgFit(b).points-A.bgFit(a).points||A.score(b)-A.score(a);},
   deadline:function(a,b){var x=A.nextDeadline(a),y=A.nextDeadline(b);return (x?x.iso:"9999")<(y?y.iso:"9999")?-1:1;}
 };
-A.SORTLABEL={score:"Best score",cost:"Lowest cost",costDesc:"Highest cost",months:"Shortest",name:"University A to Z",deadline:"Next deadline"};
+A.SORTLABEL={score:"Best score",cost:"Lowest cost",costDesc:"Highest cost",months:"Shortest",name:"University A to Z",deadline:"Next deadline",career:"Career outcomes",bg:"Fit with my background"};
 
 /* deadlines */
 A.nextDeadline=function(p){var D=A.DET[p.id];if(!D||!D.dates)return null;
@@ -152,4 +158,24 @@ A.cmpToggle=function(id){var S=A.state,i=S.cmp.indexOf(id);
   if(i>=0)S.cmp.splice(i,1);else{if(S.cmp.length>=4){A.toast("Compare up to 4 programmes. Remove one first.");return false;}S.cmp.push(id);A.toast("Added to compare ("+S.cmp.length+" of 4)");}
   A.save("cmp");A.refreshNav();return true;};
 A.STATUS={researching:"Researching",preparing:"Preparing documents",applied:"Applied",offer:"Offer received",rejected:"Rejected",dropped:"Not applying"};
+
+/* background fit (MBA, IIT Madras BS Data Science, SAP experience, ~2 years of work experience) and career outcomes */
+A.BGLABEL={mba:"MBA",iitm:"IIT Madras BS Data Science",sap:"SAP experience",workex:"2 years of work experience"};
+A.LEVEL_TXT={strong:"Strong fit",ok:"Fits",ask:"Check first",none:"Neutral",risk:"Risk"};
+A.bg=function(p){return (A.BG&&A.BG[p.id])||null;};
+A.career=function(p){var b=A.bg(p);return b?b.career:{l:"basic",s:"",n:"",u:""};};
+A.careerRank=function(p){var l=A.career(p).l;return l==="strong"?3:l==="good"?2:l==="basic"?1:0;};
+A.CAREER_TXT={strong:"Strong career network",good:"Good career support",basic:"Basic career service",limited:"No placement support"};
+A.bgFit=function(p){
+  var b=A.bg(p),picked=A.bgPicked(),pts={strong:2,ok:1,ask:0,none:0,risk:-2},points=0,st=0,ok=0,rk=0,ak=0,items=[];
+  if(!b)return {level:"none",points:0,items:[],picked:picked.length};
+  picked.forEach(function(k){var x=b[k];points+=pts[x.l];if(x.l==="strong")st++;else if(x.l==="ok")ok++;else if(x.l==="risk")rk++;else if(x.l==="ask")ak++;items.push({k:k,l:x.l,n:x.n,ev:x.ev});});
+  var level="none";
+  if(!picked.length)level="none";
+  else if(rk===0&&st>=2)level="strong";
+  else if(rk===0&&st>=1&&st+ok>=2)level="good";
+  else if(rk>0&&st>=1)level="mixed";
+  else if(rk>0)level="risk";
+  return {level:level,points:points,strong:st,ok:ok,risk:rk,ask:ak,items:items,picked:picked.length};};
+A.BGCHIP={strong:"Strong fit for you",good:"Good fit for you",mixed:"Mixed fit",risk:"Background risk"};
 })();

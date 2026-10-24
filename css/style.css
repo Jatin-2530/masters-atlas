@@ -391,3 +391,20 @@ abbr.gl{text-decoration:underline dotted var(--muted);text-underline-offset:3px;
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 #app:focus{outline:none}
 h1[tabindex="-1"]:focus{outline:none}
+
+/* background and career highlights */
+.fit.gold{background:var(--gold-tint);color:var(--gold);box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--gold) 45%,transparent)}
+.fit.gold.strong{background:var(--gold);color:var(--bg);box-shadow:none}
+.fit.gold.mixed,.fit.gold.risk{background:var(--warn-tint);color:var(--warn);box-shadow:none}
+.mini-t.gold{background:var(--gold-tint);border-color:transparent;color:var(--gold);font-weight:600}
+.prow.hl::before{transform:scaleY(1);background:var(--gold)}
+.prow.hl{background:linear-gradient(90deg,var(--gold-tint),transparent 40%)}
+.bgrows{display:grid;gap:8px;margin:8px 0 0}
+.bgr{display:grid;grid-template-columns:130px minmax(0,1fr);gap:4px 12px;padding:8px 10px;border-radius:10px;border:1px solid var(--line);background:var(--surface)}
+.bgr.on{border-color:var(--gold)}
+.bgr b{font-size:13px}.bgr .lv{display:inline-block;font:600 11px var(--f-body);padding:1px 8px;border-radius:999px;margin-top:3px}
+.lv.strong{background:var(--good-tint);color:var(--good)}.lv.ok{background:var(--accent-tint);color:var(--accent)}.lv.none{background:var(--bg);color:var(--muted)}.lv.risk{background:var(--bad-tint);color:var(--bad)}
+.bgr p{margin:0;font-size:13px}.bgr .ev{font-size:11px;color:var(--muted)}
+.career-box .big{font:500 18px var(--f-data);margin:0 0 6px}
+@media (max-width:720px){.bgr{grid-template-columns:1fr}}
+.lv.ask{background:var(--warn-tint);color:var(--warn)}

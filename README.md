@@ -12,6 +12,8 @@ Features: profile-based fit check (degree length, marks, IELTS, GMAT/GRE plans, 
 - `data/programs.json`: the 100 programmes the page reads (cost, scores, links). Edit this file and the page updates.
 - `data/details.json`: per-programme depth keyed by id (`p1` to `p100`): admission process, documents, deadlines, tests, notes for Indian applicants, scholarships, a confidence flag and a list of what was not confirmed.
 - `data/countries.json`: one guide per country (degree checks, 3-year degree rules, visa and funds, after-study stay, English norms, country-level funding).
+- `data/background.json`: per programme, how it treats an MBA, the IIT Madras BS in Data Science, SAP experience and about 2 years of work experience, plus career outcomes and campus career network. Each flag is tagged `documented` (stated on an official page) or `inferred`.
+- `tools/build_background.py`: builds `background.json` from readable rule tables. Edit the rules or the career table there and re-run it.
 - `tools/augment.py`: derives `testNeed`, `threeYear`, `tuitionFree`, `indiaFunding`, `ieltsMin` and parsed deadline dates from the details. Re-run it after editing details.
 - `data/programs.csv`: the programme rows for Excel or Sheets. Regenerate it from the JSON after any edit.
 

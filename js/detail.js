@@ -43,6 +43,8 @@ A.views.detail=function(p){
 
   /* quick facts + summary */
   var pills=h("div",{class:"pills"});A.facts(p).forEach(function(f){pills.appendChild(h("span",{class:"pill "+f.c,text:f.t}));});
+  if(A.career(p).l==="strong")pills.appendChild(h("span",{class:"pill g",text:"Strong career network"}));
+  if(A.bgFit(p).level==="strong"||A.bgFit(p).level==="good")pills.appendChild(h("span",{class:"pill g",text:A.BGCHIP[A.bgFit(p).level]}));
   root.appendChild(pills);
   root.appendChild(h("p",{class:"tldr",text:A.summary(p)}));
 
@@ -62,6 +64,19 @@ A.views.detail=function(p){
   if(!A.profileSet())fitBox.appendChild(h("p",{class:"note",style:"margin:0"},"Add your degree length, marks, IELTS and test plans on ",h("a",{href:"#/explore",text:"Explore"})," to see a full fit check."));
   var wo=A.watchouts(p);if(wo.length){fitBox.appendChild(h("p",{class:"note",style:"margin:10px 0 4px;font-weight:600",text:"Watch-outs"}));var u=bullets(wo);u.classList.add("watch");fitBox.appendChild(u);}
   left.appendChild(fitBox);
+  /* background fit */
+  var bf=A.bgFit(p),B=A.bg(p),picked=A.bgPicked();
+  if(B){
+    var bp=h("section",{class:"panel"},h("h3",{text:"How this fits your background"}));
+    if(bf.level!=="none")bp.appendChild(h("p",{style:"margin:0 0 4px"},A.bgChip(p),h("span",{class:"small",style:"margin-left:8px",text:bf.strong+" strong, "+bf.ok+" fits, "+bf.ask+" to check, "+bf.risk+" risks across your "+bf.picked+" ticked points"})));
+    var rows=h("div",{class:"bgrows"});
+    ["workex","mba","iitm","sap"].forEach(function(k){var x=B[k],on=picked.indexOf(k)>=0;
+      rows.appendChild(h("div",{class:"bgr"+(on?" on":"")},h("div",null,h("b",{text:A.BGLABEL[k]}),h("br"),h("span",{class:"lv "+x.l,text:A.LEVEL_TXT[x.l]})),
+        h("div",null,h("p",null,A.gl(x.n)),h("span",{class:"ev",text:x.ev==="documented"?"Stated on an official page":"My inference from the programme's audience or prerequisites"}))));});
+    bp.appendChild(rows);
+    bp.appendChild(h("p",{class:"note",style:"margin:10px 0 0",text:"Highlighted rows are the ones you ticked in your profile on Explore."}));
+    left.appendChild(bp);
+  }
 
   /* scores */
   var bars=h("section",{class:"panel"},h("h3",{text:"Scores"}));
@@ -95,6 +110,14 @@ A.views.detail=function(p){
     h("p",{class:"note",text:"Total includes living cost for the whole programme, insurance and visa fees, and a one-off INR 2.0 to 2.5 lakh setup allowance. Fees are 2026/27 or 2027/28, not inflated to 2029. "+A.DATA.meta.fx})));
 
   /* right column */
+  var Cr=A.career(p);
+  var cp=h("section",{class:"panel career-box"},h("h3",{text:"Career outcomes and campus network"}),
+    h("span",{class:"fit gold "+(Cr.l==="strong"?"strong":""),style:"margin-bottom:8px",text:A.CAREER_TXT[Cr.l]||"Basic career service"}));
+  cp.appendChild(h("p",{style:"margin:8px 0 4px;font-weight:600",text:Cr.s||"No programme-level figures found."}));
+  if(Cr.n)cp.appendChild(h("p",{class:"small",style:"margin:0 0 6px",text:Cr.n}));
+  if(Cr.u)cp.appendChild(h("a",{href:Cr.u,target:"_blank",rel:"noopener noreferrer",text:"Source",style:"font-size:13px"}));
+  cp.appendChild(h("p",{class:"note",style:"margin:8px 0 0",text:"Figures are published by the schools and are self-reported. Definitions of 'employed', timing and response rates differ between schools, so compare with care."}));
+  right.appendChild(cp);
   var T2=track(p.id);
   var tr=h("section",{class:"panel"},h("h3",{text:"My tracker"}));
   var sel=h("select",{class:"status-sel","aria-label":"Application status",onchange:function(e){T2.st=e.target.value;A.save("track");}});
