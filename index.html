@@ -1,0 +1,414 @@
+<title>Masters Atlas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one working page. Controls on top, a continent > country > university tree below, and a detail page per programme opened by hash (#p12). */
+:root{
+  --bg:#EDF1F3; --surface:#FFFFFF; --ink:#12202A; --muted:#566772; --line:#D3DDE2;
+  --accent:#0B6B73; --accent-ink:#FFFFFF; --accent-tint:#DDEFF0;
+  --good:#1D7448; --good-tint:#DCF0E4; --warn:#8F5B00; --warn-tint:#F8EBCF; --bad:#A93329; --bad-tint:#F6DDDA;
+  --f-display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --f-body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
+  --f-data:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0D151A; --surface:#15212A; --ink:#E5EDF1; --muted:#90A3AE; --line:#263640;
+  --accent:#55C2CA; --accent-ink:#06262A; --accent-tint:#133238;
+  --good:#6FD39B; --good-tint:#15342A; --warn:#E9B64E; --warn-tint:#3A2E12; --bad:#F08A80; --bad-tint:#3B1E1B; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0D151A; --surface:#15212A; --ink:#E5EDF1; --muted:#90A3AE; --line:#263640;
+  --accent:#55C2CA; --accent-ink:#06262A; --accent-tint:#133238;
+  --good:#6FD39B; --good-tint:#15342A; --warn:#E9B64E; --warn-tint:#3A2E12; --bad:#F08A80; --bad-tint:#3B1E1B; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body);padding-block:20px 56px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1040px;margin:0 auto}
+a{color:var(--accent)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance;line-height:1.15}
+.top{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:flex-end;justify-content:space-between;margin-bottom:16px}
+.top h1{font-size:30px;font-weight:700;letter-spacing:-.01em}
+.top p{margin:4px 0 0;color:var(--muted);max-width:60ch}
+.mono{font-family:var(--f-data);font-variant-numeric:tabular-nums}
+.btn{font:500 13px var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:8px 12px;border-radius:6px;cursor:pointer}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.btn[disabled]{opacity:.5;cursor:default}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px}
+.controls{display:grid;grid-template-columns:minmax(0,2fr) repeat(3,minmax(0,1fr));gap:10px;margin-bottom:10px}
+.controls label{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--muted);min-width:0}
+input[type=search],input[type=text],input[type=url],select,textarea{font:400 14px var(--f-body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px 10px;width:100%;min-width:0}
+textarea{resize:vertical;min-height:72px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px}
+.chip{font:500 13px var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:6px 11px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.chip .n{font-family:var(--f-data);opacity:.75;margin-left:5px;font-size:12px}
+details.weights{margin-bottom:18px}
+details.weights summary{cursor:pointer;font-weight:600;padding:2px 0}
+.wgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px 18px;margin-top:12px}
+.wgrid label{display:grid;grid-template-columns:1fr auto;gap:2px 8px;font-size:13px}
+.wgrid input[type=range]{grid-column:1/-1;width:100%;accent-color:var(--accent)}
+.note{font-size:12px;color:var(--muted)}
+.summary{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px;color:var(--muted);margin:0 0 14px}
+.summary b{color:var(--ink);font-family:var(--f-data);font-weight:500}
+.cont{margin-top:26px}
+.cont>h2{font-size:22px;display:flex;align-items:baseline;gap:10px;padding-bottom:6px;border-bottom:2px solid var(--ink)}
+.cont>h2 small{font:400 13px var(--f-data);color:var(--muted)}
+.country{margin-top:16px}
+.country>h3{font-size:16px;display:flex;align-items:baseline;gap:8px;margin-bottom:6px}
+.country>h3 small{font:400 12px var(--f-data);color:var(--muted)}
+.uni{background:var(--surface);border:1px solid var(--line);border-radius:8px;margin-bottom:8px;overflow:hidden}
+.uni>.un{padding:8px 14px;font-weight:600;font-size:14px;border-bottom:1px solid var(--line);background:var(--bg)}
+.prow{display:grid;grid-template-columns:minmax(0,1fr) 92px 74px 62px;gap:4px 12px;align-items:center;padding:10px 14px;border-top:1px solid var(--line);color:inherit;text-decoration:none}
+.uni>.un+.prow{border-top:0}
+.prow:hover{background:var(--accent-tint)}
+.prow .pn{font-weight:500;min-width:0}
+.prow .pn span{display:block;font-size:12px;color:var(--muted);font-weight:400}
+.cost{font:500 13px var(--f-data);text-align:right}
+.badge{font:500 11px var(--f-body);padding:3px 7px;border-radius:4px;text-align:center;white-space:nowrap}
+.b-yes{background:var(--good-tint);color:var(--good)}
+.b-edge{background:var(--warn-tint);color:var(--warn)}
+.b-no{background:var(--bad-tint);color:var(--bad)}
+.score{font:500 14px var(--f-data);text-align:center;border-radius:4px;padding:4px 0}
+.s-hi{background:var(--good-tint);color:var(--good)}
+.s-mid{background:var(--warn-tint);color:var(--warn)}
+.s-lo{background:var(--bad-tint);color:var(--bad)}
+.empty{padding:28px;text-align:center;color:var(--muted)}
+/* detail */
+.crumb{font-size:13px;color:var(--muted);margin-bottom:10px;display:flex;flex-wrap:wrap;gap:4px 8px}
+.dgrid{display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:16px;margin-top:14px}
+.dgrid>*{min-width:0}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:14px 0}
+.fact{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;min-width:0}
+.fact dt{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.fact dd{margin:3px 0 0;font:500 14px var(--f-data);overflow-wrap:anywhere}
+.panel h3{font-size:16px;margin-bottom:8px}
+.panel p{margin:0 0 8px}
+.bar{display:grid;grid-template-columns:120px minmax(0,1fr) 46px;gap:10px;align-items:center;font-size:13px;margin:7px 0}
+.bar i{display:block;height:8px;border-radius:4px;background:var(--line);position:relative;overflow:hidden}
+.bar i b{position:absolute;inset:0 auto 0 0;background:var(--accent);border-radius:4px}
+.bar .v{font-family:var(--f-data);text-align:right}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.links a{font:500 13px var(--f-body);text-decoration:none;border:1px solid var(--line);border-radius:6px;padding:8px 12px;background:var(--surface)}
+.links a:hover{border-color:var(--accent)}
+ul.src{margin:6px 0 0;padding-left:18px;font-size:13px;overflow-wrap:anywhere}
+.cm{border-top:1px solid var(--line);padding:10px 0}
+.cm:first-child{border-top:0}
+.cm .meta{font-size:12px;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.cm p{margin:4px 0 0;white-space:pre-wrap;overflow-wrap:anywhere}
+.cm .vid{display:inline-block;margin-top:6px;font-size:13px;overflow-wrap:anywhere}
+.cm .del{margin-left:auto;font-size:12px;border:0;background:none;color:var(--bad);cursor:pointer;padding:2px 4px}
+.form{display:grid;gap:8px;margin-top:10px}
+.err{color:var(--bad);font-size:13px;min-height:1.2em}
+@media (max-width:720px){
+  .controls{grid-template-columns:1fr 1fr}.controls label:first-child{grid-column:1/-1}
+  .dgrid{grid-template-columns:1fr}
+  .prow{grid-template-columns:minmax(0,1fr) auto auto}
+  .prow .badge{grid-column:2}
+  .prow .cost{grid-column:1;text-align:left}
+  .prow .score{grid-column:3;grid-row:1/3;align-self:center;padding:4px 8px}
+  .bar{grid-template-columns:96px minmax(0,1fr) 40px}
+  .top h1{font-size:26px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<div class="wrap" id="app" aria-live="polite"><div class="empty">Loading programmes...</div></div>
+
+<script>
+(function(){
+"use strict";
+var DATA=null, W={}, WDEF={}, LABEL={}, S={q:"",cont:"All",country:"All",budget:"all",verify:"all",sort:"score"};
+var dbRef=null, userRef=null, commentsByPid={}, unsub=null, canWrite=null, myId=null, names={}, isOwner=false;
+var app=document.getElementById("app");
+
+function h(tag,attrs){var e=document.createElement(tag);
+  if(attrs)for(var k in attrs){var v=attrs[k];if(v==null||v===false)continue;
+    if(k==="class")e.className=v;else if(k==="text")e.textContent=v;
+    else if(k.slice(0,2)==="on")e.addEventListener(k.slice(2),v);else e.setAttribute(k,v===true?"":v);}
+  for(var i=2;i<arguments.length;i++){var c=arguments[i];if(c==null||c===false)continue;
+    e.appendChild(typeof c==="string"?document.createTextNode(c):c);}
+  return e;}
+function safeGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+function safeSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+
+function score(p){var t=0,s=0;for(var k in W){t+=W[k]*p[k];s+=W[k];}return s?t/s:0;}
+function band(x){return x>=7.5?"s-hi":x>=6.5?"s-mid":"s-lo";}
+function money(l){return "INR "+l.toFixed(1)+" L";}
+function budgetBadge(p){
+  if(p.costLakh>60)return h("span",{class:"badge b-no",text:"Over cap"});
+  if(p.costLakh>=54)return h("span",{class:"badge b-edge",text:"Near cap"});
+  return h("span",{class:"badge b-yes",text:"Within cap"});}
+function vclass(st){
+  if(/^Unverified|^Conflicting/.test(st))return "b-no";
+  if(/artly|caution|Conflicting|unverified/.test(st))return "b-edge";
+  return "b-yes";}
+
+function filtered(){
+  var q=S.q.trim().toLowerCase();
+  return DATA.programs.filter(function(p){
+    if(S.cont!=="All"&&p.continent!==S.cont)return false;
+    if(S.country!=="All"&&p.country!==S.country)return false;
+    if(S.budget==="within"&&p.costLakh>60)return false;
+    if(S.budget==="over"&&p.costLakh<=60)return false;
+    if(S.verify==="ok"&&vclass(p.status)==="b-no")return false;
+    if(q&&(p.university+" "+p.program+" "+p.country).toLowerCase().indexOf(q)<0)return false;
+    return true;});}
+
+function groupTree(list){
+  var conts={};
+  list.forEach(function(p){
+    var c=conts[p.continent]=conts[p.continent]||{};
+    var k=c[p.country]=c[p.country]||{};
+    (k[p.university]=k[p.university]||[]).push(p);});
+  return conts;}
+
+function render(){
+  var route=location.hash.replace("#","");
+  if(unsub){unsub();unsub=null;}
+  var m=/^p(\d+)$/.exec(route);
+  if(m){var p=DATA.programs.filter(function(x){return x.id===route})[0];if(p){renderDetail(p);window.scrollTo(0,0);return;}}
+  renderList();}
+
+function setS(k,v){S[k]=v;if(k==="cont"){S.country="All";}renderList();}
+
+function renderList(){
+  var all=DATA.programs, list=filtered();
+  var contCounts={All:all.length};all.forEach(function(p){contCounts[p.continent]=(contCounts[p.continent]||0)+1;});
+  var countries=[];all.forEach(function(p){if((S.cont==="All"||p.continent===S.cont)&&countries.indexOf(p.country)<0)countries.push(p.country);});
+  countries.sort();
+
+  var root=h("div");
+  var dl=h("button",{class:"btn",id:"dl-btn",onclick:downloadCsv,text:"Download CSV"});
+  root.appendChild(h("div",{class:"top"},
+    h("div",null,h("h1",{text:"Masters Atlas"}),
+      h("p",{text:"50 analytics, AI and technology-management master's programmes scored for an Indian applicant with an INR 60 lakh cap. Data as of "+DATA.meta.updated+"."})),
+    h("div",null,dl)));
+
+  var ctrl=h("div",{class:"controls panel"});
+  var qi=h("input",{type:"search",id:"q",placeholder:"University, programme or country",value:S.q,oninput:function(e){S.q=e.target.value;rerenderTree();}});
+  ctrl.appendChild(h("label",null,"Search",qi));
+  var cs=h("select",{id:"f-country",onchange:function(e){setS("country",e.target.value);}},h("option",{value:"All",text:"All countries"}));
+  countries.forEach(function(c){var o=h("option",{value:c,text:c});if(c===S.country)o.selected=true;cs.appendChild(o);});
+  ctrl.appendChild(h("label",null,"Country",cs));
+  var bs=h("select",{id:"f-budget",onchange:function(e){setS("budget",e.target.value);}});
+  [["all","Any budget"],["within","Within INR 60 L"],["over","Over INR 60 L"]].forEach(function(o){var x=h("option",{value:o[0],text:o[1]});if(S.budget===o[0])x.selected=true;bs.appendChild(x);});
+  ctrl.appendChild(h("label",null,"Budget",bs));
+  var vs=h("select",{id:"f-verify",onchange:function(e){setS("verify",e.target.value);}});
+  [["all","All data quality"],["ok","Hide fully unverified"]].forEach(function(o){var x=h("option",{value:o[0],text:o[1]});if(S.verify===o[0])x.selected=true;vs.appendChild(x);});
+  ctrl.appendChild(h("label",null,"Data quality",vs));
+  root.appendChild(ctrl);
+
+  var chips=h("div",{class:"chips",role:"group","aria-label":"Continent"});
+  ["All","Europe","North America","Oceania","Asia"].forEach(function(c){
+    if(!contCounts[c])return;
+    chips.appendChild(h("button",{class:"chip","aria-pressed":S.cont===c?"true":"false",onclick:function(){setS("cont",c);}},c,h("span",{class:"n",text:String(contCounts[c])})));});
+  root.appendChild(chips);
+
+  var wd=h("details",{class:"weights panel"});
+  wd.appendChild(h("summary",{text:"Scoring weights (drag to re-rank)"}));
+  var g=h("div",{class:"wgrid"});
+  Object.keys(WDEF).forEach(function(k){
+    var val=h("span",{class:"mono",id:"wv-"+k,text:Math.round(W[k]*100)+"%"});
+    var r=h("input",{type:"range",id:"w-"+k,min:"0",max:"40",step:"1",value:String(Math.round(W[k]*100)),
+      oninput:function(e){W[k]=e.target.value/100;document.getElementById("wv-"+k).textContent=e.target.value+"%";saveW();rerenderTree();}});
+    g.appendChild(h("label",{for:"w-"+k},h("span",{text:LABEL[k]}),val,r));});
+  wd.appendChild(g);
+  var rb=h("button",{class:"btn",style:"margin-top:12px",onclick:function(){W=Object.assign({},WDEF);saveW();renderList();},text:"Reset to default weights"});
+  wd.appendChild(rb);
+  wd.appendChild(h("p",{class:"note",style:"margin-top:8px",text:"Each programme is scored 1 to 10 on seven parameters. The total is the weighted average. Weights are saved in this browser only."}));
+  root.appendChild(wd);
+
+  root.appendChild(h("div",{id:"tree"}));
+  root.appendChild(h("p",{class:"note",style:"margin-top:24px",text:DATA.meta.caveat+" Exchange rates: "+DATA.meta.fx}));
+  app.replaceChildren(root);
+  rerenderTree();
+  var csvOk=false;claude_use("downloads").then(function(d){csvOk=!!d;var b=document.getElementById("dl-btn");if(b&&!d)b.hidden=true;});
+}
+
+function rerenderTree(){
+  var host=document.getElementById("tree");if(!host)return;
+  var list=filtered();
+  var frag=h("div");
+  var sum=h("p",{class:"summary"});
+  var within=list.filter(function(p){return p.costLakh<=60}).length;
+  var best=list.slice().sort(function(a,b){return score(b)-score(a)})[0];
+  sum.appendChild(h("span",null,"Showing ",h("b",{text:String(list.length)})," of "+DATA.programs.length));
+  sum.appendChild(h("span",null,"Within cap ",h("b",{text:String(within)})));
+  if(best)sum.appendChild(h("span",null,"Top score ",h("b",{text:score(best).toFixed(2)})," "+best.university));
+  frag.appendChild(sum);
+  if(!list.length){frag.appendChild(h("div",{class:"empty panel",text:"Nothing matches these filters. Clear the search or switch the budget filter."}));host.replaceChildren(frag);return;}
+  var tree=groupTree(list);
+  ["Europe","North America","Oceania","Asia"].forEach(function(cn){
+    if(!tree[cn])return;
+    var n=0;Object.keys(tree[cn]).forEach(function(c){Object.keys(tree[cn][c]).forEach(function(u){n+=tree[cn][c][u].length;});});
+    var sec=h("section",{class:"cont"},h("h2",null,cn,h("small",{text:n+" programmes"})));
+    var countries=Object.keys(tree[cn]).sort(function(a,b){return bestOf(tree[cn][b])-bestOf(tree[cn][a]);});
+    countries.forEach(function(c){
+      var cc=h("div",{class:"country"});
+      var cb=bestOf(tree[cn][c]);
+      cc.appendChild(h("h3",null,c,h("small",{text:"best "+cb.toFixed(2)})));
+      Object.keys(tree[cn][c]).sort(function(a,b){return ubest(tree[cn][c][b])-ubest(tree[cn][c][a]);}).forEach(function(u){
+        var box=h("div",{class:"uni"},h("div",{class:"un",text:u}));
+        tree[cn][c][u].slice().sort(sorter).forEach(function(p){
+          var s=score(p);
+          box.appendChild(h("a",{class:"prow",href:"#"+p.id},
+            h("div",{class:"pn"},p.program,h("span",{text:p.months+" months, "+p.mode})),
+            h("div",{class:"cost",text:money(p.costLakh)}),
+            budgetBadge(p),
+            h("div",{class:"score "+band(s),text:s.toFixed(2)})));});
+        cc.appendChild(box);});
+      sec.appendChild(cc);});
+    frag.appendChild(sec);});
+  host.replaceChildren(frag);
+}
+function sorter(a,b){return score(b)-score(a);}
+function ubest(arr){return Math.max.apply(null,arr.map(score));}
+function bestOf(unis){var m=0;Object.keys(unis).forEach(function(u){m=Math.max(m,ubest(unis[u]));});return m;}
+function saveW(){safeSet("atlas-weights",JSON.stringify(W));}
+
+/* detail page */
+function renderDetail(p){
+  var s=score(p);
+  var root=h("div");
+  root.appendChild(h("div",{class:"crumb"},
+    h("a",{href:"#",onclick:function(e){e.preventDefault();location.hash="";}},"All programmes"),
+    h("span",{text:"/"}),h("span",{text:p.continent}),h("span",{text:"/"}),h("span",{text:p.country}),h("span",{text:"/"}),h("span",{text:p.university})));
+  root.appendChild(h("h1",{style:"font-size:28px",text:p.program}));
+  root.appendChild(h("p",{style:"margin:4px 0 0;color:var(--muted)",text:p.university+", "+p.country}));
+
+  var f=h("dl",{class:"facts",style:"margin-inline:0"});
+  function fact(k,v,cls){f.appendChild(h("div",{class:"fact"},h("dt",{text:k}),h("dd",{text:v,class:cls||""})));}
+  fact("Your score",s.toFixed(2)+" / 10");
+  fact("Total cost",money(p.costLakh));
+  fact("Budget",p.costLakh>60?"Over INR 60 L":p.costLakh>=54?"Near INR 60 L cap":"Within INR 60 L");
+  fact("Duration",p.months+" months");
+  fact("Mode",p.mode);
+  fact("Rank in report","#"+p.rank);
+  root.appendChild(f);
+
+  var grid=h("div",{class:"dgrid"});
+  var left=h("div",{style:"display:grid;gap:16px;align-content:start"});
+  var right=h("div",{style:"display:grid;gap:16px;align-content:start"});
+
+  var bars=h("section",{class:"panel"},h("h3",{text:"Scores"}));
+  Object.keys(WDEF).forEach(function(k){
+    var b=h("i");b.appendChild(h("b",{style:"width:"+(p[k]*10)+"%"}));
+    bars.appendChild(h("div",{class:"bar"},h("span",{text:LABEL[k]}),b,h("span",{class:"v",text:p[k]+"/10"})));});
+  bars.appendChild(h("p",{class:"note",style:"margin-top:8px",text:"Scores are judgement-based on official fee pages, visa rules and programme fit. Weights on the main page change your total, not these ratings."}));
+  left.appendChild(bars);
+
+  left.appendChild(h("section",{class:"panel"},h("h3",{text:"Immigration and PR pathway"}),h("p",{text:p.visaNote})));
+  left.appendChild(h("section",{class:"panel"},h("h3",{text:"Admission"}),
+    h("p",{text:p.admission}),h("p",{class:"note",text:"Intake and deadline: "+p.intake})));
+  left.appendChild(h("section",{class:"panel"},h("h3",{text:"Cost build-up"}),
+    h("p",{text:"Tuition: "+p.tuition}),h("p",{text:"Living cost per year: "+p.living}),
+    h("p",{class:"note",text:"Total includes living cost for the whole programme, insurance and visa fees, and a one-off INR 2.0 to 2.5 lakh setup allowance. Fees are 2026/27 or 2027/28, not inflated to 2029. "+DATA.meta.fx})));
+
+  var st=h("section",{class:"panel"},h("h3",{text:"Data quality"}),
+    h("span",{class:"badge "+vclass(p.status),text:p.status}));
+  if(p.sourceUrls.length){var ul=h("ul",{class:"src"});p.sourceUrls.forEach(function(u){ul.appendChild(h("li",null,h("a",{href:u,target:"_blank",rel:"noopener noreferrer",text:u})));});st.appendChild(h("p",{class:"note",style:"margin-top:10px",text:"Sources used"}));st.appendChild(ul);}
+  else st.appendChild(h("p",{class:"note",style:"margin-top:10px",text:"No official page was retrieved for this row. Treat every figure as indicative and check the university site."}));
+  right.appendChild(st);
+
+  var lk=h("section",{class:"panel"},h("h3",{text:"Links"}));
+  var lw=h("div",{class:"links"});
+  lw.appendChild(h("a",{href:p.links.university,target:"_blank",rel:"noopener noreferrer",text:"University site"}));
+  if(p.links.program)lw.appendChild(h("a",{href:p.links.program,target:"_blank",rel:"noopener noreferrer",text:"Programme page"}));
+  lw.appendChild(h("a",{href:p.links.youtube,target:"_blank",rel:"noopener noreferrer",text:"Search YouTube"}));
+  lk.appendChild(lw);
+  lk.appendChild(h("p",{class:"note",style:"margin-top:8px",text:"The YouTube link is a search for this programme, not a vetted video. Add the videos you trust in the thread below."}));
+  right.appendChild(lk);
+
+  var cm=h("section",{class:"panel",id:"comments"},h("h3",{text:"Comments and videos"}),h("div",{id:"cm-list"},h("p",{class:"note",text:"Loading comments..."})),h("div",{id:"cm-form"}));
+  right.appendChild(cm);
+
+  grid.appendChild(left);grid.appendChild(right);
+  root.appendChild(grid);
+  app.replaceChildren(root);
+  startComments(p);
+}
+
+/* comments via db */
+function claude_use(n){return (window.claude&&window.claude.use?window.claude.use(n):Promise.resolve(null)).catch(function(){return null;});}
+function ytOk(u){return /^https:\/\/(www\.youtube\.com\/(watch\?|shorts\/|playlist\?)|youtu\.be\/)/.test(u);}
+function startComments(p){
+  var list=document.getElementById("cm-list"),form=document.getElementById("cm-form");
+  claude_use("db").then(function(db){
+    if(!db){list.replaceChildren(h("p",{class:"note",text:"Comments are not available in this view. Open the shared page while signed in to read and post."}));return;}
+    dbRef=db;
+    return claude_use("user").then(function(user){
+      userRef=user;
+      if(user){
+        if(user.id)user.id().then(function(i){myId=i;});
+        isOwner=user.isOwner?user.isOwner():false;
+        if(user.can)try{Promise.resolve(user.can("data.write")).then(function(v){canWrite=v;buildForm(p,form);});}catch(e){}
+      }
+      buildForm(p,form);
+      var q=db.collection("comments").where("pid","==",p.id).orderBy("ts","desc").limit(200);
+      unsub=q.onSnapshot(function(snap){
+        var docs=snap.docs.map(function(d){var x=d.data();x._id=d.id;return x;});
+        resolveNames(docs).then(function(){paintComments(list,docs,p);});
+      },function(e){list.replaceChildren(h("p",{class:"note",text:"Comments could not load ("+(e&&e.code||"error")+")."}));});
+    });
+  });
+}
+function resolveNames(docs){
+  var ids=[];docs.forEach(function(d){if(d.uid&&ids.indexOf(d.uid)<0)ids.push(d.uid);});
+  if(!userRef||!userRef.profiles||!ids.length)return Promise.resolve();
+  return userRef.profiles(ids).then(function(ps){ids.forEach(function(i){names[i]=(ps&&ps[i]&&ps[i].name)||"";});}).catch(function(){});}
+function paintComments(host,docs,p){
+  if(!docs.length){host.replaceChildren(h("p",{class:"note",text:"No comments yet. Share what you learned about fees, admission, visa timing or campus life for this programme."}));return;}
+  var frag=h("div");
+  docs.forEach(function(d){
+    var when=d.ts?new Date(d.ts).toLocaleDateString(undefined,{day:"numeric",month:"short",year:"numeric"}):"";
+    var meta=h("div",{class:"meta"},h("b",{text:names[d.uid]||"Someone"}),h("span",{text:when}));
+    if(d.uid===myId||isOwner){meta.appendChild(h("button",{class:"del",type:"button",text:"Delete",onclick:function(){
+      dbRef.doc("comments/"+d._id).delete().catch(function(){});}}));}
+    var c=h("div",{class:"cm"},meta);
+    if(d.text)c.appendChild(h("p",{text:d.text}));
+    if(d.video&&ytOk(d.video))c.appendChild(h("a",{class:"vid",href:d.video,target:"_blank",rel:"noopener noreferrer",text:"Video: "+(d.vtitle||d.video)}));
+    frag.appendChild(c);});
+  host.replaceChildren(frag);
+}
+function buildForm(p,host){
+  if(!dbRef){return;}
+  if(canWrite===false){host.replaceChildren(h("p",{class:"note",text:"You can read comments here. Posting needs contributor access to this page."}));return;}
+  var txt=h("textarea",{id:"cm-text",placeholder:"Comment on fees, admission, visa or outcomes",maxlength:"1200"});
+  var vt=h("input",{type:"text",id:"cm-vtitle",placeholder:"Video title (optional)",maxlength:"120"});
+  var vu=h("input",{type:"url",id:"cm-video",placeholder:"YouTube link (optional)"});
+  var err=h("div",{class:"err",id:"cm-err"});
+  var btn=h("button",{class:"btn primary",type:"submit",text:"Post"});
+  var fm=h("form",{class:"form",onsubmit:function(e){
+    e.preventDefault();err.textContent="";
+    var t=txt.value.trim(),v=vu.value.trim();
+    if(!t&&!v){err.textContent="Write a comment or add a YouTube link.";return;}
+    if(v&&!ytOk(v)){err.textContent="Use a full youtube.com or youtu.be link.";return;}
+    btn.disabled=true;
+    var doc={pid:p.id,text:t,ts:Date.now(),uid:myId||null};
+    if(v){doc.video=v;doc.vtitle=vt.value.trim();}
+    dbRef.collection("comments").add(doc).then(function(){txt.value="";vu.value="";vt.value="";btn.disabled=false;})
+      .catch(function(x){btn.disabled=false;err.textContent=(x&&x.code==="invalid_argument")?"You can read this thread but not post to it.":"Could not post. Try again in a moment.";});
+  }},txt,vt,vu,err,btn);
+  host.replaceChildren(fm);
+}
+
+/* CSV download */
+function csvCell(v){v=String(v==null?"":v);return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v;}
+function downloadCsv(){
+  var cols=["rank","continent","country","university","program","months","mode","tuition","living","costLakh","withinBudget","rel","emp","imm","pr","aff","adm","dur","weighted","visaNote","admission","intake","status"];
+  var rows=[cols.join(",")];
+  filtered().sort(sorter).forEach(function(p){rows.push(cols.map(function(c){return csvCell(p[c]);}).concat([csvCell(score(p).toFixed(2)),csvCell(p.links.university),csvCell(p.links.program),csvCell(p.links.youtube)]).join(","));});
+  rows[0]+=",yourScore,universityLink,programLink,youtubeSearch";
+  claude_use("downloads").then(function(d){if(d)d.save({filename:"masters-atlas.csv",data:rows.join("\n")}).catch(function(){});});
+}
+
+/* boot */
+fetch("data/programs.json").then(function(r){return r.json();}).then(function(j){
+  DATA=j;WDEF=Object.assign({},j.meta.weights);LABEL=j.meta.weightLabels;W=Object.assign({},WDEF);
+  try{var sv=JSON.parse(safeGet("atlas-weights")||"null");if(sv)Object.keys(WDEF).forEach(function(k){if(typeof sv[k]==="number")W[k]=sv[k];});}catch(e){}
+  window.addEventListener("hashchange",render);
+  render();
+}).catch(function(){app.replaceChildren(h("div",{class:"empty panel",text:"Could not load data/programs.json. Check that the data folder is published next to this page."}));});
+})();
+</script>
